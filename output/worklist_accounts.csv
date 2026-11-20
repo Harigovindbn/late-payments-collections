@@ -1,0 +1,255 @@
+priority_rank,customer_id,name,segment,billing_country,treatment,call_week,open_ar,overdue_usd,disputed_usd,oldest_dpd,risk,expected_at_risk,credit_limit,payment_terms_days,open_invoices,why
+1,C0049,Crescent Analytics Limited,SMB,IE,2 Escalate: credit hold + agency review,0,407488.01,369104.8,38383.21,242,0.999,407187.62,125000.0,30,20,paying 120 days later than a year ago; 242 days past due; at 326% of credit limit
+2,C0138,Pacific Retail DAC,Enterprise,IE,2 Escalate: credit hold + agency review,0,260553.99,241008.72,0.0,380,0.936,243882.6,56000.0,45,14,168 days past due; at 465% of credit limit; 9 broken promise(s) to pay
+3,C0047,Nova Construction LLC,Mid-market,AE,2 Escalate: credit hold + agency review,0,183931.76,162526.91,0.0,153,0.997,183296.29,80000.0,30,15,paying 120 days later than a year ago; 153 days past due; at 230% of credit limit
+4,C0134,Red Hospitality Pty Ltd,Enterprise,AU,2 Escalate: credit hold + agency review,0,182196.17,144412.75,0.0,243,0.999,182025.7,63000.0,60,20,paying 120 days later than a year ago; at 289% of credit limit; 8 broken promise(s) to pay
+5,C0185,Willow Media Pty Ltd,Mid-market,AU,2 Escalate: credit hold + agency review,0,160676.22,159240.45,0.0,334,1.0,160669.84,47000.0,30,25,paying 120 days later than a year ago; 304 days past due; at 342% of credit limit
+6,C0228,Nova Motors B.V.,SMB,NL,2 Escalate: credit hold + agency review,0,146126.26,121762.18,0.0,153,0.996,145594.7,49000.0,30,12,paying 120 days later than a year ago; at 298% of credit limit; 83% of balance overdue
+7,C0162,Titan Logistics B.V.,SMB,NL,2 Escalate: credit hold + agency review,0,127596.5,127596.5,0.0,198,0.999,127496.55,29000.0,15,14,paying 120 days later than a year ago; 107 days past due; at 440% of credit limit
+8,C0214,Quantum Energy Pty Ltd,Mid-market,AU,2 Escalate: credit hold + agency review,0,89334.69,71597.18,0.0,122,0.995,88886.31,29000.0,30,15,paying 114 days later than a year ago; at 308% of credit limit; 80% of balance overdue
+9,C0012,North Labs FZ-LLC,Enterprise,AE,3 Collector call,1,124810.42,72928.88,0.0,62,0.644,80387.36,106000.0,60,10,paying 31 days later than a year ago; 48% of invoices paid 30+ days late; 5 broken promise(s) to pay
+10,C0186,Willow Telecom DAC,SMB,IE,3 Collector call,1,134791.94,67395.97,0.0,30,0.518,69778.86,106000.0,30,6,69% of invoices paid 30+ days late; at 127% of credit limit; 50% of balance overdue
+11,C0146,Zenith Pharma DAC,Mid-market,IE,2 Escalate: credit hold + agency review,0,56282.82,50099.68,0.0,242,0.999,56232.33,15000.0,30,9,paying 120 days later than a year ago; 153 days past due; at 375% of credit limit
+12,C0011,Granite Education Pty Ltd,SMB,AU,2 Escalate: credit hold + agency review,0,50189.48,50189.48,937.23,122,0.999,50128.72,50000.0,30,6,122 days past due; paying 109 days later than a year ago; 100% of balance overdue
+13,C0269,Cedar Pharma Pty Ltd,Enterprise,AU,2 Escalate: credit hold,0,54092.84,32448.69,0.0,92,0.88,47588.96,39000.0,60,5,92 days past due; paying 51 days later than a year ago; 56% of invoices paid 30+ days late
+14,C0281,Summit Foods Pty Ltd,Enterprise,AU,3 Collector call,1,85964.94,27729.88,0.0,31,0.488,41908.37,98000.0,60,3,82% of invoices paid 30+ days late; at 88% of credit limit
+15,C0006,River Foods AG,Enterprise,DE,2 Escalate: credit hold + agency review,0,43361.04,28782.96,0.0,123,0.962,41718.81,26000.0,60,6,paying 118 days later than a year ago; at 167% of credit limit; 66% of balance overdue
+16,C0072,Pioneer Hospitality AG,Mid-market,DE,2 Escalate: credit hold,0,47377.48,35533.11,0.0,92,0.869,41162.95,29000.0,30,4,92 days past due; paying 86 days later than a year ago; at 163% of credit limit
+17,C0098,Coral Pharma AG,Mid-market,DE,2 Escalate: credit hold + agency review,0,39762.96,33135.8,0.0,138,0.983,39067.14,20000.0,45,6,paying 120 days later than a year ago; 107 days past due; at 199% of credit limit
+18,C0283,Emerald Motors B.V.,Enterprise,NL,3 Collector call,1,52530.01,30275.19,0.0,61,0.628,33013.52,47000.0,30,5,paying 31 days later than a year ago; 52% of invoices paid 30+ days late; 58% of balance overdue
+19,C0089,Coral Education B.V.,Enterprise,NL,3 Collector call,1,54754.91,18344.87,0.0,31,0.551,30175.34,50000.0,60,6,95% of invoices paid 30+ days late; at 110% of credit limit
+20,C0231,Orbit Analytics FZ-LLC,Mid-market,AE,1 Dispute desk,0,88245.05,44003.43,44003.43,46,0.319,28167.63,94000.0,45,4,paying 27 days later than a year ago; 50% of balance overdue; at 94% of credit limit
+21,C0121,Apex Motors FZE,Mid-market,AE,1 Dispute desk,0,61513.7,29606.87,29606.87,15,0.455,27991.54,90000.0,45,6,83% of invoices paid 30+ days late; open dispute: Over-charged (tax rate); 48% of balance overdue
+22,C0192,Apex Properties B.V.,Enterprise,NL,3 Collector call,1,57051.17,19015.59,0.0,31,0.434,24745.0,89000.0,60,6,75% of invoices paid 30+ days late; 5 broken promise(s) to pay
+23,C0287,Pioneer Energy AG,Mid-market,DE,4 Pre-due check,0,61298.84,30677.98,0.0,30,0.391,23986.19,76000.0,30,4,paying 24 days later than a year ago; 36% of invoices paid 30+ days late; 50% of balance overdue
+24,C0136,Iron Retail AG,Mid-market,DE,6 Standard reminder,0,60437.86,23789.44,0.0,15,0.391,23629.61,109000.0,45,3,39% of invoices paid 30+ days late; paying 20 days later than a year ago; 39% of balance overdue
+25,C0147,Summit Trading FZ-LLC,Enterprise,AE,4 Pre-due check,0,94707.24,31569.08,0.0,31,0.249,23620.83,117000.0,60,3,50% of invoices paid 30+ days late; at 81% of credit limit
+26,C0285,Union Analytics Limited,SMB,IE,3 Collector call,1,41633.36,27780.12,0.0,61,0.56,23302.02,34000.0,30,6,paying 53 days later than a year ago; 67% of balance overdue; at 122% of credit limit
+27,C0257,Iron Health Pty Ltd,Mid-market,AU,3 Collector call,1,51118.8,25559.4,0.0,30,0.438,22370.19,61000.0,30,4,paying 26 days later than a year ago; 50% of balance overdue; 33% of invoices paid 30+ days late
+28,C0030,Union Foods LLC,SMB,AE,4 Pre-due check,0,75748.72,37874.36,0.0,30,0.291,22040.73,83000.0,30,2,paying 21 days later than a year ago; 50% of balance overdue; at 91% of credit limit
+29,C0251,Delta Analytics Pty Ltd,SMB,AU,2 Escalate: credit hold + agency review,0,21802.6,21802.6,0.0,288,1.0,21799.53,5000.0,15,10,paying 120 days later than a year ago; 229 days past due; at 436% of credit limit
+30,C0213,Willow Insurance Limited,Mid-market,IE,3 Collector call,1,41897.42,27922.17,0.0,61,0.511,21426.27,34000.0,30,3,paying 28 days later than a year ago; 50% of invoices paid 30+ days late; 67% of balance overdue
+31,C0229,Pioneer Analytics Pty Ltd,SMB,AU,2 Escalate: credit hold + agency review,0,22268.95,17815.16,0.0,122,0.956,21289.84,27000.0,30,5,122 days past due; paying 113 days later than a year ago; 80% of balance overdue
+32,C0250,Orbit Systems FZ-LLC,Enterprise,AE,3 Collector call,1,49979.12,18195.22,0.0,15,0.425,21259.48,97000.0,45,3,8 broken promise(s) to pay; 41% of invoices paid 30+ days late; 36% of balance overdue
+33,C0085,Atlas Analytics Pty Ltd,Enterprise,AU,5 Firm automated reminder,0,55182.73,36375.28,0.0,46,0.382,21086.82,68000.0,45,5,69% of invoices paid 30+ days late; 66% of balance overdue; 3 broken promise(s) to pay
+34,C0258,Atlas Trading Limited,Mid-market,NZ,2 Escalate: credit hold,0,20839.03,20839.03,0.0,107,1.0,20832.72,62000.0,45,1,107 days past due; paying 87 days later than a year ago; 100% of balance overdue
+35,C0206,Harbour Energy LLC,Enterprise,AE,3 Collector call,1,37865.85,22738.21,8189.3,46,0.536,20290.21,36000.0,45,5,87% of invoices paid 30+ days late; 60% of balance overdue; at 105% of credit limit
+36,C0199,Titan Finance Ltd,Mid-market,NZ,6 Standard reminder,0,72887.47,36418.14,0.0,15,0.272,19813.82,90000.0,45,4,35% of invoices paid 30+ days late; 50% of balance overdue; 2 broken promise(s) to pay
+37,C0263,Zenith Health Ltd,Mid-market,NZ,3 Collector call,1,31958.43,21655.12,0.0,61,0.567,18117.5,26000.0,30,3,paying 32 days later than a year ago; 44% of invoices paid 30+ days late; 68% of balance overdue
+38,C0179,Desert Analytics Pty Ltd,Enterprise,AU,4 Pre-due check,0,46112.8,15180.7,0.0,31,0.364,16796.75,51000.0,60,6,54% of invoices paid 30+ days late; at 90% of credit limit
+39,C0140,Nova Energy Pty Ltd,SMB,AU,3 Collector call,1,25986.23,12868.5,0.0,30,0.627,16287.46,22000.0,30,4,75% of invoices paid 30+ days late; at 118% of credit limit; 50% of balance overdue
+40,C0088,Apex Travel FZE,Enterprise,AE,4 Pre-due check,0,59302.77,19767.59,8844.84,31,0.254,15092.46,64000.0,60,6,open dispute: Amount does not match PO; paying 18 days later than a year ago; at 93% of credit limit
+41,C0205,Falcon Finance LLC,SMB,AE,5 Firm automated reminder,0,53211.87,53211.87,0.0,45,0.283,15085.24,37000.0,15,5,100% of balance overdue; at 144% of credit limit; paying 22 days later than a year ago
+42,C0052,Blue Finance DAC,Enterprise,IE,1 Dispute desk,0,110969.97,0.0,22260.8,0,0.134,14891.51,175000.0,60,4,open dispute: Amount does not match PO
+43,C0062,Emerald Finance AG,Mid-market,DE,4 Pre-due check,0,60500.27,22232.64,0.0,30,0.227,13739.35,76000.0,30,4,paying 25 days later than a year ago; 37% of balance overdue
+44,C0113,Atlas Energy LLC,Enterprise,AE,5 Firm automated reminder,0,38724.64,24850.12,0.0,46,0.351,13608.26,39000.0,45,4,64% of balance overdue; 36% of invoices paid 30+ days late; paying 18 days later than a year ago
+45,C0194,Coral Insurance Limited,SMB,NZ,3 Collector call,1,26571.96,12391.33,0.0,30,0.5,13294.5,20000.0,30,3,71% of invoices paid 30+ days late; at 133% of credit limit; 47% of balance overdue
+46,C0184,Falcon Labs B.V.,SMB,NL,4 Pre-due check,0,38885.94,19442.97,0.0,30,0.335,13012.46,47000.0,30,2,42% of invoices paid 30+ days late; 50% of balance overdue; at 83% of credit limit
+47,C0017,Iron Motors Ltd,SMB,NZ,1 Dispute desk,0,21916.67,8731.98,9327.9,30,0.575,12604.12,32000.0,30,4,open dispute: Amount does not match PO; 71% of invoices paid 30+ days late; 3 broken promise(s) to pay
+48,C0078,River Education B.V.,Mid-market,NL,2 Escalate: credit hold + agency review,0,14466.07,13425.31,0.0,365,0.867,12544.31,5000.0,30,13,365 days past due; at 289% of credit limit; 93% of balance overdue
+49,C0018,Red Education AG,Mid-market,DE,3 Collector call,1,23348.0,11674.0,0.0,30,0.518,12087.87,15000.0,30,4,69% of invoices paid 30+ days late; at 156% of credit limit; 50% of balance overdue
+50,C0249,Pioneer Media DAC,SMB,IE,3 Collector call,1,20463.24,9813.18,0.0,30,0.588,12038.86,23000.0,30,4,79% of invoices paid 30+ days late; 48% of balance overdue; at 89% of credit limit
+51,C0133,Vertex Energy Pty Ltd,Enterprise,AU,2 Escalate: credit hold,0,16037.68,8018.84,0.0,62,0.749,12009.81,14000.0,60,4,100% of invoices paid 30+ days late; at 115% of credit limit; paying 18 days later than a year ago
+52,C0040,Atlas Motors Pty Ltd,Mid-market,AU,6 Standard reminder,0,32877.93,15966.5,0.0,15,0.348,11427.89,46000.0,45,4,67% of invoices paid 30+ days late; 49% of balance overdue
+53,C0260,Harbour Trading Limited,SMB,NZ,3 Collector call,1,19782.94,9930.93,0.0,61,0.566,11206.66,24000.0,30,2,64% of invoices paid 30+ days late; paying 27 days later than a year ago; 50% of balance overdue
+54,C0255,Sterling Analytics Limited,Enterprise,NZ,2 Escalate: credit hold,0,13920.09,8357.22,0.0,92,0.798,11106.62,10000.0,60,5,92 days past due; paying 82 days later than a year ago; at 139% of credit limit
+55,C0159,Emerald Analytics Pty Ltd,SMB,AU,2 Escalate: credit hold,0,16722.77,11412.72,5310.05,61,0.653,10927.13,13000.0,30,3,open dispute: Amount does not match PO; 56% of invoices paid 30+ days late; paying 29 days later than a year ago
+56,C0021,Titan Labs DAC,Mid-market,IE,5 Firm automated reminder,0,40954.27,17178.56,0.0,46,0.262,10728.97,68000.0,45,4,paying 28 days later than a year ago; 42% of balance overdue
+57,C0195,Falcon Retail Pty Ltd,Mid-market,AU,6 Standard reminder,0,59778.35,28969.9,0.0,15,0.179,10728.32,88000.0,45,2,45% of invoices paid 30+ days late; 48% of balance overdue
+58,C0297,Apex Logistics AG,Mid-market,DE,5 Firm automated reminder,0,36553.23,19766.14,3023.89,46,0.277,10128.15,45000.0,45,5,paying 33 days later than a year ago; 54% of balance overdue; at 81% of credit limit
+59,C0139,Orbit Finance DAC,Mid-market,IE,5 Firm automated reminder,0,40569.4,20291.03,0.0,46,0.243,9874.34,59000.0,45,2,paying 35 days later than a year ago; 50% of balance overdue
+60,C0268,Apex Construction Pty Ltd,Enterprise,AU,4 Pre-due check,0,44757.46,0.0,0.0,0,0.208,9308.48,81000.0,60,2,33% of invoices paid 30+ days late
+61,C0043,Desert Hospitality Pty Ltd,Enterprise,AU,6 Standard reminder,0,27021.13,9218.11,0.0,31,0.341,9207.17,33000.0,60,3,67% of invoices paid 30+ days late; at 82% of credit limit
+62,C0182,Falcon Properties FZ-LLC,SMB,AE,5 Firm automated reminder,0,16190.88,8095.44,0.0,30,0.562,9096.97,14000.0,30,2,85% of invoices paid 30+ days late; at 116% of credit limit; 50% of balance overdue
+63,C0280,River Insurance DAC,Enterprise,IE,6 Standard reminder,0,23519.94,11591.12,0.0,15,0.386,9068.6,37000.0,45,2,83% of invoices paid 30+ days late; 49% of balance overdue
+64,C0104,Sterling Travel DAC,SMB,IE,4 Pre-due check,0,23232.69,5302.95,0.0,30,0.373,8677.01,41000.0,30,5,69% of invoices paid 30+ days late; 2 broken promise(s) to pay
+65,C0284,Cedar Media LLC,Mid-market,AE,2 Escalate: credit hold + agency review,0,8576.02,8576.02,0.0,365,0.995,8533.51,5000.0,30,4,365 days past due; 100% of balance overdue; at 172% of credit limit
+66,C0016,Apex Health Pty Ltd,Mid-market,AU,5 Firm automated reminder,0,29714.5,14783.87,0.0,46,0.286,8496.69,44000.0,45,2,paying 40 days later than a year ago; 50% of balance overdue
+67,C0253,Nova Media B.V.,Enterprise,NL,6 Standard reminder,0,144633.99,0.0,0.0,0,0.056,8069.84,223000.0,60,10,
+68,C0153,Bright Education DAC,SMB,IE,1 Dispute desk,0,24544.86,0.0,24544.86,0,0.312,7664.49,59000.0,30,2,open dispute: Amount does not match PO
+69,C0068,Apex Foods FZ-LLC,Enterprise,AE,6 Standard reminder,0,18945.18,9572.11,0.0,15,0.399,7553.26,53000.0,45,2,71% of invoices paid 30+ days late; 51% of balance overdue; 2 broken promise(s) to pay
+70,C0267,Iron Labs Pty Ltd,Enterprise,AU,1 Dispute desk,0,23972.54,7954.74,7954.74,31,0.313,7501.29,28000.0,60,3,paying 32 days later than a year ago; at 86% of credit limit
+71,C0220,Sterling Media GmbH,SMB,DE,1 Dispute desk,0,15555.26,7764.45,7764.45,30,0.476,7406.8,101000.0,30,2,7 broken promise(s) to pay; 47% of invoices paid 30+ days late; 50% of balance overdue
+72,C0158,Orbit Hospitality LLC,Enterprise,AE,1 Dispute desk,0,39492.51,9225.05,9225.05,30,0.183,7232.84,37000.0,30,3,at 107% of credit limit
+73,C0048,Orbit Education FZE,Enterprise,AE,6 Standard reminder,0,52925.91,17641.97,0.0,31,0.136,7221.3,61000.0,60,3,paying 17 days later than a year ago; at 87% of credit limit
+74,C0087,Willow Systems GmbH,SMB,DE,4 Pre-due check,0,33288.44,7419.4,0.0,30,0.213,7082.97,58000.0,30,3,paying 17 days later than a year ago
+75,C0112,Bright Properties Limited,Enterprise,IE,4 Pre-due check,0,24681.67,0.0,0.0,0,0.285,7043.08,62000.0,30,1,64% of invoices paid 30+ days late
+76,C0124,Titan Media Limited,SMB,IE,1 Dispute desk,0,18938.14,9469.07,9469.07,30,0.352,6660.14,22000.0,30,2,paying 22 days later than a year ago; 50% of balance overdue; at 86% of credit limit
+77,C0187,Titan Hospitality B.V.,Enterprise,NL,6 Standard reminder,0,42366.8,0.0,0.0,0,0.157,6658.64,76000.0,60,2,33% of invoices paid 30+ days late
+78,C0215,Iron Insurance DAC,Mid-market,IE,4 Pre-due check,0,16462.66,0.0,0.0,0,0.398,6554.57,41000.0,30,1,85% of invoices paid 30+ days late; 2 broken promise(s) to pay
+79,C0074,Cedar Labs FZE,Enterprise,AE,6 Standard reminder,0,83044.3,0.0,0.0,0,0.076,6274.5,101000.0,60,4,at 82% of credit limit
+80,C0143,Falcon Telecom FZE,SMB,AE,1 Dispute desk,0,23292.31,23292.31,12176.36,15,0.262,6104.77,41000.0,15,2,open dispute: Amount does not match PO; 100% of balance overdue; 38% of invoices paid 30+ days late
+81,C0014,Harbour Media FZE,Enterprise,AE,6 Standard reminder,0,33924.08,0.0,0.0,0,0.174,5909.48,62000.0,60,2,paying 18 days later than a year ago
+82,C0157,Emerald Telecom Pty Ltd,Mid-market,AU,6 Standard reminder,0,18753.1,9376.55,0.0,30,0.3,5634.68,43000.0,30,2,67% of invoices paid 30+ days late; 50% of balance overdue; 2 broken promise(s) to pay
+83,C0004,Desert Telecom B.V.,Mid-market,NL,6 Standard reminder,0,27107.81,0.0,0.0,0,0.194,5270.52,57000.0,30,2,40% of invoices paid 30+ days late; 4 broken promise(s) to pay
+84,C0219,Nova Trading FZ-LLC,SMB,AE,1 Dispute desk,0,18901.43,18901.43,18901.43,30,0.277,5236.71,47000.0,30,1,open dispute: Amount does not match PO; 100% of balance overdue; paying 15 days later than a year ago
+85,C0232,Blue Energy Pty Ltd,Enterprise,AU,6 Standard reminder,0,14530.12,434.97,0.0,31,0.327,4748.04,38000.0,60,5,43% of invoices paid 30+ days late; 2 broken promise(s) to pay
+86,C0070,Vertex Insurance B.V.,Enterprise,NL,6 Standard reminder,0,55191.14,0.0,0.0,0,0.086,4747.62,89000.0,60,4,
+87,C0096,Pioneer Education GmbH,Mid-market,DE,6 Standard reminder,0,40135.06,20067.53,0.0,30,0.114,4577.49,91000.0,30,2,paying 19 days later than a year ago; 50% of balance overdue
+88,C0174,Nova Health DAC,Enterprise,IE,6 Standard reminder,0,49030.2,0.0,0.0,0,0.092,4516.16,72000.0,60,4,
+89,C0180,Emerald Health Limited,Mid-market,NZ,6 Standard reminder,0,12709.08,6407.87,0.0,30,0.345,4388.36,15000.0,30,2,50% of invoices paid 30+ days late; 50% of balance overdue; at 85% of credit limit
+90,C0050,Summit Media Limited,Mid-market,IE,6 Standard reminder,0,13941.35,3735.95,0.0,30,0.314,4371.58,17000.0,30,3,43% of invoices paid 30+ days late; at 82% of credit limit
+91,C0029,Red Telecom FZ-LLC,Enterprise,AE,6 Standard reminder,0,57095.29,28753.53,0.0,15,0.074,4230.37,77000.0,45,6,50% of balance overdue
+92,C0041,Granite Retail Limited,SMB,IE,1 Dispute desk,0,15758.15,0.0,15758.15,0,0.266,4195.35,75000.0,30,1,open dispute: Service issue
+93,C0288,Bright Systems GmbH,SMB,DE,6 Standard reminder,0,19431.1,9715.55,0.0,30,0.215,4181.16,48000.0,30,2,44% of invoices paid 30+ days late; 50% of balance overdue
+94,C0081,Orbit Labs FZ-LLC,Mid-market,AE,6 Standard reminder,0,26857.77,0.0,0.0,0,0.146,3918.84,40000.0,30,2,
+95,C0223,Zenith Labs LLC,Enterprise,AE,1 Dispute desk,0,18257.7,0.0,9128.85,0,0.214,3905.06,33000.0,60,2,open dispute: Service issue
+96,C0033,Pioneer Pharma Limited,SMB,IE,1 Dispute desk,0,13176.22,0.0,13176.22,0,0.294,3877.01,28000.0,30,1,open dispute: Amount does not match PO
+97,C0156,Red Foods Limited,Mid-market,IE,6 Standard reminder,0,53802.43,0.0,0.0,0,0.061,3273.9,116000.0,30,3,
+98,C0027,Delta Labs Limited,Mid-market,IE,1 Dispute desk,0,27925.8,0.0,13022.01,0,0.116,3245.97,64000.0,30,3,open dispute: Amount does not match PO
+99,C0008,Delta Media Limited,Mid-market,IE,1 Dispute desk,0,4942.44,0.0,4942.44,0,0.655,3236.54,12000.0,30,1,open dispute: Service issue; 46% of invoices paid 30+ days late
+100,C0201,Falcon Construction Pty Ltd,SMB,AU,6 Standard reminder,0,20266.63,0.0,0.0,0,0.157,3176.96,70000.0,30,2,27% of invoices paid 30+ days late
+101,C0046,Vertex Construction Pty Ltd,SMB,AU,6 Standard reminder,0,22137.22,5389.86,0.0,30,0.138,3054.94,38000.0,30,3,paying 14 days later than a year ago
+102,C0053,Bright Media B.V.,SMB,NL,1 Dispute desk,0,20545.2,0.0,10569.91,0,0.146,2998.06,49000.0,30,2,open dispute: Amount does not match PO
+103,C0277,Pacific Education GmbH,SMB,DE,1 Dispute desk,0,5446.61,0.0,5446.61,0,0.477,2599.77,14000.0,30,1,open dispute: Amount does not match PO; 38% of invoices paid 30+ days late
+104,C9203,Nova Motors Limited,SMB,IE,2 Escalate: credit hold + agency review,0,2604.17,2604.17,0.0,365,0.982,2556.5,7000.0,30,1,"365 days past due; 100% of balance overdue; new / one-off account, no payment history"
+105,C9344,Union Pharma AG,SMB,DE,2 Escalate: credit hold + agency review,0,2542.33,2542.33,0.0,214,0.98,2491.18,6000.0,30,1,"214 days past due; 100% of balance overdue; new / one-off account, no payment history"
+106,C0042,Summit Insurance FZ-LLC,SMB,AE,6 Standard reminder,0,22410.42,0.0,0.0,0,0.108,2420.39,56000.0,30,1,
+107,C0169,Titan Telecom Pty Ltd,Enterprise,AU,6 Standard reminder,0,24147.96,0.0,0.0,0,0.098,2377.68,28000.0,60,4,at 86% of credit limit
+108,C0013,Cedar Systems DAC,Mid-market,IE,1 Dispute desk,0,14683.24,7144.95,7144.95,15,0.161,2366.22,21000.0,45,2,49% of balance overdue
+109,C0144,Red Media DAC,Enterprise,IE,1 Dispute desk,0,6027.23,1821.92,1821.92,31,0.372,2239.22,7000.0,60,3,45% of invoices paid 30+ days late; at 86% of credit limit
+110,C0292,Quantum Telecom Pty Ltd,Enterprise,AU,6 Standard reminder,0,26137.86,0.0,0.0,0,0.083,2169.76,38000.0,60,4,
+111,C0075,Summit Retail FZ-LLC,Mid-market,AE,6 Standard reminder,0,5750.59,0.0,0.0,0,0.376,2160.98,13000.0,30,1,69% of invoices paid 30+ days late
+112,C0118,Union Pharma LLC,Mid-market,AE,5 Firm automated reminder,0,5255.66,2138.86,0.0,30,0.411,2159.96,7000.0,30,3,72% of invoices paid 30+ days late; 41% of balance overdue
+113,C0290,Harbour Finance Ltd,Enterprise,NZ,6 Standard reminder,0,35882.35,0.0,0.0,0,0.06,2138.92,75000.0,30,2,
+114,C0067,Willow Motors FZ-LLC,Enterprise,AE,6 Standard reminder,0,32956.1,0.0,0.0,0,0.064,2122.42,60000.0,60,2,
+115,C0103,River Travel Limited,SMB,IE,6 Standard reminder,0,30201.23,0.0,0.0,0,0.068,2057.29,75000.0,30,1,
+116,C0167,Nova Foods DAC,SMB,IE,6 Standard reminder,0,5314.18,0.0,0.0,0,0.382,2030.34,13000.0,30,1,75% of invoices paid 30+ days late
+117,C0092,Crescent Properties Pty Ltd,SMB,AU,6 Standard reminder,0,32388.81,0.0,0.0,0,0.06,1933.07,67000.0,30,1,
+118,C0126,Willow Travel Pty Ltd,Mid-market,AU,6 Standard reminder,0,20042.75,0.0,0.0,-15,0.093,1862.77,59000.0,45,1,
+119,C0034,Iron Construction Pty Ltd,Enterprise,AU,6 Standard reminder,0,27899.91,0.0,0.0,-15,0.066,1845.13,72000.0,45,3,
+120,C0282,Bright Travel FZE,Enterprise,AE,6 Standard reminder,0,22950.1,0.0,0.0,0,0.08,1834.65,43000.0,60,2,
+121,C0044,Vertex Education Ltd,SMB,NZ,6 Standard reminder,0,15803.5,0.0,0.0,0,0.115,1821.5,62000.0,30,1,32% of invoices paid 30+ days late
+122,C0240,Titan Retail B.V.,Enterprise,NL,6 Standard reminder,0,10298.78,3195.28,0.0,31,0.177,1820.79,48000.0,60,6,29% of invoices paid 30+ days late; paying 14 days later than a year ago
+123,C0150,River Analytics FZE,SMB,AE,6 Standard reminder,0,24699.63,0.0,0.0,0,0.072,1787.81,55000.0,30,2,
+124,C0208,Iron Energy LLC,Enterprise,AE,6 Standard reminder,0,34634.86,0.0,0.0,-15,0.05,1730.36,101000.0,45,2,
+125,C9285,Silver Logistics AG,SMB,DE,2 Escalate: credit hold + agency review,0,1702.22,1702.22,0.0,242,0.979,1666.05,5000.0,30,1,"242 days past due; 100% of balance overdue; new / one-off account, no payment history"
+126,C0286,Quantum Travel Pty Ltd,Mid-market,AU,6 Standard reminder,0,10037.58,5018.79,0.0,15,0.164,1643.91,16000.0,45,2,50% of balance overdue
+127,C0202,Falcon Motors Limited,Mid-market,IE,6 Standard reminder,0,17594.84,0.0,0.0,0,0.093,1630.45,36000.0,30,1,
+128,C0176,Bright Telecom Limited,Enterprise,NZ,6 Standard reminder,0,18516.65,0.0,0.0,0,0.087,1602.76,31000.0,60,2,
+129,C0225,Orbit Health B.V.,SMB,NL,6 Standard reminder,0,34114.02,34114.02,0.0,15,0.046,1555.56,62000.0,15,1,100% of balance overdue
+130,C0022,Pacific Properties LLC,Enterprise,AE,6 Standard reminder,0,26085.92,0.0,0.0,0,0.06,1552.64,70000.0,30,4,
+131,C0057,Atlas Health LLC,Mid-market,AE,6 Standard reminder,0,30348.89,0.0,0.0,0,0.051,1536.26,73000.0,30,1,
+132,C0142,Vertex Logistics FZ-LLC,SMB,AE,6 Standard reminder,0,12249.98,0.0,0.0,0,0.123,1507.36,28000.0,30,1,29% of invoices paid 30+ days late; 2 broken promise(s) to pay
+133,C0161,Summit Properties Limited,SMB,IE,1 Dispute desk,0,7260.56,2219.32,2219.32,30,0.206,1496.39,12000.0,30,2,paying 24 days later than a year ago
+134,C0173,Sterling Education AG,Enterprise,DE,5 Firm automated reminder,0,3692.85,1230.95,0.0,31,0.403,1487.12,5000.0,60,3,73% of invoices paid 30+ days late; 2 broken promise(s) to pay
+135,C0132,Iron Media FZ-LLC,Mid-market,AE,6 Standard reminder,0,20993.72,0.0,0.0,-15,0.069,1445.66,65000.0,45,1,
+136,C0055,Vertex Systems FZ-LLC,Mid-market,AE,6 Standard reminder,0,8646.46,0.0,0.0,0,0.166,1433.63,21000.0,30,1,38% of invoices paid 30+ days late
+137,C0190,Union Energy Limited,Enterprise,IE,6 Standard reminder,0,31568.57,0.0,0.0,-15,0.044,1396.95,143000.0,45,2,
+138,C0155,Orbit Travel AG,Mid-market,DE,6 Standard reminder,0,21715.46,0.0,0.0,0,0.062,1344.89,53000.0,30,1,
+139,C0023,Harbour Pharma B.V.,Mid-market,NL,6 Standard reminder,0,23721.12,0.0,0.0,0,0.057,1342.46,57000.0,30,1,
+140,C0024,Apex Systems DAC,Mid-market,IE,6 Standard reminder,0,23816.03,0.0,0.0,-15,0.056,1326.38,60000.0,45,2,
+141,C0295,Zenith Telecom B.V.,Mid-market,NL,6 Standard reminder,0,16849.25,0.0,0.0,0,0.075,1265.59,38000.0,30,1,
+142,C0091,Nova Finance AG,Mid-market,DE,6 Standard reminder,0,16192.88,0.0,0.0,0,0.078,1262.5,68000.0,30,1,
+143,C0265,Cedar Telecom LLC,Enterprise,AE,6 Standard reminder,0,14567.16,0.0,0.0,0,0.086,1248.0,26000.0,60,2,
+144,C0007,Coral Properties Limited,Mid-market,IE,6 Standard reminder,0,11014.51,0.0,0.0,0,0.112,1236.26,20000.0,30,1,
+145,C0019,Orbit Logistics Pty Ltd,Enterprise,AU,1 Dispute desk,0,6409.06,0.0,3204.53,0,0.189,1209.77,12000.0,60,2,open dispute: Amount does not match PO
+146,C0026,Pacific Logistics Limited,SMB,NZ,6 Standard reminder,0,18678.02,0.0,0.0,0,0.065,1207.25,43000.0,30,1,
+147,C0109,Union Systems FZ-LLC,SMB,AE,6 Standard reminder,0,19039.78,0.0,0.0,0,0.063,1205.25,37000.0,30,2,
+148,C0227,Falcon Analytics LLC,SMB,AE,6 Standard reminder,0,21887.53,0.0,0.0,0,0.055,1199.84,50000.0,30,2,
+149,C0209,North Telecom B.V.,Mid-market,NL,6 Standard reminder,0,25444.84,0.0,0.0,-15,0.047,1190.87,63000.0,45,2,
+150,C0101,Apex Insurance AG,Mid-market,DE,6 Standard reminder,0,21695.85,0.0,0.0,0,0.053,1147.46,53000.0,30,1,
+151,C0244,Desert Labs Limited,Mid-market,NZ,6 Standard reminder,0,21758.03,0.0,0.0,0,0.05,1098.33,63000.0,30,2,
+152,C0274,Pacific Health LLC,SMB,AE,6 Standard reminder,0,8721.38,0.0,0.0,0,0.125,1086.26,21000.0,30,1,
+153,C0084,Pacific Energy AG,SMB,DE,6 Standard reminder,0,12283.83,0.0,0.0,0,0.087,1063.41,17000.0,30,2,
+154,C0239,Pacific Pharma B.V.,Mid-market,NL,6 Standard reminder,0,15381.57,0.0,0.0,0,0.068,1051.6,36000.0,30,1,
+155,C0066,Pioneer Trading LLC,Enterprise,AE,6 Standard reminder,0,24990.76,0.0,0.0,-15,0.042,1043.37,80000.0,45,3,
+156,C0247,Granite Properties Pty Ltd,Enterprise,AU,1 Dispute desk,0,7812.05,0.0,1140.84,0,0.131,1022.17,12000.0,60,3,open dispute: Amount does not match PO
+157,C0031,Summit Education FZ-LLC,SMB,AE,5 Firm automated reminder,0,2499.16,1249.58,0.0,30,0.403,1006.68,5000.0,30,2,67% of invoices paid 30+ days late; 50% of balance overdue
+158,C0131,River Motors Ltd,Enterprise,NZ,6 Standard reminder,0,24183.92,0.0,0.0,0,0.041,1003.18,85000.0,30,2,
+159,C0296,Harbour Analytics Pty Ltd,SMB,AU,1 Dispute desk,0,2555.96,1277.98,1277.98,30,0.387,988.25,5000.0,30,2,paying 27 days later than a year ago; 50% of balance overdue
+160,C0278,Bright Pharma Limited,Mid-market,IE,1 Dispute desk,0,3886.09,0.0,3886.09,-15,0.252,980.89,10000.0,45,1,open dispute: Amount does not match PO
+161,C0152,Silver Energy Pty Ltd,Mid-market,AU,6 Standard reminder,0,20362.0,0.0,0.0,-15,0.046,937.46,60000.0,45,1,
+162,C0137,Delta Education Limited,Enterprise,IE,6 Standard reminder,0,26481.79,0.0,0.0,-30,0.035,917.95,85000.0,60,2,
+163,C0009,Coral Systems FZE,Enterprise,AE,5 Firm automated reminder,0,1713.06,0.0,0.0,0,0.529,906.6,5000.0,60,2,77% of invoices paid 30+ days late; 2 broken promise(s) to pay
+164,C0069,North Education Limited,SMB,NZ,6 Standard reminder,0,13011.85,0.0,0.0,0,0.069,897.33,29000.0,30,1,
+165,C0245,Atlas Systems B.V.,SMB,NL,6 Standard reminder,0,13229.76,0.0,0.0,0,0.068,897.31,31000.0,30,2,
+166,C0086,Crescent Finance FZ-LLC,Enterprise,AE,6 Standard reminder,0,2931.95,975.85,0.0,31,0.297,871.9,5000.0,60,3,paying 25 days later than a year ago
+167,C0141,Delta Motors FZE,Enterprise,AE,6 Standard reminder,0,10002.68,0.0,0.0,0,0.086,858.43,24000.0,30,1,
+168,C0128,Delta Retail DAC,Mid-market,IE,6 Standard reminder,0,10067.91,0.0,0.0,0,0.085,852.76,23000.0,30,2,
+169,C0122,Coral Trading Pty Ltd,SMB,AU,6 Standard reminder,0,9011.11,0.0,0.0,0,0.093,839.31,21000.0,30,1,
+170,C0077,Iron Pharma LLC,Mid-market,AE,6 Standard reminder,0,5539.88,2769.94,0.0,15,0.147,816.78,8000.0,45,2,50% of balance overdue
+171,C0243,Apex Energy Ltd,SMB,NZ,6 Standard reminder,0,9556.14,0.0,0.0,0,0.085,816.29,20000.0,30,2,
+172,C0217,Granite Pharma FZE,Mid-market,AE,6 Standard reminder,0,4719.89,2599.53,0.0,15,0.169,799.77,7000.0,45,2,55% of balance overdue; paying 17 days later than a year ago
+173,C0235,Iron Education Limited,Mid-market,IE,6 Standard reminder,0,17408.49,0.0,0.0,0,0.045,777.68,100000.0,30,1,
+174,C0149,Harbour Retail Pty Ltd,SMB,AU,6 Standard reminder,0,12828.49,0.0,0.0,0,0.06,773.73,30000.0,30,1,
+175,C0289,Silver Properties Limited,SMB,NZ,6 Standard reminder,0,4166.04,4166.04,0.0,15,0.185,770.23,7000.0,15,1,100% of balance overdue; 33% of invoices paid 30+ days late
+176,C0127,River Energy FZ-LLC,Enterprise,AE,6 Standard reminder,0,12808.65,0.0,0.0,-30,0.059,757.78,45000.0,60,2,
+177,C0039,Sterling Insurance AG,Enterprise,DE,6 Standard reminder,0,11523.5,0.0,0.0,-15,0.064,735.37,31000.0,45,1,
+178,C0178,Zenith Logistics B.V.,Mid-market,NL,6 Standard reminder,0,16816.46,0.0,0.0,-15,0.043,725.35,47000.0,45,1,
+179,C0203,Union Labs Limited,Enterprise,NZ,6 Standard reminder,0,9065.65,4589.59,0.0,15,0.079,713.9,12000.0,45,4,51% of balance overdue
+180,C0266,Delta Health B.V.,Enterprise,NL,6 Standard reminder,0,13970.61,0.0,0.0,-15,0.051,708.44,37000.0,45,2,
+181,C0114,Orbit Foods DAC,Mid-market,IE,6 Standard reminder,0,3097.82,1548.91,0.0,30,0.228,707.44,5000.0,30,2,36% of invoices paid 30+ days late; 50% of balance overdue
+182,C0275,Harbour Logistics GmbH,Mid-market,DE,6 Standard reminder,0,9359.57,0.0,0.0,-15,0.074,691.3,28000.0,45,1,
+183,C0120,Crescent Education Limited,Mid-market,IE,6 Standard reminder,0,20623.84,0.0,0.0,-15,0.033,675.75,63000.0,45,1,
+184,C9171,Iron Insurance B.V.,SMB,NL,2 Escalate: credit hold,0,660.6,660.6,0.0,92,0.988,652.6,5000.0,30,1,"92 days past due; 100% of balance overdue; new / one-off account, no payment history"
+185,C0076,Crescent Telecom FZ-LLC,Enterprise,AE,6 Standard reminder,0,13075.64,0.0,0.0,0,0.049,643.39,56000.0,30,2,
+186,C0080,Granite Motors Limited,Mid-market,NZ,6 Standard reminder,0,10423.32,0.0,0.0,-15,0.061,631.25,32000.0,45,1,
+187,C0300,Harbour Insurance FZ-LLC,Enterprise,AE,6 Standard reminder,0,13233.81,0.0,0.0,0,0.047,628.59,37000.0,30,3,
+188,C0116,Silver Media Pty Ltd,Mid-market,AU,6 Standard reminder,0,13778.04,0.0,0.0,0,0.045,625.6,36000.0,30,2,
+189,C0276,Summit Travel Pty Ltd,SMB,AU,6 Standard reminder,0,8803.38,0.0,0.0,0,0.069,605.4,21000.0,30,1,
+190,C0294,North Retail FZ-LLC,SMB,AE,6 Standard reminder,0,7590.28,0.0,0.0,0,0.078,590.63,17000.0,30,1,
+191,C0166,Bright Insurance FZ-LLC,SMB,AE,6 Standard reminder,0,4798.06,4798.06,0.0,15,0.123,589.35,51000.0,15,1,100% of balance overdue; 46% of invoices paid 30+ days late
+192,C0130,Vertex Pharma Limited,Mid-market,NZ,6 Standard reminder,0,10589.29,0.0,0.0,-15,0.056,588.74,31000.0,45,1,
+193,C0063,Nova Properties Pty Ltd,SMB,AU,6 Standard reminder,0,6816.7,6816.7,0.0,15,0.086,586.06,57000.0,15,1,100% of balance overdue; 30% of invoices paid 30+ days late
+194,C0252,Atlas Hospitality Pty Ltd,Mid-market,AU,6 Standard reminder,0,2670.04,0.0,0.0,0,0.216,576.25,7000.0,30,1,46% of invoices paid 30+ days late
+195,C0015,Sterling Motors Pty Ltd,Enterprise,AU,6 Standard reminder,0,11241.76,0.0,0.0,-15,0.051,569.45,35000.0,45,1,
+196,C0264,Vertex Media LLC,SMB,AE,6 Standard reminder,0,7276.26,0.0,0.0,0,0.074,539.06,17000.0,30,2,
+197,C0272,Summit Systems AG,SMB,DE,6 Standard reminder,0,7448.27,0.0,0.0,0,0.072,538.29,18000.0,30,1,
+198,C0171,Orbit Motors Pty Ltd,Mid-market,AU,6 Standard reminder,0,10768.7,0.0,0.0,0,0.05,538.26,84000.0,30,1,
+199,C0177,Desert Construction Pty Ltd,SMB,AU,6 Standard reminder,0,6952.18,0.0,0.0,0,0.072,500.71,25000.0,30,1,
+200,C0079,Cedar Motors FZE,Enterprise,AE,6 Standard reminder,0,12337.38,0.0,0.0,-15,0.039,481.48,37000.0,45,1,
+201,C0271,Bright Energy DAC,Mid-market,IE,6 Standard reminder,0,7688.77,0.0,0.0,0,0.061,471.41,19000.0,30,1,
+202,C0151,Crescent Pharma Pty Ltd,SMB,AU,6 Standard reminder,0,12872.39,12872.39,0.0,15,0.036,462.23,29000.0,15,1,100% of balance overdue
+203,C0097,Blue Retail Pty Ltd,Mid-market,AU,6 Standard reminder,0,6968.74,0.0,0.0,0,0.065,454.18,17000.0,30,2,
+204,C9331,Union Analytics B.V.,SMB,NL,6 Standard reminder,0,2901.47,0.0,0.0,0,0.153,443.61,7000.0,30,1,"new / one-off account, no payment history"
+205,C0293,Crescent Logistics B.V.,Enterprise,NL,1 Dispute desk,0,3705.23,1889.35,1889.35,15,0.114,422.71,21000.0,45,2,open dispute: Amount does not match PO; 51% of balance overdue
+206,C0045,Emerald Foods Pty Ltd,Enterprise,AU,6 Standard reminder,0,7637.91,0.0,0.0,-15,0.052,395.81,20000.0,45,2,
+207,C0025,Quantum Hospitality Pty Ltd,SMB,AU,6 Standard reminder,0,4724.32,0.0,0.0,0,0.081,383.38,9000.0,30,2,
+208,C0279,Blue Travel Limited,Mid-market,IE,6 Standard reminder,0,1390.21,0.0,0.0,0,0.24,333.85,5000.0,30,1,46% of invoices paid 30+ days late
+209,C0299,Silver Foods B.V.,SMB,NL,6 Standard reminder,0,5987.97,0.0,0.0,0,0.054,326.3,27000.0,30,1,
+210,C0073,Quantum Pharma B.V.,Mid-market,NL,6 Standard reminder,0,5298.07,0.0,0.0,0,0.061,322.04,13000.0,30,1,
+211,C0125,Crescent Foods FZ-LLC,SMB,AE,6 Standard reminder,0,908.51,0.0,0.0,0,0.344,312.8,5000.0,30,1,67% of invoices paid 30+ days late
+212,C0170,Apex Education GmbH,Mid-market,DE,6 Standard reminder,0,5147.48,0.0,0.0,-15,0.06,309.63,14000.0,45,1,
+213,C9210,Orbit Analytics Ltd,SMB,NZ,6 Standard reminder,0,1966.64,0.0,0.0,0,0.153,301.15,5000.0,30,1,"new / one-off account, no payment history"
+214,C9010,Apex Media DAC,SMB,IE,6 Standard reminder,0,1843.67,0.0,0.0,0,0.151,277.7,5000.0,30,1,"new / one-off account, no payment history"
+215,C0090,Delta Telecom Pty Ltd,Mid-market,AU,6 Standard reminder,0,5331.95,0.0,0.0,-15,0.048,255.41,16000.0,45,1,
+216,C0154,Pioneer Logistics Pty Ltd,SMB,AU,1 Dispute desk,0,1218.21,1218.21,1218.21,15,0.191,232.75,5000.0,15,1,open dispute: Amount does not match PO; 100% of balance overdue
+217,C0064,Bright Finance Limited,Enterprise,NZ,6 Standard reminder,0,2626.14,0.0,0.0,0,0.086,225.58,5000.0,60,2,
+218,C0065,Crescent Media Pty Ltd,SMB,AU,1 Dispute desk,0,902.84,0.0,902.84,0,0.236,213.11,17000.0,30,1,open dispute: Amount does not match PO
+219,C0059,Blue Insurance GmbH,Enterprise,DE,6 Standard reminder,0,2619.76,0.0,0.0,0,0.08,210.07,5000.0,60,2,
+220,C9209,Orbit Analytics AG,SMB,DE,6 Standard reminder,0,1423.98,0.0,0.0,0,0.143,203.02,5000.0,30,1,"new / one-off account, no payment history"
+221,C0123,Harbour Travel Pty Ltd,SMB,AU,6 Standard reminder,0,4107.52,4107.52,0.0,15,0.046,190.72,15000.0,15,1,100% of balance overdue
+222,C0224,Willow Pharma FZE,Enterprise,AE,6 Standard reminder,0,3778.49,0.0,0.0,0,0.049,184.17,19000.0,30,1,
+223,C0160,Crescent Hospitality Limited,Enterprise,IE,6 Standard reminder,0,3261.37,0.0,0.0,0,0.051,166.9,8000.0,30,1,
+224,C0107,Apex Telecom Limited,Mid-market,IE,6 Standard reminder,0,1960.1,0.0,0.0,-15,0.085,166.68,6000.0,45,1,
+225,C0148,Harbour Foods GmbH,Enterprise,DE,6 Standard reminder,0,2666.7,0.0,0.0,0,0.057,152.98,65000.0,60,2,
+226,C0028,Harbour Properties FZE,Mid-market,AE,6 Standard reminder,0,2726.44,1390.16,0.0,15,0.056,152.53,31000.0,45,2,51% of balance overdue
+227,C0254,Orbit Pharma Pty Ltd,Mid-market,AU,6 Standard reminder,0,884.05,432.71,0.0,15,0.17,150.17,5000.0,45,2,43% of invoices paid 30+ days late; 49% of balance overdue; 2 broken promise(s) to pay
+228,C0099,Orbit Construction Pty Ltd,SMB,AU,6 Standard reminder,0,1778.94,0.0,0.0,0,0.077,136.53,14000.0,30,1,
+229,C0037,Quantum Retail LLC,SMB,AE,6 Standard reminder,0,11398.51,11398.51,0.0,15,0.011,127.5,36000.0,15,1,100% of balance overdue
+230,C0056,Quantum Motors Pty Ltd,Mid-market,AU,6 Standard reminder,0,1869.57,0.0,0.0,-15,0.068,126.81,6000.0,45,1,
+231,C0291,Sterling Pharma LLC,SMB,AE,6 Standard reminder,0,408.31,0.0,0.0,0,0.274,111.87,5000.0,30,1,69% of invoices paid 30+ days late
+232,C0246,Desert Properties Limited,Enterprise,NZ,6 Standard reminder,0,2455.25,0.0,0.0,-30,0.045,110.25,8000.0,60,1,
+233,C9030,Blue Hospitality LLC,SMB,AE,6 Standard reminder,0,674.09,0.0,0.0,0,0.131,88.23,5000.0,30,1,"new / one-off account, no payment history"
+234,C0298,Pacific Hospitality Ltd,Enterprise,NZ,6 Standard reminder,0,1000.49,0.0,0.0,-30,0.08,79.61,30000.0,60,1,
+235,C0175,Pacific Foods Ltd,Mid-market,NZ,6 Standard reminder,0,1295.88,0.0,0.0,-15,0.057,73.59,5000.0,45,1,
+236,C0196,Bright Health Ltd,SMB,NZ,6 Standard reminder,0,1238.62,0.0,0.0,0,0.058,72.34,22000.0,30,1,
+237,C0163,Red Logistics Limited,SMB,NZ,6 Standard reminder,0,1067.51,1067.51,0.0,15,0.063,66.86,5000.0,15,1,100% of balance overdue
+238,C0117,Apex Finance Ltd,Mid-market,NZ,6 Standard reminder,0,942.57,460.23,0.0,15,0.071,66.68,5000.0,45,2,49% of balance overdue
+239,C0248,Union Logistics B.V.,Enterprise,NL,6 Standard reminder,0,1265.38,0.0,0.0,0,0.052,65.61,5000.0,60,2,
+240,C0106,Vertex Health Limited,SMB,NZ,6 Standard reminder,0,1091.12,0.0,0.0,0,0.057,61.97,35000.0,30,1,
+241,C0197,Pioneer Insurance Pty Ltd,Mid-market,AU,6 Standard reminder,0,996.28,0.0,0.0,0,0.058,57.63,5000.0,30,1,
+242,C9161,Harbour Properties Limited,SMB,NZ,6 Standard reminder,0,420.58,0.0,0.0,0,0.128,54.04,5000.0,30,1,"new / one-off account, no payment history"
+243,C9368,Willow Energy FZE,SMB,AE,5 Firm automated reminder,0,858.75,858.75,0.0,61,0.058,50.01,5000.0,30,1,"100% of balance overdue; new / one-off account, no payment history"
+244,C9385,Zenith Motors Ltd,SMB,NZ,6 Standard reminder,0,346.67,0.0,0.0,0,0.128,44.42,5000.0,30,1,"new / one-off account, no payment history"
+245,C0256,Blue Foods AG,Mid-market,DE,6 Standard reminder,0,984.87,0.0,0.0,-15,0.043,42.2,5000.0,45,1,
+246,C0230,Silver Labs Pty Ltd,Mid-market,AU,6 Standard reminder,0,685.04,0.0,0.0,-15,0.049,33.45,5000.0,45,1,
+247,C0054,Pacific Systems B.V.,SMB,NL,6 Standard reminder,0,429.02,0.0,0.0,0,0.059,25.42,5000.0,30,1,
+248,C9088,Crescent Insurance Pty Ltd,SMB,AU,6 Standard reminder,0,1045.16,1045.16,0.0,30,0.024,24.99,6000.0,30,1,"100% of balance overdue; new / one-off account, no payment history"
+249,C0168,Harbour Construction Pty Ltd,Mid-market,AU,6 Standard reminder,0,593.15,0.0,0.0,0,0.04,23.9,25000.0,30,1,
+250,C0105,Delta Pharma Pty Ltd,SMB,AU,6 Standard reminder,0,430.12,0.0,0.0,0,0.051,22.13,10000.0,30,1,
+251,C0060,Vertex Foods DAC,Mid-market,IE,6 Standard reminder,0,448.61,0.0,0.0,0,0.046,20.65,9000.0,30,1,
+252,C0001,Blue Construction GmbH,Enterprise,DE,6 Standard reminder,0,457.28,0.0,0.0,-30,0.043,19.85,5000.0,60,1,
+253,C0082,Silver Pharma Pty Ltd,Mid-market,AU,6 Standard reminder,0,389.83,0.0,0.0,-15,0.051,19.82,5000.0,45,1,
+254,C0273,Zenith Properties LLC,Enterprise,AE,6 Standard reminder,0,386.32,0.0,0.0,-15,0.048,18.37,5000.0,45,1,

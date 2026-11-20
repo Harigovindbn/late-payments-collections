@@ -1,0 +1,692 @@
+customer_id,name,billing_country,segment,payment_terms_days,credit_limit
+C0001,Blue Construction GmbH,DE,Enterprise,60,5000.0
+C0002,River Retail AG,DE,Enterprise,60,88000.0
+C0003,River Systems AG,DE,SMB,30,33000.0
+C0004,Desert Telecom B.V.,NL,Mid-market,30,57000.0
+C0005,Iron Foods FZ-LLC,AE,SMB,15,8000.0
+C0006,River Foods AG,DE,Enterprise,60,26000.0
+C0007,Coral Properties Limited,IE,Mid-market,30,20000.0
+C0008,Delta Media Limited,IE,Mid-market,30,12000.0
+C0009,Coral Systems FZE,AE,Enterprise,60,5000.0
+C0010,Union Finance FZE,AE,Mid-market,30,45000.0
+C0011,Granite Education Pty Ltd,AU,SMB,30,50000.0
+C0012,North Labs FZ-LLC,AE,Enterprise,60,106000.0
+C0013,Cedar Systems DAC,IE,Mid-market,45,21000.0
+C0014,Harbour Media FZE,AE,Enterprise,60,62000.0
+C0015,Sterling Motors Pty Ltd,AU,Enterprise,45,35000.0
+C0016,Apex Health Pty Ltd,AU,Mid-market,45,44000.0
+C0017,Iron Motors Ltd,NZ,SMB,30,32000.0
+C0018,Red Education AG,DE,Mid-market,30,15000.0
+C0019,Orbit Logistics Pty Ltd,AU,Enterprise,60,12000.0
+C0020,Delta Travel Limited,IE,Enterprise,60,27000.0
+C0021,Titan Labs DAC,IE,Mid-market,45,68000.0
+C0022,Pacific Properties LLC,AE,Enterprise,30,70000.0
+C0023,Harbour Pharma B.V.,NL,Mid-market,30,57000.0
+C0024,Apex Systems DAC,IE,Mid-market,45,60000.0
+C0025,Quantum Hospitality Pty Ltd,AU,SMB,30,9000.0
+C0026,Pacific Logistics Limited,NZ,SMB,30,43000.0
+C0027,Delta Labs Limited,IE,Mid-market,30,64000.0
+C0028,Harbour Properties FZE,AE,Mid-market,45,31000.0
+C0029,Red Telecom FZ-LLC,AE,Enterprise,45,77000.0
+C0030,Union Foods LLC,AE,SMB,30,83000.0
+C0031,Summit Education FZ-LLC,AE,SMB,30,5000.0
+C0032,Silver Hospitality Limited,IE,SMB,30,71000.0
+C0033,Pioneer Pharma Limited,IE,SMB,30,28000.0
+C0034,Iron Construction Pty Ltd,AU,Enterprise,45,72000.0
+C0035,River Pharma Limited,IE,SMB,30,33000.0
+C0036,River Health Ltd,NZ,Enterprise,60,5000.0
+C0037,Quantum Retail LLC,AE,SMB,15,36000.0
+C0038,Emerald Properties Pty Ltd,AU,Mid-market,30,44000.0
+C0039,Sterling Insurance AG,DE,Enterprise,45,31000.0
+C0040,Atlas Motors Pty Ltd,AU,Mid-market,45,46000.0
+C0041,Granite Retail Limited,IE,SMB,30,75000.0
+C0042,Summit Insurance FZ-LLC,AE,SMB,30,56000.0
+C0043,Desert Hospitality Pty Ltd,AU,Enterprise,60,33000.0
+C0044,Vertex Education Ltd,NZ,SMB,30,62000.0
+C0045,Emerald Foods Pty Ltd,AU,Enterprise,45,20000.0
+C0046,Vertex Construction Pty Ltd,AU,SMB,30,38000.0
+C0047,Nova Construction LLC,AE,Mid-market,30,80000.0
+C0048,Orbit Education FZE,AE,Enterprise,60,61000.0
+C0049,Crescent Analytics Limited,IE,SMB,30,125000.0
+C0050,Summit Media Limited,IE,Mid-market,30,17000.0
+C0051,Zenith Energy Limited,IE,SMB,30,29000.0
+C0052,Blue Finance DAC,IE,Enterprise,60,175000.0
+C0053,Bright Media B.V.,NL,SMB,30,49000.0
+C0054,Pacific Systems B.V.,NL,SMB,30,5000.0
+C0055,Vertex Systems FZ-LLC,AE,Mid-market,30,21000.0
+C0056,Quantum Motors Pty Ltd,AU,Mid-market,45,6000.0
+C0057,Atlas Health LLC,AE,Mid-market,30,73000.0
+C0058,Quantum Foods Pty Ltd,AU,SMB,30,38000.0
+C0059,Blue Insurance GmbH,DE,Enterprise,60,5000.0
+C0060,Vertex Foods DAC,IE,Mid-market,30,9000.0
+C0061,Falcon Education Pty Ltd,AU,Mid-market,45,56000.0
+C0062,Emerald Finance AG,DE,Mid-market,30,76000.0
+C0063,Nova Properties Pty Ltd,AU,SMB,15,57000.0
+C0064,Bright Finance Limited,NZ,Enterprise,60,5000.0
+C0065,Crescent Media Pty Ltd,AU,SMB,30,17000.0
+C0066,Pioneer Trading LLC,AE,Enterprise,45,80000.0
+C0067,Willow Motors FZ-LLC,AE,Enterprise,60,60000.0
+C0068,Apex Foods FZ-LLC,AE,Enterprise,45,53000.0
+C0069,North Education Limited,NZ,SMB,30,29000.0
+C0070,Vertex Insurance B.V.,NL,Enterprise,60,89000.0
+C0071,Emerald Insurance B.V.,NL,SMB,30,5000.0
+C0072,Pioneer Hospitality AG,DE,Mid-market,30,29000.0
+C0073,Quantum Pharma B.V.,NL,Mid-market,30,13000.0
+C0074,Cedar Labs FZE,AE,Enterprise,60,101000.0
+C0075,Summit Retail FZ-LLC,AE,Mid-market,30,13000.0
+C0076,Crescent Telecom FZ-LLC,AE,Enterprise,30,56000.0
+C0077,Iron Pharma LLC,AE,Mid-market,45,8000.0
+C0078,River Education B.V.,NL,Mid-market,30,5000.0
+C0079,Cedar Motors FZE,AE,Enterprise,45,37000.0
+C0080,Granite Motors Limited,NZ,Mid-market,45,32000.0
+C0081,Orbit Labs FZ-LLC,AE,Mid-market,30,40000.0
+C0082,Silver Pharma Pty Ltd,AU,Mid-market,45,5000.0
+C0083,Silver Health LLC,AE,SMB,30,53000.0
+C0084,Pacific Energy AG,DE,SMB,30,17000.0
+C0085,Atlas Analytics Pty Ltd,AU,Enterprise,45,68000.0
+C0086,Crescent Finance FZ-LLC,AE,Enterprise,60,5000.0
+C0087,Willow Systems GmbH,DE,SMB,30,58000.0
+C0088,Apex Travel FZE,AE,Enterprise,60,64000.0
+C0089,Coral Education B.V.,NL,Enterprise,60,50000.0
+C0090,Delta Telecom Pty Ltd,AU,Mid-market,45,16000.0
+C0091,Nova Finance AG,DE,Mid-market,30,68000.0
+C0092,Crescent Properties Pty Ltd,AU,SMB,30,67000.0
+C0093,Orbit Media Pty Ltd,AU,Mid-market,30,12000.0
+C0094,Desert Pharma LLC,AE,Mid-market,30,36000.0
+C0095,Willow Construction Limited,IE,SMB,30,10000.0
+C0096,Pioneer Education GmbH,DE,Mid-market,30,91000.0
+C0097,Blue Retail Pty Ltd,AU,Mid-market,30,17000.0
+C0098,Coral Pharma AG,DE,Mid-market,45,20000.0
+C0099,Orbit Construction Pty Ltd,AU,SMB,30,14000.0
+C0100,Zenith Education Pty Ltd,AU,Mid-market,30,5000.0
+C0101,Apex Insurance AG,DE,Mid-market,30,53000.0
+C0102,Desert Travel LLC,AE,SMB,30,5000.0
+C0103,River Travel Limited,IE,SMB,30,75000.0
+C0104,Sterling Travel DAC,IE,SMB,30,41000.0
+C0105,Delta Pharma Pty Ltd,AU,SMB,30,10000.0
+C0106,Vertex Health Limited,NZ,SMB,30,35000.0
+C0107,Apex Telecom Limited,IE,Mid-market,45,6000.0
+C0108,Sterling Telecom Pty Ltd,AU,Enterprise,45,68000.0
+C0109,Union Systems FZ-LLC,AE,SMB,30,37000.0
+C0110,Desert Logistics Ltd,NZ,Mid-market,30,50000.0
+C0111,Falcon Travel FZE,AE,SMB,15,28000.0
+C0112,Bright Properties Limited,IE,Enterprise,30,62000.0
+C0113,Atlas Energy LLC,AE,Enterprise,45,39000.0
+C0114,Orbit Foods DAC,IE,Mid-market,30,5000.0
+C0115,Silver Trading Limited,NZ,Enterprise,60,78000.0
+C0116,Silver Media Pty Ltd,AU,Mid-market,30,36000.0
+C0117,Apex Finance Ltd,NZ,Mid-market,45,5000.0
+C0118,Union Pharma LLC,AE,Mid-market,30,7000.0
+C0119,Delta Finance AG,DE,Enterprise,30,9000.0
+C0120,Crescent Education Limited,IE,Mid-market,45,63000.0
+C0121,Apex Motors FZE,AE,Mid-market,45,90000.0
+C0122,Coral Trading Pty Ltd,AU,SMB,30,21000.0
+C0123,Harbour Travel Pty Ltd,AU,SMB,15,15000.0
+C0124,Titan Media Limited,IE,SMB,30,22000.0
+C0125,Crescent Foods FZ-LLC,AE,SMB,30,5000.0
+C0126,Willow Travel Pty Ltd,AU,Mid-market,45,59000.0
+C0127,River Energy FZ-LLC,AE,Enterprise,60,45000.0
+C0128,Delta Retail DAC,IE,Mid-market,30,23000.0
+C0129,Quantum Construction Limited,IE,Enterprise,30,68000.0
+C0130,Vertex Pharma Limited,NZ,Mid-market,45,31000.0
+C0131,River Motors Ltd,NZ,Enterprise,30,85000.0
+C0132,Iron Media FZ-LLC,AE,Mid-market,45,65000.0
+C0133,Vertex Energy Pty Ltd,AU,Enterprise,60,14000.0
+C0134,Red Hospitality Pty Ltd,AU,Enterprise,60,63000.0
+C0135,Delta Energy LLC,AE,Mid-market,30,25000.0
+C0136,Iron Retail AG,DE,Mid-market,45,109000.0
+C0137,Delta Education Limited,IE,Enterprise,60,85000.0
+C0138,Pacific Retail DAC,IE,Enterprise,45,56000.0
+C0139,Orbit Finance DAC,IE,Mid-market,45,59000.0
+C0140,Nova Energy Pty Ltd,AU,SMB,30,22000.0
+C0141,Delta Motors FZE,AE,Enterprise,30,24000.0
+C0142,Vertex Logistics FZ-LLC,AE,SMB,30,28000.0
+C0143,Falcon Telecom FZE,AE,SMB,15,41000.0
+C0144,Red Media DAC,IE,Enterprise,60,7000.0
+C0145,Crescent Motors Pty Ltd,AU,SMB,15,5000.0
+C0146,Zenith Pharma DAC,IE,Mid-market,30,15000.0
+C0147,Summit Trading FZ-LLC,AE,Enterprise,60,117000.0
+C0148,Harbour Foods GmbH,DE,Enterprise,60,65000.0
+C0149,Harbour Retail Pty Ltd,AU,SMB,30,30000.0
+C0150,River Analytics FZE,AE,SMB,30,55000.0
+C0151,Crescent Pharma Pty Ltd,AU,SMB,15,29000.0
+C0152,Silver Energy Pty Ltd,AU,Mid-market,45,60000.0
+C0153,Bright Education DAC,IE,SMB,30,59000.0
+C0154,Pioneer Logistics Pty Ltd,AU,SMB,15,5000.0
+C0155,Orbit Travel AG,DE,Mid-market,30,53000.0
+C0156,Red Foods Limited,IE,Mid-market,30,116000.0
+C0157,Emerald Telecom Pty Ltd,AU,Mid-market,30,43000.0
+C0158,Orbit Hospitality LLC,AE,Enterprise,30,37000.0
+C0159,Emerald Analytics Pty Ltd,AU,SMB,30,13000.0
+C0160,Crescent Hospitality Limited,IE,Enterprise,30,8000.0
+C0161,Summit Properties Limited,IE,SMB,30,12000.0
+C0162,Titan Logistics B.V.,NL,SMB,15,29000.0
+C0163,Red Logistics Limited,NZ,SMB,15,5000.0
+C0164,North Energy FZE,AE,SMB,30,79000.0
+C0165,Apex Analytics Pty Ltd,AU,Enterprise,45,43000.0
+C0166,Bright Insurance FZ-LLC,AE,SMB,15,51000.0
+C0167,Nova Foods DAC,IE,SMB,30,13000.0
+C0168,Harbour Construction Pty Ltd,AU,Mid-market,30,25000.0
+C0169,Titan Telecom Pty Ltd,AU,Enterprise,60,28000.0
+C0170,Apex Education GmbH,DE,Mid-market,45,14000.0
+C0171,Orbit Motors Pty Ltd,AU,Mid-market,30,84000.0
+C0172,Coral Energy AG,DE,SMB,30,5000.0
+C0173,Sterling Education AG,DE,Enterprise,60,5000.0
+C0174,Nova Health DAC,IE,Enterprise,60,72000.0
+C0175,Pacific Foods Ltd,NZ,Mid-market,45,5000.0
+C0176,Bright Telecom Limited,NZ,Enterprise,60,31000.0
+C0177,Desert Construction Pty Ltd,AU,SMB,30,25000.0
+C0178,Zenith Logistics B.V.,NL,Mid-market,45,47000.0
+C0179,Desert Analytics Pty Ltd,AU,Enterprise,60,51000.0
+C0180,Emerald Health Limited,NZ,Mid-market,30,15000.0
+C0181,Nova Pharma Pty Ltd,AU,Enterprise,60,5000.0
+C0182,Falcon Properties FZ-LLC,AE,SMB,30,14000.0
+C0183,Titan Health Pty Ltd,AU,SMB,30,21000.0
+C0184,Falcon Labs B.V.,NL,SMB,30,47000.0
+C0185,Willow Media Pty Ltd,AU,Mid-market,30,47000.0
+C0186,Willow Telecom DAC,IE,SMB,30,106000.0
+C0187,Titan Hospitality B.V.,NL,Enterprise,60,76000.0
+C0188,Silver Motors Pty Ltd,AU,SMB,30,32000.0
+C0189,Quantum Insurance LLC,AE,Enterprise,30,5000.0
+C0190,Union Energy Limited,IE,Enterprise,45,143000.0
+C0191,Apex Retail LLC,AE,Mid-market,30,36000.0
+C0192,Apex Properties B.V.,NL,Enterprise,60,89000.0
+C0193,Harbour Hospitality GmbH,DE,Mid-market,45,21000.0
+C0194,Coral Insurance Limited,NZ,SMB,30,20000.0
+C0195,Falcon Retail Pty Ltd,AU,Mid-market,45,88000.0
+C0196,Bright Health Ltd,NZ,SMB,30,22000.0
+C0197,Pioneer Insurance Pty Ltd,AU,Mid-market,30,5000.0
+C0198,Silver Insurance Limited,IE,Mid-market,30,29000.0
+C0199,Titan Finance Ltd,NZ,Mid-market,45,90000.0
+C0200,Vertex Trading B.V.,NL,SMB,30,8000.0
+C0201,Falcon Construction Pty Ltd,AU,SMB,30,70000.0
+C0202,Falcon Motors Limited,IE,Mid-market,30,36000.0
+C0203,Union Labs Limited,NZ,Enterprise,45,12000.0
+C0204,Granite Insurance Limited,IE,Mid-market,30,53000.0
+C0205,Falcon Finance LLC,AE,SMB,15,37000.0
+C0206,Harbour Energy LLC,AE,Enterprise,45,36000.0
+C0207,Crescent Insurance B.V.,NL,Enterprise,45,18000.0
+C0208,Iron Energy LLC,AE,Enterprise,45,101000.0
+C0209,North Telecom B.V.,NL,Mid-market,45,63000.0
+C0210,Apex Hospitality GmbH,DE,Mid-market,45,55000.0
+C0211,Summit Analytics DAC,IE,Mid-market,30,5000.0
+C0212,Crescent Systems Limited,NZ,Mid-market,45,66000.0
+C0213,Willow Insurance Limited,IE,Mid-market,30,34000.0
+C0214,Quantum Energy Pty Ltd,AU,Mid-market,30,29000.0
+C0215,Iron Insurance DAC,IE,Mid-market,30,41000.0
+C0216,Cedar Foods FZE,AE,SMB,30,46000.0
+C0217,Granite Pharma FZE,AE,Mid-market,45,7000.0
+C0218,Summit Energy Pty Ltd,AU,SMB,30,11000.0
+C0219,Nova Trading FZ-LLC,AE,SMB,30,47000.0
+C0220,Sterling Media GmbH,DE,SMB,30,101000.0
+C0221,Desert Retail Ltd,NZ,Enterprise,60,69000.0
+C0222,North Motors Ltd,NZ,Mid-market,30,44000.0
+C0223,Zenith Labs LLC,AE,Enterprise,60,33000.0
+C0224,Willow Pharma FZE,AE,Enterprise,30,19000.0
+C0225,Orbit Health B.V.,NL,SMB,15,62000.0
+C0226,Falcon Insurance Pty Ltd,AU,Mid-market,30,5000.0
+C0227,Falcon Analytics LLC,AE,SMB,30,50000.0
+C0228,Nova Motors B.V.,NL,SMB,30,49000.0
+C0229,Pioneer Analytics Pty Ltd,AU,SMB,30,27000.0
+C0230,Silver Labs Pty Ltd,AU,Mid-market,45,5000.0
+C0231,Orbit Analytics FZ-LLC,AE,Mid-market,45,94000.0
+C0232,Blue Energy Pty Ltd,AU,Enterprise,60,38000.0
+C0233,Iron Properties Pty Ltd,AU,Mid-market,30,56000.0
+C0234,Sterling Energy Pty Ltd,AU,SMB,30,41000.0
+C0235,Iron Education Limited,IE,Mid-market,30,100000.0
+C0236,Titan Travel FZE,AE,SMB,30,38000.0
+C0237,Vertex Analytics FZE,AE,Mid-market,45,5000.0
+C0238,Willow Finance B.V.,NL,SMB,30,78000.0
+C0239,Pacific Pharma B.V.,NL,Mid-market,30,36000.0
+C0240,Titan Retail B.V.,NL,Enterprise,60,48000.0
+C0241,Nova Telecom Pty Ltd,AU,Mid-market,45,104000.0
+C0242,Quantum Analytics Pty Ltd,AU,Enterprise,60,7000.0
+C0243,Apex Energy Ltd,NZ,SMB,30,20000.0
+C0244,Desert Labs Limited,NZ,Mid-market,30,63000.0
+C0245,Atlas Systems B.V.,NL,SMB,30,31000.0
+C0246,Desert Properties Limited,NZ,Enterprise,60,8000.0
+C0247,Granite Properties Pty Ltd,AU,Enterprise,60,12000.0
+C0248,Union Logistics B.V.,NL,Enterprise,60,5000.0
+C0249,Pioneer Media DAC,IE,SMB,30,23000.0
+C0250,Orbit Systems FZ-LLC,AE,Enterprise,45,97000.0
+C0251,Delta Analytics Pty Ltd,AU,SMB,15,5000.0
+C0252,Atlas Hospitality Pty Ltd,AU,Mid-market,30,7000.0
+C0253,Nova Media B.V.,NL,Enterprise,60,223000.0
+C0254,Orbit Pharma Pty Ltd,AU,Mid-market,45,5000.0
+C0255,Sterling Analytics Limited,NZ,Enterprise,60,10000.0
+C0256,Blue Foods AG,DE,Mid-market,45,5000.0
+C0257,Iron Health Pty Ltd,AU,Mid-market,30,61000.0
+C0258,Atlas Trading Limited,NZ,Mid-market,45,62000.0
+C0259,Quantum Health Limited,NZ,Mid-market,30,16000.0
+C0260,Harbour Trading Limited,NZ,SMB,30,24000.0
+C0261,Sterling Labs Pty Ltd,AU,SMB,30,30000.0
+C0262,Falcon Logistics Pty Ltd,AU,Enterprise,60,118000.0
+C0263,Zenith Health Ltd,NZ,Mid-market,30,26000.0
+C0264,Vertex Media LLC,AE,SMB,30,17000.0
+C0265,Cedar Telecom LLC,AE,Enterprise,60,26000.0
+C0266,Delta Health B.V.,NL,Enterprise,45,37000.0
+C0267,Iron Labs Pty Ltd,AU,Enterprise,60,28000.0
+C0268,Apex Construction Pty Ltd,AU,Enterprise,60,81000.0
+C0269,Cedar Pharma Pty Ltd,AU,Enterprise,60,39000.0
+C0270,Red Properties Pty Ltd,AU,Mid-market,30,67000.0
+C0271,Bright Energy DAC,IE,Mid-market,30,19000.0
+C0272,Summit Systems AG,DE,SMB,30,18000.0
+C0273,Zenith Properties LLC,AE,Enterprise,45,5000.0
+C0274,Pacific Health LLC,AE,SMB,30,21000.0
+C0275,Harbour Logistics GmbH,DE,Mid-market,45,28000.0
+C0276,Summit Travel Pty Ltd,AU,SMB,30,21000.0
+C0277,Pacific Education GmbH,DE,SMB,30,14000.0
+C0278,Bright Pharma Limited,IE,Mid-market,45,10000.0
+C0279,Blue Travel Limited,IE,Mid-market,30,5000.0
+C0280,River Insurance DAC,IE,Enterprise,45,37000.0
+C0281,Summit Foods Pty Ltd,AU,Enterprise,60,98000.0
+C0282,Bright Travel FZE,AE,Enterprise,60,43000.0
+C0283,Emerald Motors B.V.,NL,Enterprise,30,47000.0
+C0284,Cedar Media LLC,AE,Mid-market,30,5000.0
+C0285,Union Analytics Limited,IE,SMB,30,34000.0
+C0286,Quantum Travel Pty Ltd,AU,Mid-market,45,16000.0
+C0287,Pioneer Energy AG,DE,Mid-market,30,76000.0
+C0288,Bright Systems GmbH,DE,SMB,30,48000.0
+C0289,Silver Properties Limited,NZ,SMB,15,7000.0
+C0290,Harbour Finance Ltd,NZ,Enterprise,30,75000.0
+C0291,Sterling Pharma LLC,AE,SMB,30,5000.0
+C0292,Quantum Telecom Pty Ltd,AU,Enterprise,60,38000.0
+C0293,Crescent Logistics B.V.,NL,Enterprise,45,21000.0
+C0294,North Retail FZ-LLC,AE,SMB,30,17000.0
+C0295,Zenith Telecom B.V.,NL,Mid-market,30,38000.0
+C0296,Harbour Analytics Pty Ltd,AU,SMB,30,5000.0
+C0297,Apex Logistics AG,DE,Mid-market,45,45000.0
+C0298,Pacific Hospitality Ltd,NZ,Enterprise,60,30000.0
+C0299,Silver Foods B.V.,NL,SMB,30,27000.0
+C0300,Harbour Insurance FZ-LLC,AE,Enterprise,30,37000.0
+C9001,Apex Analytics B.V.,NL,SMB,15,5000.0
+C9002,Apex Construction B.V.,NL,SMB,30,9000.0
+C9003,Apex Construction LLC,AE,SMB,30,5000.0
+C9004,Apex Education Ltd,NZ,SMB,30,5000.0
+C9005,Apex Hospitality B.V.,NL,SMB,30,5000.0
+C9006,Apex Insurance DAC,IE,SMB,30,5000.0
+C9007,Apex Insurance Limited,IE,SMB,30,7000.0
+C9008,Apex Insurance Pty Ltd,AU,SMB,30,5000.0
+C9009,Apex Labs Limited,NZ,SMB,30,7000.0
+C9010,Apex Media DAC,IE,SMB,30,5000.0
+C9011,Apex Media LLC,AE,SMB,30,5000.0
+C9012,Apex Systems B.V.,NL,SMB,30,9000.0
+C9013,Apex Telecom AG,DE,SMB,30,5000.0
+C9014,Atlas Construction FZ-LLC,AE,SMB,15,5000.0
+C9015,Atlas Foods Limited,NZ,SMB,30,5000.0
+C9016,Atlas Hospitality FZE,AE,SMB,30,5000.0
+C9017,Atlas Insurance B.V.,NL,SMB,15,5000.0
+C9018,Atlas Logistics B.V.,NL,SMB,30,8000.0
+C9019,Atlas Motors B.V.,NL,SMB,30,6000.0
+C9020,Atlas Retail DAC,IE,SMB,30,5000.0
+C9021,Atlas Telecom B.V.,NL,SMB,30,5000.0
+C9022,Atlas Telecom DAC,IE,SMB,30,7000.0
+C9023,Atlas Travel Limited,IE,SMB,30,6000.0
+C9024,Blue Analytics Ltd,NZ,SMB,30,5000.0
+C9025,Blue Education DAC,IE,SMB,30,5000.0
+C9026,Blue Finance Pty Ltd,AU,SMB,30,6000.0
+C9027,Blue Foods B.V.,NL,SMB,30,5000.0
+C9028,Blue Foods Limited,NZ,SMB,30,5000.0
+C9029,Blue Hospitality DAC,IE,SMB,30,6000.0
+C9030,Blue Hospitality LLC,AE,SMB,30,5000.0
+C9031,Blue Hospitality Pty Ltd,AU,SMB,30,8000.0
+C9032,Blue Insurance Limited,IE,SMB,15,5000.0
+C9033,Blue Labs AG,DE,SMB,30,7000.0
+C9034,Blue Labs B.V.,NL,SMB,30,5000.0
+C9035,Blue Labs Limited,IE,SMB,30,5000.0
+C9036,Blue Labs Pty Ltd,AU,SMB,15,5000.0
+C9037,Blue Logistics DAC,IE,SMB,15,5000.0
+C9038,Blue Logistics Pty Ltd,AU,SMB,30,6000.0
+C9039,Blue Pharma FZ-LLC,AE,SMB,30,8000.0
+C9040,Blue Pharma Limited,IE,SMB,30,9000.0
+C9041,Blue Properties B.V.,NL,SMB,30,9000.0
+C9042,Blue Properties FZ-LLC,AE,SMB,30,5000.0
+C9043,Blue Properties Pty Ltd,AU,SMB,30,5000.0
+C9044,Blue Systems B.V.,NL,SMB,30,5000.0
+C9045,Blue Trading Ltd,NZ,SMB,15,5000.0
+C9046,Bright Analytics FZE,AE,SMB,30,5000.0
+C9047,Bright Construction Pty Ltd,AU,SMB,15,5000.0
+C9048,Bright Education Pty Ltd,AU,SMB,30,5000.0
+C9049,Bright Energy B.V.,NL,SMB,30,9000.0
+C9050,Bright Hospitality AG,DE,SMB,30,9000.0
+C9051,Bright Hospitality DAC,IE,SMB,30,5000.0
+C9052,Bright Labs B.V.,NL,SMB,30,5000.0
+C9053,Bright Media AG,DE,SMB,15,6000.0
+C9054,Bright Media Ltd,NZ,SMB,30,5000.0
+C9055,Bright Motors AG,DE,SMB,30,5000.0
+C9056,Bright Systems DAC,IE,SMB,30,5000.0
+C9057,Bright Travel Limited,NZ,SMB,30,5000.0
+C9058,Cedar Construction B.V.,NL,SMB,30,5000.0
+C9059,Cedar Construction Ltd,NZ,SMB,30,6000.0
+C9060,Cedar Finance GmbH,DE,SMB,30,5000.0
+C9061,Cedar Health B.V.,NL,SMB,30,5000.0
+C9062,Cedar Hospitality DAC,IE,SMB,30,6000.0
+C9063,Cedar Insurance Ltd,NZ,SMB,30,6000.0
+C9064,Cedar Logistics Pty Ltd,AU,SMB,30,7000.0
+C9065,Cedar Media DAC,IE,SMB,30,5000.0
+C9066,Cedar Media Limited,IE,SMB,30,9000.0
+C9067,Cedar Motors AG,DE,SMB,30,5000.0
+C9068,Cedar Systems Pty Ltd,AU,SMB,30,7000.0
+C9069,Cedar Telecom Pty Ltd,AU,SMB,30,5000.0
+C9070,Cedar Trading B.V.,NL,SMB,30,5000.0
+C9071,Cedar Trading Limited,IE,SMB,15,5000.0
+C9072,Coral Analytics DAC,IE,SMB,30,9000.0
+C9073,Coral Construction Pty Ltd,AU,SMB,30,6000.0
+C9074,Coral Finance Limited,IE,SMB,30,6000.0
+C9075,Coral Insurance LLC,AE,SMB,30,5000.0
+C9076,Coral Labs Ltd,NZ,SMB,30,6000.0
+C9077,Coral Logistics GmbH,DE,SMB,30,5000.0
+C9078,Coral Logistics LLC,AE,SMB,30,6000.0
+C9079,Coral Motors B.V.,NL,SMB,30,5000.0
+C9080,Coral Motors Ltd,NZ,SMB,15,5000.0
+C9081,Coral Motors Pty Ltd,AU,SMB,30,5000.0
+C9082,Coral Retail Ltd,NZ,SMB,30,5000.0
+C9083,Crescent Energy Limited,IE,SMB,30,5000.0
+C9084,Crescent Foods AG,DE,SMB,15,5000.0
+C9085,Crescent Foods Limited,NZ,SMB,30,5000.0
+C9086,Crescent Health B.V.,NL,SMB,30,5000.0
+C9087,Crescent Health Limited,IE,SMB,30,5000.0
+C9088,Crescent Insurance Pty Ltd,AU,SMB,30,6000.0
+C9089,Crescent Labs Limited,NZ,SMB,30,6000.0
+C9090,Crescent Media B.V.,NL,SMB,30,6000.0
+C9091,Crescent Pharma FZE,AE,SMB,15,5000.0
+C9092,Crescent Telecom Pty Ltd,AU,SMB,30,5000.0
+C9093,Crescent Trading B.V.,NL,SMB,15,5000.0
+C9094,Crescent Trading Pty Ltd,AU,SMB,15,5000.0
+C9095,Delta Construction GmbH,DE,SMB,30,5000.0
+C9096,Delta Insurance DAC,IE,SMB,15,5000.0
+C9097,Delta Logistics GmbH,DE,SMB,30,8000.0
+C9098,Delta Logistics Limited,IE,SMB,30,5000.0
+C9099,Delta Properties FZ-LLC,AE,SMB,30,7000.0
+C9100,Delta Travel B.V.,NL,SMB,15,5000.0
+C9101,Desert Construction B.V.,NL,SMB,30,6000.0
+C9102,Desert Education FZE,AE,SMB,30,5000.0
+C9103,Desert Energy B.V.,NL,SMB,15,5000.0
+C9104,Desert Finance Limited,NZ,SMB,30,5000.0
+C9105,Desert Insurance Pty Ltd,AU,SMB,30,5000.0
+C9106,Desert Logistics B.V.,NL,SMB,30,7000.0
+C9107,Desert Media B.V.,NL,SMB,30,5000.0
+C9108,Desert Motors B.V.,NL,SMB,30,5000.0
+C9109,Desert Motors LLC,AE,SMB,30,5000.0
+C9110,Desert Properties FZE,AE,SMB,30,8000.0
+C9111,Desert Systems B.V.,NL,SMB,15,5000.0
+C9112,Desert Systems GmbH,DE,SMB,30,5000.0
+C9113,Desert Systems Ltd,NZ,SMB,30,7000.0
+C9114,Desert Telecom GmbH,DE,SMB,30,8000.0
+C9115,Emerald Analytics DAC,IE,SMB,15,5000.0
+C9116,Emerald Analytics LLC,AE,SMB,30,5000.0
+C9117,Emerald Construction B.V.,NL,SMB,30,6000.0
+C9118,Emerald Construction Limited,IE,SMB,30,6000.0
+C9119,Emerald Education FZE,AE,SMB,30,6000.0
+C9120,Emerald Energy GmbH,DE,SMB,30,5000.0
+C9121,Emerald Energy LLC,AE,SMB,30,5000.0
+C9122,Emerald Foods FZE,AE,SMB,30,5000.0
+C9123,Emerald Health B.V.,NL,SMB,30,5000.0
+C9124,Emerald Labs AG,DE,SMB,30,5000.0
+C9125,Emerald Motors Pty Ltd,AU,SMB,15,5000.0
+C9126,Emerald Pharma FZ-LLC,AE,SMB,30,5000.0
+C9127,Emerald Retail Limited,NZ,SMB,30,5000.0
+C9128,Emerald Systems LLC,AE,SMB,30,5000.0
+C9129,Emerald Systems Pty Ltd,AU,SMB,30,5000.0
+C9130,Emerald Telecom FZ-LLC,AE,SMB,30,5000.0
+C9131,Emerald Trading Limited,NZ,SMB,30,5000.0
+C9132,Falcon Construction DAC,IE,SMB,30,5000.0
+C9133,Falcon Finance Pty Ltd,AU,SMB,30,5000.0
+C9134,Falcon Foods B.V.,NL,SMB,30,8000.0
+C9135,Falcon Hospitality LLC,AE,SMB,30,5000.0
+C9136,Falcon Hospitality Ltd,NZ,SMB,15,5000.0
+C9137,Falcon Labs Limited,NZ,SMB,15,5000.0
+C9138,Falcon Retail B.V.,NL,SMB,30,5000.0
+C9139,Falcon Retail LLC,AE,SMB,15,5000.0
+C9140,Falcon Travel B.V.,NL,SMB,30,6000.0
+C9141,Granite Analytics LLC,AE,SMB,30,5000.0
+C9142,Granite Analytics Limited,NZ,SMB,15,5000.0
+C9143,Granite Energy AG,DE,SMB,30,7000.0
+C9144,Granite Health FZE,AE,SMB,15,5000.0
+C9145,Granite Health Ltd,NZ,SMB,15,5000.0
+C9146,Granite Hospitality DAC,IE,SMB,30,5000.0
+C9147,Granite Hospitality Ltd,NZ,SMB,30,6000.0
+C9148,Granite Insurance GmbH,DE,SMB,30,5000.0
+C9149,Granite Media AG,DE,SMB,30,5000.0
+C9150,Granite Systems Ltd,NZ,SMB,30,5000.0
+C9151,Granite Trading DAC,IE,SMB,30,8000.0
+C9152,Granite Trading Limited,IE,SMB,30,8000.0
+C9153,Granite Travel Ltd,NZ,SMB,15,6000.0
+C9154,Harbour Construction B.V.,NL,SMB,30,6000.0
+C9155,Harbour Construction GmbH,DE,SMB,30,5000.0
+C9156,Harbour Labs DAC,IE,SMB,30,8000.0
+C9157,Harbour Labs Pty Ltd,AU,SMB,30,5000.0
+C9158,Harbour Media Limited,NZ,SMB,30,5000.0
+C9159,Harbour Pharma Ltd,NZ,SMB,30,5000.0
+C9160,Harbour Properties GmbH,DE,SMB,30,5000.0
+C9161,Harbour Properties Limited,NZ,SMB,30,5000.0
+C9162,Harbour Retail B.V.,NL,SMB,30,5000.0
+C9163,Harbour Travel AG,DE,SMB,30,5000.0
+C9164,Iron Energy Pty Ltd,AU,SMB,15,5000.0
+C9165,Iron Finance AG,DE,SMB,30,5000.0
+C9166,Iron Finance LLC,AE,SMB,30,7000.0
+C9167,Iron Foods B.V.,NL,SMB,15,5000.0
+C9168,Iron Health GmbH,DE,SMB,30,6000.0
+C9169,Iron Hospitality B.V.,NL,SMB,30,8000.0
+C9170,Iron Hospitality FZ-LLC,AE,SMB,30,5000.0
+C9171,Iron Insurance B.V.,NL,SMB,30,5000.0
+C9172,Iron Labs B.V.,NL,SMB,15,5000.0
+C9173,Iron Media B.V.,NL,SMB,30,6000.0
+C9174,Iron Media DAC,IE,SMB,30,8000.0
+C9175,Iron Media Pty Ltd,AU,SMB,30,5000.0
+C9176,Iron Motors AG,DE,SMB,30,5000.0
+C9177,Iron Motors FZ-LLC,AE,SMB,30,5000.0
+C9178,Iron Pharma Limited,NZ,SMB,15,6000.0
+C9179,Iron Properties B.V.,NL,SMB,30,6000.0
+C9180,Iron Trading LLC,AE,SMB,30,5000.0
+C9181,North Construction DAC,IE,SMB,30,6000.0
+C9182,North Education LLC,AE,SMB,30,5000.0
+C9183,North Energy B.V.,NL,SMB,15,5000.0
+C9184,North Foods Limited,IE,SMB,30,5000.0
+C9185,North Health B.V.,NL,SMB,30,5000.0
+C9186,North Health FZ-LLC,AE,SMB,30,5000.0
+C9187,North Health LLC,AE,SMB,30,5000.0
+C9188,North Insurance Limited,NZ,SMB,30,5000.0
+C9189,North Logistics LLC,AE,SMB,30,5000.0
+C9190,North Pharma B.V.,NL,SMB,30,5000.0
+C9191,North Pharma DAC,IE,SMB,30,5000.0
+C9192,North Pharma LLC,AE,SMB,15,5000.0
+C9193,North Systems Pty Ltd,AU,SMB,30,8000.0
+C9194,North Trading Limited,NZ,SMB,30,7000.0
+C9195,North Travel LLC,AE,SMB,30,8000.0
+C9196,Nova Analytics Pty Ltd,AU,SMB,30,5000.0
+C9197,Nova Education Pty Ltd,AU,SMB,30,5000.0
+C9198,Nova Health GmbH,DE,SMB,30,5000.0
+C9199,Nova Health Pty Ltd,AU,SMB,30,7000.0
+C9200,Nova Labs LLC,AE,SMB,30,5000.0
+C9201,Nova Labs Ltd,NZ,SMB,30,5000.0
+C9202,Nova Logistics B.V.,NL,SMB,15,5000.0
+C9203,Nova Motors Limited,IE,SMB,30,7000.0
+C9204,Nova Retail AG,DE,SMB,30,5000.0
+C9205,Nova Retail GmbH,DE,SMB,30,5000.0
+C9206,Nova Systems Limited,IE,SMB,30,5000.0
+C9207,Nova Trading B.V.,NL,SMB,30,9000.0
+C9208,Nova Travel Pty Ltd,AU,SMB,30,5000.0
+C9209,Orbit Analytics AG,DE,SMB,30,5000.0
+C9210,Orbit Analytics Ltd,NZ,SMB,30,5000.0
+C9211,Orbit Education B.V.,NL,SMB,15,5000.0
+C9212,Orbit Energy AG,DE,SMB,30,8000.0
+C9213,Orbit Energy Pty Ltd,AU,SMB,30,5000.0
+C9214,Orbit Foods Pty Ltd,AU,SMB,30,8000.0
+C9215,Orbit Hospitality Ltd,NZ,SMB,30,5000.0
+C9216,Orbit Insurance Limited,IE,SMB,30,7000.0
+C9217,Orbit Insurance Pty Ltd,AU,SMB,30,6000.0
+C9218,Orbit Logistics FZ-LLC,AE,SMB,30,5000.0
+C9219,Orbit Properties GmbH,DE,SMB,30,7000.0
+C9220,Orbit Telecom B.V.,NL,SMB,30,5000.0
+C9221,Orbit Trading Ltd,NZ,SMB,30,5000.0
+C9222,Orbit Travel B.V.,NL,SMB,30,5000.0
+C9223,Pacific Analytics GmbH,DE,SMB,30,8000.0
+C9224,Pacific Analytics Ltd,NZ,SMB,30,5000.0
+C9225,Pacific Construction FZ-LLC,AE,SMB,30,5000.0
+C9226,Pacific Education FZ-LLC,AE,SMB,15,5000.0
+C9227,Pacific Health Ltd,NZ,SMB,30,6000.0
+C9228,Pacific Hospitality GmbH,DE,SMB,15,5000.0
+C9229,Pacific Labs B.V.,NL,SMB,30,5000.0
+C9230,Pacific Trading LLC,AE,SMB,15,5000.0
+C9231,Pacific Travel Limited,IE,SMB,30,5000.0
+C9232,Pioneer Analytics B.V.,NL,SMB,30,5000.0
+C9233,Pioneer Construction B.V.,NL,SMB,30,7000.0
+C9234,Pioneer Construction DAC,IE,SMB,30,5000.0
+C9235,Pioneer Education B.V.,NL,SMB,30,5000.0
+C9236,Pioneer Foods Pty Ltd,AU,SMB,30,7000.0
+C9237,Pioneer Insurance B.V.,NL,SMB,30,5000.0
+C9238,Pioneer Insurance DAC,IE,SMB,30,5000.0
+C9239,Pioneer Labs FZ-LLC,AE,SMB,30,5000.0
+C9240,Pioneer Logistics B.V.,NL,SMB,30,8000.0
+C9241,Pioneer Motors AG,DE,SMB,30,5000.0
+C9242,Pioneer Motors DAC,IE,SMB,30,6000.0
+C9243,Pioneer Pharma LLC,AE,SMB,30,5000.0
+C9244,Pioneer Telecom GmbH,DE,SMB,30,5000.0
+C9245,Pioneer Travel Ltd,NZ,SMB,30,5000.0
+C9246,Quantum Education GmbH,DE,SMB,30,5000.0
+C9247,Quantum Energy B.V.,NL,SMB,30,5000.0
+C9248,Quantum Foods B.V.,NL,SMB,15,5000.0
+C9249,Quantum Labs Limited,NZ,SMB,30,5000.0
+C9250,Quantum Logistics Limited,IE,SMB,30,5000.0
+C9251,Quantum Media LLC,AE,SMB,30,5000.0
+C9252,Quantum Media Pty Ltd,AU,SMB,30,5000.0
+C9253,Quantum Pharma DAC,IE,SMB,30,9000.0
+C9254,Quantum Telecom GmbH,DE,SMB,30,5000.0
+C9255,Quantum Trading DAC,IE,SMB,15,5000.0
+C9256,Quantum Trading Limited,NZ,SMB,30,5000.0
+C9257,Quantum Trading Pty Ltd,AU,SMB,30,5000.0
+C9258,Red Analytics DAC,IE,SMB,30,5000.0
+C9259,Red Analytics Pty Ltd,AU,SMB,30,6000.0
+C9260,Red Construction B.V.,NL,SMB,30,5000.0
+C9261,Red Construction Limited,IE,SMB,30,5000.0
+C9262,Red Energy Pty Ltd,AU,SMB,30,5000.0
+C9263,Red Finance B.V.,NL,SMB,15,5000.0
+C9264,Red Foods FZE,AE,SMB,30,6000.0
+C9265,Red Foods LLC,AE,SMB,30,8000.0
+C9266,Red Insurance GmbH,DE,SMB,30,8000.0
+C9267,Red Media GmbH,DE,SMB,30,8000.0
+C9268,Red Motors FZE,AE,SMB,15,5000.0
+C9269,Red Pharma B.V.,NL,SMB,30,9000.0
+C9270,Red Pharma Limited,NZ,SMB,30,7000.0
+C9271,Red Retail B.V.,NL,SMB,30,5000.0
+C9272,Red Systems Pty Ltd,AU,SMB,15,5000.0
+C9273,Red Trading B.V.,NL,SMB,15,5000.0
+C9274,River Construction Pty Ltd,AU,SMB,30,5000.0
+C9275,River Energy Ltd,NZ,SMB,30,6000.0
+C9276,River Health B.V.,NL,SMB,30,9000.0
+C9277,River Logistics B.V.,NL,SMB,30,5000.0
+C9278,River Logistics Pty Ltd,AU,SMB,30,6000.0
+C9279,River Media Pty Ltd,AU,SMB,30,5000.0
+C9280,River Pharma LLC,AE,SMB,30,8000.0
+C9281,River Trading GmbH,DE,SMB,30,5000.0
+C9282,River Trading LLC,AE,SMB,30,7000.0
+C9283,Silver Energy LLC,AE,SMB,30,7000.0
+C9284,Silver Insurance LLC,AE,SMB,30,6000.0
+C9285,Silver Logistics AG,DE,SMB,30,5000.0
+C9286,Silver Logistics GmbH,DE,SMB,30,8000.0
+C9287,Silver Pharma LLC,AE,SMB,30,5000.0
+C9288,Silver Retail DAC,IE,SMB,30,6000.0
+C9289,Silver Systems B.V.,NL,SMB,30,7000.0
+C9290,Silver Telecom GmbH,DE,SMB,30,9000.0
+C9291,Silver Travel Limited,IE,SMB,30,5000.0
+C9292,Sterling Construction B.V.,NL,SMB,30,5000.0
+C9293,Sterling Construction Pty Ltd,AU,SMB,30,6000.0
+C9294,Sterling Education LLC,AE,SMB,30,8000.0
+C9295,Sterling Finance LLC,AE,SMB,30,6000.0
+C9296,Sterling Health AG,DE,SMB,30,7000.0
+C9297,Sterling Health LLC,AE,SMB,30,5000.0
+C9298,Sterling Insurance Limited,IE,SMB,30,5000.0
+C9299,Sterling Logistics AG,DE,SMB,15,5000.0
+C9300,Sterling Logistics Limited,NZ,SMB,30,6000.0
+C9301,Sterling Motors FZ-LLC,AE,SMB,30,6000.0
+C9302,Sterling Pharma Ltd,NZ,SMB,30,7000.0
+C9303,Sterling Trading FZE,AE,SMB,30,5000.0
+C9304,Summit Construction B.V.,NL,SMB,30,8000.0
+C9305,Summit Construction LLC,AE,SMB,15,5000.0
+C9306,Summit Construction Ltd,NZ,SMB,30,5000.0
+C9307,Summit Energy FZ-LLC,AE,SMB,30,5000.0
+C9308,Summit Hospitality B.V.,NL,SMB,30,5000.0
+C9309,Summit Hospitality GmbH,DE,SMB,30,8000.0
+C9310,Summit Labs Limited,IE,SMB,30,5000.0
+C9311,Summit Logistics B.V.,NL,SMB,30,5000.0
+C9312,Summit Logistics Ltd,NZ,SMB,15,5000.0
+C9313,Summit Motors B.V.,NL,SMB,30,8000.0
+C9314,Summit Motors Pty Ltd,AU,SMB,30,5000.0
+C9315,Summit Telecom B.V.,NL,SMB,30,8000.0
+C9316,Summit Trading GmbH,DE,SMB,30,9000.0
+C9317,Summit Trading Ltd,NZ,SMB,30,5000.0
+C9318,Titan Analytics Limited,IE,SMB,15,6000.0
+C9319,Titan Analytics Pty Ltd,AU,SMB,30,7000.0
+C9320,Titan Construction Pty Ltd,AU,SMB,30,8000.0
+C9321,Titan Finance B.V.,NL,SMB,30,5000.0
+C9322,Titan Finance FZ-LLC,AE,SMB,30,5000.0
+C9323,Titan Insurance Limited,NZ,SMB,15,5000.0
+C9324,Titan Insurance Pty Ltd,AU,SMB,30,5000.0
+C9325,Titan Labs GmbH,DE,SMB,30,5000.0
+C9326,Titan Logistics AG,DE,SMB,30,5000.0
+C9327,Titan Logistics FZE,AE,SMB,30,5000.0
+C9328,Titan Properties B.V.,NL,SMB,30,7000.0
+C9329,Titan Telecom GmbH,DE,SMB,30,5000.0
+C9330,Titan Trading Limited,NZ,SMB,30,7000.0
+C9331,Union Analytics B.V.,NL,SMB,30,7000.0
+C9332,Union Finance AG,DE,SMB,30,5000.0
+C9333,Union Foods DAC,IE,SMB,30,5000.0
+C9334,Union Health GmbH,DE,SMB,30,7000.0
+C9335,Union Health LLC,AE,SMB,15,5000.0
+C9336,Union Hospitality DAC,IE,SMB,30,5000.0
+C9337,Union Insurance B.V.,NL,SMB,15,5000.0
+C9338,Union Insurance GmbH,DE,SMB,30,5000.0
+C9339,Union Media FZ-LLC,AE,SMB,30,5000.0
+C9340,Union Media Pty Ltd,AU,SMB,30,5000.0
+C9341,Union Motors AG,DE,SMB,15,5000.0
+C9342,Union Motors Limited,IE,SMB,15,5000.0
+C9343,Union Motors Pty Ltd,AU,SMB,30,5000.0
+C9344,Union Pharma AG,DE,SMB,30,6000.0
+C9345,Union Properties Limited,IE,SMB,30,5000.0
+C9346,Union Retail B.V.,NL,SMB,30,6000.0
+C9347,Union Retail DAC,IE,SMB,30,5000.0
+C9348,Union Retail Limited,IE,SMB,30,5000.0
+C9349,Union Systems B.V.,NL,SMB,30,6000.0
+C9350,Union Systems Pty Ltd,AU,SMB,30,5000.0
+C9351,Union Telecom AG,DE,SMB,30,5000.0
+C9352,Union Trading LLC,AE,SMB,30,5000.0
+C9353,Union Travel DAC,IE,SMB,30,5000.0
+C9354,Vertex Construction B.V.,NL,SMB,30,5000.0
+C9355,Vertex Energy FZ-LLC,AE,SMB,30,7000.0
+C9356,Vertex Energy GmbH,DE,SMB,30,5000.0
+C9357,Vertex Foods Pty Ltd,AU,SMB,30,5000.0
+C9358,Vertex Logistics Limited,NZ,SMB,30,5000.0
+C9359,Vertex Media Pty Ltd,AU,SMB,30,5000.0
+C9360,Vertex Pharma B.V.,NL,SMB,30,7000.0
+C9361,Vertex Properties Limited,IE,SMB,30,6000.0
+C9362,Vertex Retail B.V.,NL,SMB,30,5000.0
+C9363,Vertex Systems B.V.,NL,SMB,30,5000.0
+C9364,Vertex Trading Ltd,NZ,SMB,30,5000.0
+C9365,Vertex Travel DAC,IE,SMB,15,5000.0
+C9366,Vertex Travel Ltd,NZ,SMB,30,5000.0
+C9367,Willow Analytics FZ-LLC,AE,SMB,30,5000.0
+C9368,Willow Energy FZE,AE,SMB,30,5000.0
+C9369,Willow Energy Limited,NZ,SMB,30,7000.0
+C9370,Willow Finance DAC,IE,SMB,30,5000.0
+C9371,Willow Health Pty Ltd,AU,SMB,15,5000.0
+C9372,Willow Hospitality Limited,IE,SMB,30,5000.0
+C9373,Willow Media DAC,IE,SMB,15,5000.0
+C9374,Willow Motors B.V.,NL,SMB,30,5000.0
+C9375,Willow Pharma Pty Ltd,AU,SMB,30,5000.0
+C9376,Willow Retail Limited,NZ,SMB,30,6000.0
+C9377,Willow Systems Limited,IE,SMB,30,9000.0
+C9378,Willow Travel B.V.,NL,SMB,30,6000.0
+C9379,Zenith Finance AG,DE,SMB,15,5000.0
+C9380,Zenith Insurance Pty Ltd,AU,SMB,30,5000.0
+C9381,Zenith Labs GmbH,DE,SMB,30,5000.0
+C9382,Zenith Media Limited,NZ,SMB,30,5000.0
+C9383,Zenith Media Ltd,NZ,SMB,30,5000.0
+C9384,Zenith Motors LLC,AE,SMB,30,5000.0
+C9385,Zenith Motors Ltd,NZ,SMB,30,5000.0
+C9386,Zenith Pharma AG,DE,SMB,30,5000.0
+C9387,Zenith Properties GmbH,DE,SMB,30,7000.0
+C9388,Zenith Retail FZE,AE,SMB,30,5000.0
+C9389,Zenith Retail Pty Ltd,AU,SMB,30,5000.0
+C9390,Zenith Trading B.V.,NL,SMB,30,5000.0
+C9391,Zenith Trading Pty Ltd,AU,SMB,30,5000.0

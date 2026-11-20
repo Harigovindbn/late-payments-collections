@@ -1,0 +1,718 @@
+invoice_id,customer_id,invoice_date,due_date,amount,open_amount,days_past_due,ageing_bucket,dispute_open,dispute_reason,p_serious_delay,expected_at_risk,reasons
+INV-202602-001125,C0049,2026-02-01,2026-03-03,31430.59,31430.59,242,90+,0,,1.0,31430.5,paying 120 days later than a year ago; 242 days past due; at 326% of credit limit
+INV-202603-001126,C0049,2026-03-01,2026-03-31,31430.59,31430.59,214,90+,0,,1.0,31430.5,paying 120 days later than a year ago; 214 days past due; at 326% of credit limit
+INV-202609-000261,C0012,2026-09-01,2026-10-31,26674.5,26674.5,0,Current,0,,0.912,24319.73,paying 31 days later than a year ago; 48% of invoices paid 30+ days late; 5 broken promise(s) to pay
+INV-202603-008705,C0049,2026-03-01,2026-03-31,24231.93,24231.93,214,90+,0,,1.0,24231.86,paying 120 days later than a year ago; 214 days past due; at 326% of credit limit
+INV-202606-008708,C0049,2026-06-01,2026-07-01,24231.93,24231.93,122,90+,0,,1.0,24231.86,paying 120 days later than a year ago; 122 days past due; at 326% of credit limit
+INV-202602-008704,C0049,2026-02-01,2026-03-03,24231.93,24231.93,242,90+,0,,1.0,24231.86,paying 120 days later than a year ago; 242 days past due; at 326% of credit limit
+INV-202605-008707,C0049,2026-05-01,2026-05-31,24231.93,24231.93,153,90+,0,,1.0,24231.86,paying 120 days later than a year ago; 153 days past due; at 326% of credit limit
+INV-202604-008706,C0049,2026-04-01,2026-05-01,24231.93,24231.93,183,90+,0,,1.0,24231.86,paying 120 days later than a year ago; 183 days past due; at 326% of credit limit
+INV-202607-008709,C0049,2026-07-01,2026-07-31,24231.93,24231.93,92,90+,0,,1.0,24231.86,paying 120 days later than a year ago; 92 days past due; at 326% of credit limit
+INV-202610-008712,C0049,2026-10-01,2026-10-31,24231.93,24231.93,0,Current,1,Amount does not match PO,1.0,24229.54,paying 120 days later than a year ago; at 326% of credit limit; open dispute: Amount does not match PO
+INV-202609-008711,C0049,2026-09-01,2026-10-01,24231.93,24231.93,30,1-30,0,,0.996,24141.11,paying 120 days later than a year ago; at 326% of credit limit; 10 broken promise(s) to pay
+INV-202608-008710,C0049,2026-08-01,2026-08-31,24231.93,24231.93,61,61-90,0,,0.996,24133.91,paying 120 days later than a year ago; at 326% of credit limit; 10 broken promise(s) to pay
+INV-202606-008790,C0011,2026-06-01,2026-07-01,23182.64,23182.64,122,90+,0,,1.0,23181.79,122 days past due; paying 109 days later than a year ago; 100% of balance overdue
+INV-202607-008791,C0011,2026-07-01,2026-07-31,23028.5,23028.5,92,90+,0,,1.0,23027.66,92 days past due; paying 109 days later than a year ago; 100% of balance overdue
+INV-202605-007114,C0047,2026-05-01,2026-05-31,21630.86,21630.86,153,90+,0,,1.0,21630.66,paying 120 days later than a year ago; 153 days past due; at 230% of credit limit
+INV-202608-007117,C0047,2026-08-01,2026-08-31,21814.9,21814.9,61,61-90,0,,0.987,21522.59,paying 120 days later than a year ago; at 230% of credit limit; 9 broken promise(s) to pay
+INV-202606-007115,C0047,2026-06-01,2026-07-01,21404.85,21404.85,122,90+,0,,1.0,21404.66,paying 120 days later than a year ago; 122 days past due; at 230% of credit limit
+INV-202607-007116,C0047,2026-07-01,2026-07-31,21404.85,21404.85,92,90+,0,,1.0,21404.66,paying 120 days later than a year ago; 92 days past due; at 230% of credit limit
+INV-202610-007119,C0047,2026-10-01,2026-10-31,21404.85,21404.85,0,Current,0,,0.998,21365.6,paying 120 days later than a year ago; at 230% of credit limit; 9 broken promise(s) to pay
+INV-202609-007118,C0047,2026-09-01,2026-10-01,21404.85,21404.85,30,1-30,0,,0.988,21139.2,paying 120 days later than a year ago; at 230% of credit limit; 9 broken promise(s) to pay
+INV-202606-005846,C0258,2026-06-01,2026-07-16,20839.03,20839.03,107,90+,0,,1.0,20832.72,107 days past due; paying 87 days later than a year ago; 100% of balance overdue
+INV-202609-006369,C0281,2026-09-01,2026-10-31,29117.53,29117.53,0,Current,0,,0.715,20807.75,82% of invoices paid 30+ days late; at 88% of credit limit
+INV-202604-003116,C0138,2026-04-01,2026-05-16,19500.36,19500.36,168,90+,0,,1.0,19496.93,168 days past due; at 465% of credit limit; 9 broken promise(s) to pay
+INV-202605-003117,C0138,2026-05-01,2026-06-15,19482.32,19482.32,138,90+,0,,1.0,19478.89,138 days past due; at 465% of credit limit; 9 broken promise(s) to pay
+INV-202603-003115,C0138,2026-03-01,2026-04-15,19190.51,19190.51,199,90+,0,,1.0,19187.13,199 days past due; at 465% of credit limit; 9 broken promise(s) to pay
+INV-202606-003118,C0138,2026-06-01,2026-07-16,19190.51,19190.51,107,90+,0,,1.0,19187.13,107 days past due; at 465% of credit limit; 9 broken promise(s) to pay
+INV-202610-006913,C0186,2026-10-01,2026-10-31,25669.67,25669.67,0,Current,0,,0.739,18980.16,69% of invoices paid 30+ days late; at 127% of credit limit; 50% of balance overdue
+INV-202610-003122,C0138,2026-10-01,2026-11-15,19545.27,19545.27,-15,Current,0,,0.957,18712.39,at 465% of credit limit; 9 broken promise(s) to pay; 92% of balance overdue
+INV-202602-003114,C0138,2026-02-01,2026-03-18,18277.32,18277.32,227,90+,0,,1.0,18274.11,227 days past due; at 465% of credit limit; 9 broken promise(s) to pay
+INV-202512-003112,C0138,2025-12-01,2026-01-15,18277.32,18277.32,289,90+,0,,1.0,18274.11,289 days past due; at 465% of credit limit; 9 broken promise(s) to pay
+INV-202601-003113,C0138,2026-01-01,2026-02-15,18277.32,18277.32,258,90+,0,,1.0,18274.11,258 days past due; at 465% of credit limit; 9 broken promise(s) to pay
+INV-202610-006370,C0281,2026-10-01,2026-11-30,29117.53,29117.53,-30,Current,0,,0.618,17994.87,82% of invoices paid 30+ days late; at 88% of credit limit
+INV-202610-005140,C0228,2026-10-01,2026-10-31,17929.35,17929.35,0,Current,0,,0.999,17903.11,paying 120 days later than a year ago; at 298% of credit limit; 83% of balance overdue
+INV-202606-005136,C0228,2026-06-01,2026-07-01,17894.36,17894.36,122,90+,0,,1.0,17894.23,paying 120 days later than a year ago; 122 days past due; at 298% of credit limit
+INV-202607-005137,C0228,2026-07-01,2026-07-31,17894.36,17894.36,92,90+,0,,1.0,17894.23,paying 120 days later than a year ago; 92 days past due; at 298% of credit limit
+INV-202605-005135,C0228,2026-05-01,2026-05-31,17894.36,17894.36,153,90+,0,,1.0,17894.23,paying 120 days later than a year ago; 153 days past due; at 298% of credit limit
+INV-202609-005139,C0228,2026-09-01,2026-10-01,18011.09,18011.09,30,1-30,0,,0.99,17832.26,paying 120 days later than a year ago; at 298% of credit limit; 83% of balance overdue
+INV-202610-011157,C0030,2026-10-01,2026-10-31,37874.36,37874.36,0,Current,0,,0.468,17725.27,paying 21 days later than a year ago; 50% of balance overdue; at 91% of credit limit
+INV-202608-005138,C0228,2026-08-01,2026-08-31,17894.36,17894.36,61,61-90,0,,0.989,17702.76,paying 120 days later than a year ago; at 298% of credit limit; 83% of balance overdue
+INV-202610-006516,C0287,2026-10-01,2026-10-31,29463.75,29463.75,0,Current,0,,0.6,17687.42,paying 24 days later than a year ago; 36% of invoices paid 30+ days late; 50% of balance overdue
+INV-202510-003110,C0138,2025-10-01,2025-11-15,17017.03,17017.03,350,90+,0,,1.0,17014.06,350 days past due; at 465% of credit limit; 9 broken promise(s) to pay
+INV-202610-007655,C0186,2026-10-01,2026-10-31,22959.21,22959.21,0,Current,0,,0.741,17003.56,69% of invoices paid 30+ days late; at 127% of credit limit; 50% of balance overdue
+INV-202511-003111,C0138,2025-11-01,2025-12-16,17003.45,17003.45,319,90+,0,,1.0,17000.48,319 days past due; at 465% of credit limit; 9 broken promise(s) to pay
+INV-202509-003109,C0138,2025-09-01,2025-10-16,16978.91,16978.91,380,90+,0,,1.0,16975.94,380 days past due; at 465% of credit limit; 9 broken promise(s) to pay
+INV-202610-003044,C0134,2026-10-01,2026-11-30,16577.55,16577.55,-30,Current,0,,1.0,16569.39,paying 120 days later than a year ago; at 289% of credit limit; 8 broken promise(s) to pay
+INV-202606-008322,C0047,2026-06-01,2026-07-01,15867.87,15867.87,122,90+,0,,1.0,15867.73,paying 120 days later than a year ago; 122 days past due; at 230% of credit limit
+INV-202607-008323,C0047,2026-07-01,2026-07-31,15867.87,15867.87,92,90+,0,,1.0,15867.73,paying 120 days later than a year ago; 92 days past due; at 230% of credit limit
+INV-202605-008321,C0047,2026-05-01,2026-05-31,15867.87,15867.87,153,90+,0,,1.0,15867.73,paying 120 days later than a year ago; 153 days past due; at 230% of credit limit
+INV-202606-003040,C0134,2026-06-01,2026-07-31,15742.92,15742.92,92,90+,0,,1.0,15742.9,paying 120 days later than a year ago; 92 days past due; at 289% of credit limit
+INV-202605-003039,C0134,2026-05-01,2026-06-30,15742.92,15742.92,123,90+,0,,1.0,15742.9,paying 120 days later than a year ago; 123 days past due; at 289% of credit limit
+INV-202604-003038,C0134,2026-04-01,2026-05-31,15742.92,15742.92,153,90+,0,,1.0,15742.9,paying 120 days later than a year ago; 153 days past due; at 289% of credit limit
+INV-202609-003043,C0134,2026-09-01,2026-10-31,15742.92,15742.92,0,Current,0,,1.0,15737.93,paying 120 days later than a year ago; at 289% of credit limit; 8 broken promise(s) to pay
+INV-202607-003041,C0134,2026-07-01,2026-08-30,15742.92,15742.92,62,61-90,0,,0.998,15706.12,paying 120 days later than a year ago; at 289% of credit limit; 8 broken promise(s) to pay
+INV-202608-003042,C0134,2026-08-01,2026-09-30,15742.92,15742.92,31,31-60,0,,0.994,15644.12,paying 120 days later than a year ago; at 289% of credit limit; 8 broken promise(s) to pay
+INV-202609-003121,C0138,2026-09-01,2026-10-16,19367.08,19367.08,15,1-30,0,,0.803,15560.57,at 465% of credit limit; 9 broken promise(s) to pay; 92% of balance overdue
+INV-202607-000259,C0012,2026-07-01,2026-08-30,26674.5,26674.5,62,61-90,0,,0.583,15552.52,paying 31 days later than a year ago; 48% of invoices paid 30+ days late; 5 broken promise(s) to pay
+INV-202512-010049,C0185,2025-12-01,2025-12-31,15442.19,15442.19,304,90+,0,,1.0,15442.18,paying 120 days later than a year ago; 304 days past due; at 342% of credit limit
+INV-202511-010048,C0185,2025-11-01,2025-12-01,15442.19,15442.19,334,90+,0,,1.0,15442.18,paying 120 days later than a year ago; 334 days past due; at 342% of credit limit
+INV-202601-010050,C0185,2026-01-01,2026-01-31,15442.19,15442.19,273,90+,0,,1.0,15442.18,paying 120 days later than a year ago; 273 days past due; at 342% of credit limit
+INV-202603-003037,C0134,2026-03-01,2026-04-30,15284.28,15284.28,184,90+,0,,1.0,15284.26,paying 120 days later than a year ago; 184 days past due; at 289% of credit limit
+INV-202602-003036,C0134,2026-02-01,2026-04-02,15284.28,15284.28,212,90+,0,,1.0,15284.26,paying 120 days later than a year ago; 212 days past due; at 289% of credit limit
+INV-202601-003035,C0134,2026-01-01,2026-03-02,15284.28,15284.28,243,90+,0,,1.0,15284.26,paying 120 days later than a year ago; 243 days past due; at 289% of credit limit
+INV-202607-003119,C0138,2026-07-01,2026-08-15,19256.08,19256.08,77,61-90,0,,0.791,15234.02,at 465% of credit limit; 9 broken promise(s) to pay; 92% of balance overdue
+INV-202610-005822,C0257,2026-10-01,2026-10-31,23216.01,23216.01,0,Current,0,,0.654,15184.27,paying 26 days later than a year ago; 50% of balance overdue; 33% of invoices paid 30+ days late
+INV-202606-009889,C0049,2026-06-01,2026-07-01,14151.28,14151.28,122,90+,0,,1.0,14151.24,paying 120 days later than a year ago; 122 days past due; at 326% of credit limit
+INV-202604-009887,C0049,2026-04-01,2026-05-01,14151.28,14151.28,183,90+,0,,1.0,14151.24,paying 120 days later than a year ago; 183 days past due; at 326% of credit limit
+INV-202605-009888,C0049,2026-05-01,2026-05-31,14151.28,14151.28,153,90+,0,,1.0,14151.24,paying 120 days later than a year ago; 153 days past due; at 326% of credit limit
+INV-202607-009890,C0049,2026-07-01,2026-07-31,14151.28,14151.28,92,90+,0,,1.0,14151.24,paying 120 days later than a year ago; 92 days past due; at 326% of credit limit
+INV-202610-009893,C0049,2026-10-01,2026-10-31,14151.28,14151.28,0,Current,1,Amount does not match PO,1.0,14149.93,paying 120 days later than a year ago; at 326% of credit limit; open dispute: Amount does not match PO
+INV-202609-009892,C0049,2026-09-01,2026-10-01,14151.28,14151.28,30,1-30,0,,0.996,14099.81,paying 120 days later than a year ago; at 326% of credit limit; 10 broken promise(s) to pay
+INV-202608-009891,C0049,2026-08-01,2026-08-31,14151.28,14151.28,61,61-90,0,,0.996,14095.72,paying 120 days later than a year ago; at 326% of credit limit; 10 broken promise(s) to pay
+INV-202610-004137,C0186,2026-10-01,2026-10-31,18767.09,18767.09,0,Current,0,,0.743,13939.34,69% of invoices paid 30+ days late; at 127% of credit limit; 50% of balance overdue
+INV-202602-009885,C0049,2026-02-01,2026-03-03,13740.25,13740.25,242,90+,0,,1.0,13740.21,paying 120 days later than a year ago; 242 days past due; at 326% of credit limit
+INV-202603-009886,C0049,2026-03-01,2026-03-31,13740.25,13740.25,214,90+,0,,1.0,13740.21,paying 120 days later than a year ago; 214 days past due; at 326% of credit limit
+INV-202609-003297,C0147,2026-09-01,2026-10-31,31569.08,31569.08,0,Current,0,,0.407,12859.33,50% of invoices paid 30+ days late; at 81% of credit limit
+INV-202610-009059,C0214,2026-10-01,2026-10-31,12684.66,12684.66,0,Current,0,,0.998,12663.12,paying 114 days later than a year ago; at 308% of credit limit; 80% of balance overdue
+INV-202606-009055,C0214,2026-06-01,2026-07-01,12654.02,12654.02,122,90+,0,,1.0,12653.91,122 days past due; paying 114 days later than a year ago; at 308% of credit limit
+INV-202607-009056,C0214,2026-07-01,2026-07-31,12647.53,12647.53,92,90+,0,,1.0,12647.42,92 days past due; paying 114 days later than a year ago; at 308% of credit limit
+INV-202610-003086,C0136,2026-10-01,2026-11-15,23789.44,23789.44,-15,Current,0,,0.531,12631.06,39% of invoices paid 30+ days late; paying 20 days later than a year ago; 39% of balance overdue
+INV-202609-009058,C0214,2026-09-01,2026-10-01,12647.53,12647.53,30,1-30,0,,0.989,12502.09,paying 114 days later than a year ago; at 308% of credit limit; 80% of balance overdue
+INV-202608-009057,C0214,2026-08-01,2026-08-31,12647.53,12647.53,61,61-90,0,,0.988,12490.65,paying 114 days later than a year ago; at 308% of credit limit; 80% of balance overdue
+INV-202610-009256,C0085,2026-10-01,2026-11-15,17567.83,17567.83,-15,Current,0,,0.7,12299.75,69% of invoices paid 30+ days late; 66% of balance overdue; 3 broken promise(s) to pay
+INV-202607-007567,C0162,2026-07-01,2026-07-16,12291.17,12291.17,107,90+,0,,1.0,12291.16,paying 120 days later than a year ago; 107 days past due; at 440% of credit limit
+INV-202610-007625,C0283,2026-10-01,2026-10-31,14234.45,14234.45,0,Current,0,,0.855,12164.23,paying 31 days later than a year ago; 52% of invoices paid 30+ days late; 58% of balance overdue
+INV-202608-007568,C0162,2026-08-01,2026-08-16,12007.71,12007.71,76,61-90,0,,0.999,11993.31,paying 120 days later than a year ago; at 440% of credit limit; 100% of balance overdue
+INV-202607-001640,C0072,2026-07-01,2026-07-31,11844.37,11844.37,92,90+,0,,1.0,11841.77,92 days past due; paying 86 days later than a year ago; at 163% of credit limit
+INV-202606-007566,C0162,2026-06-01,2026-06-16,11690.74,11690.74,137,90+,0,,1.0,11690.73,paying 120 days later than a year ago; 137 days past due; at 440% of credit limit
+INV-202605-007565,C0162,2026-05-01,2026-05-16,11690.74,11690.74,168,90+,0,,1.0,11690.73,paying 120 days later than a year ago; 168 days past due; at 440% of credit limit
+INV-202604-007564,C0162,2026-04-01,2026-04-16,11690.74,11690.74,198,90+,0,,1.0,11690.73,paying 120 days later than a year ago; 198 days past due; at 440% of credit limit
+INV-202610-007570,C0162,2026-10-01,2026-10-16,11690.74,11690.74,15,1-30,0,,0.999,11677.77,paying 120 days later than a year ago; at 440% of credit limit; 100% of balance overdue
+INV-202609-007569,C0162,2026-09-01,2026-09-16,11690.74,11690.74,45,31-60,0,,0.997,11653.08,paying 120 days later than a year ago; at 440% of credit limit; 100% of balance overdue
+INV-202609-010950,C0192,2026-09-01,2026-10-31,17521.13,17521.13,0,Current,0,,0.656,11494.74,75% of invoices paid 30+ days late; 5 broken promise(s) to pay
+INV-202610-001643,C0072,2026-10-01,2026-10-31,11844.37,11844.37,0,Current,0,,0.957,11338.42,paying 86 days later than a year ago; at 163% of credit limit; 75% of balance overdue
+INV-202610-004761,C0213,2026-10-01,2026-10-31,13975.25,13975.25,0,Current,0,,0.803,11228.93,paying 28 days later than a year ago; 50% of invoices paid 30+ days late; 67% of balance overdue
+INV-202608-003120,C0138,2026-08-01,2026-09-15,19190.51,19190.51,46,31-60,0,,0.584,11212.71,at 465% of credit limit; 9 broken promise(s) to pay; 92% of balance overdue
+INV-202606-006106,C0269,2026-06-01,2026-07-31,10816.23,10816.23,92,90+,0,,1.0,10814.73,92 days past due; paying 51 days later than a year ago; 56% of invoices paid 30+ days late
+INV-202610-009671,C0285,2026-10-01,2026-10-31,12786.47,12786.47,0,Current,0,,0.836,10694.58,paying 53 days later than a year ago; 67% of balance overdue; at 122% of credit limit
+INV-202609-006109,C0269,2026-09-01,2026-10-31,10816.23,10816.23,0,Current,0,,0.973,10519.61,paying 51 days later than a year ago; 56% of invoices paid 30+ days late; at 139% of credit limit
+INV-202610-006110,C0269,2026-10-01,2026-11-30,10827.92,10827.92,-30,Current,0,,0.958,10375.11,paying 51 days later than a year ago; 56% of invoices paid 30+ days late; at 139% of credit limit
+INV-202610-003160,C0140,2026-10-01,2026-10-31,12399.02,12399.02,0,Current,0,,0.83,10292.58,75% of invoices paid 30+ days late; at 118% of credit limit; 50% of balance overdue
+INV-202610-004099,C0184,2026-10-01,2026-10-31,19442.97,19442.97,0,Current,0,,0.528,10275.35,42% of invoices paid 30+ days late; 50% of balance overdue; at 83% of credit limit
+INV-202610-005666,C0250,2026-10-01,2026-11-15,18195.22,18195.22,-15,Current,0,,0.56,10183.48,8 broken promise(s) to pay; 41% of invoices paid 30+ days late; 36% of balance overdue
+INV-202606-009217,C0185,2026-06-01,2026-07-01,10097.01,10097.01,122,90+,0,,1.0,10097.01,paying 120 days later than a year ago; 122 days past due; at 342% of credit limit
+INV-202604-009215,C0185,2026-04-01,2026-05-01,10097.01,10097.01,183,90+,0,,1.0,10097.01,paying 120 days later than a year ago; 183 days past due; at 342% of credit limit
+INV-202601-009212,C0185,2026-01-01,2026-01-31,10097.01,10097.01,273,90+,0,,1.0,10097.01,paying 120 days later than a year ago; 273 days past due; at 342% of credit limit
+INV-202607-009218,C0185,2026-07-01,2026-07-31,10097.01,10097.01,92,90+,0,,1.0,10097.01,paying 120 days later than a year ago; 92 days past due; at 342% of credit limit
+INV-202512-009211,C0185,2025-12-01,2025-12-31,10097.01,10097.01,304,90+,0,,1.0,10097.01,paying 120 days later than a year ago; 304 days past due; at 342% of credit limit
+INV-202511-009210,C0185,2025-11-01,2025-12-01,10097.01,10097.01,334,90+,0,,1.0,10097.01,paying 120 days later than a year ago; 334 days past due; at 342% of credit limit
+INV-202602-009213,C0185,2026-02-01,2026-03-03,10097.01,10097.01,242,90+,0,,1.0,10097.01,paying 120 days later than a year ago; 242 days past due; at 342% of credit limit
+INV-202605-009216,C0185,2026-05-01,2026-05-31,10097.01,10097.01,153,90+,0,,1.0,10097.01,paying 120 days later than a year ago; 153 days past due; at 342% of credit limit
+INV-202603-009214,C0185,2026-03-01,2026-03-31,10097.01,10097.01,214,90+,0,,1.0,10097.01,paying 120 days later than a year ago; 214 days past due; at 342% of credit limit
+INV-202608-009219,C0185,2026-08-01,2026-08-31,10097.01,10097.01,61,61-90,0,,0.999,10091.84,paying 120 days later than a year ago; at 342% of credit limit; 18 broken promise(s) to pay
+INV-202609-009730,C0089,2026-09-01,2026-10-31,12344.99,12344.99,0,Current,0,,0.787,9719.26,95% of invoices paid 30+ days late; at 110% of credit limit
+INV-202610-003298,C0147,2026-10-01,2026-11-30,31569.08,31569.08,-30,Current,0,,0.308,9707.95,50% of invoices paid 30+ days late; at 81% of credit limit
+INV-202610-010951,C0192,2026-10-01,2026-11-30,17452.81,17452.81,-30,Current,0,,0.552,9635.73,75% of invoices paid 30+ days late; 5 broken promise(s) to pay
+INV-202610-009538,C0199,2026-10-01,2026-11-15,22180.49,22180.49,-15,Current,0,,0.423,9374.06,35% of invoices paid 30+ days late; 50% of balance overdue; 2 broken promise(s) to pay
+INV-202608-000260,C0012,2026-08-01,2026-09-30,26674.5,26674.5,31,31-60,0,,0.342,9111.59,paying 31 days later than a year ago; 48% of invoices paid 30+ days late; 5 broken promise(s) to pay
+INV-202609-001642,C0072,2026-09-01,2026-10-01,11844.37,11844.37,30,1-30,0,,0.766,9074.32,paying 86 days later than a year ago; at 163% of credit limit; 75% of balance overdue
+INV-202607-006107,C0269,2026-07-01,2026-08-30,10816.23,10816.23,62,61-90,0,,0.828,8951.94,paying 51 days later than a year ago; 56% of invoices paid 30+ days late; at 139% of credit limit
+INV-202610-003138,C0139,2026-10-01,2026-11-15,20278.37,20278.37,-15,Current,0,,0.44,8924.34,paying 35 days later than a year ago; 50% of balance overdue
+INV-202608-001641,C0072,2026-08-01,2026-08-31,11844.37,11844.37,61,61-90,0,,0.752,8908.44,paying 86 days later than a year ago; at 163% of credit limit; 75% of balance overdue
+INV-202610-004368,C0195,2026-10-01,2026-11-15,30808.45,30808.45,-15,Current,0,,0.285,8767.7,45% of invoices paid 30+ days late; 48% of balance overdue
+INV-202610-009511,C0194,2026-10-01,2026-10-31,12360.25,12360.25,0,Current,0,,0.707,8738.07,71% of invoices paid 30+ days late; at 133% of credit limit; 47% of balance overdue
+INV-202610-005964,C0263,2026-10-01,2026-10-31,10303.31,10303.31,0,Current,0,,0.845,8709.63,paying 32 days later than a year ago; 44% of invoices paid 30+ days late; 68% of balance overdue
+INV-202610-009731,C0089,2026-10-01,2026-11-30,12217.23,12217.23,-30,Current,0,,0.705,8616.49,95% of invoices paid 30+ days late; at 110% of credit limit
+INV-202610-011098,C0231,2026-10-01,2026-11-15,23030.76,23030.76,-15,Current,0,,0.37,8510.29,paying 27 days later than a year ago; 50% of balance overdue; at 94% of credit limit
+INV-202610-000363,C0017,2026-10-01,2026-10-31,9327.9,9327.9,0,Current,1,Amount does not match PO,0.902,8411.92,open dispute: Amount does not match PO; 71% of invoices paid 30+ days late; 3 broken promise(s) to pay
+INV-202610-011338,C0018,2026-10-01,2026-10-31,11239.57,11239.57,0,Current,0,,0.739,8311.61,69% of invoices paid 30+ days late; at 156% of credit limit; 50% of balance overdue
+INV-202609-009947,C0052,2026-09-01,2026-10-31,22260.8,22260.8,0,Current,1,Amount does not match PO,0.371,8267.4,open dispute: Amount does not match PO
+INV-202610-006969,C0113,2026-10-01,2026-11-15,12624.26,12624.26,-15,Current,0,,0.654,8258.39,64% of balance overdue; 36% of invoices paid 30+ days late; paying 18 days later than a year ago
+INV-202609-005221,C0231,2026-09-01,2026-10-16,21132.36,21132.36,15,1-30,1,PO number missing,0.374,7910.65,open dispute: PO number missing; paying 27 days later than a year ago; 50% of balance overdue
+INV-202610-005222,C0231,2026-10-01,2026-11-15,21210.86,21210.86,-15,Current,0,,0.371,7860.52,paying 27 days later than a year ago; 50% of balance overdue; at 94% of credit limit
+INV-202610-005893,C0260,2026-10-01,2026-10-31,9852.01,9852.01,0,Current,0,,0.793,7813.99,64% of invoices paid 30+ days late; paying 27 days later than a year ago; 50% of balance overdue
+INV-202610-000893,C0040,2026-10-01,2026-11-15,14946.51,14946.51,-15,Current,0,,0.517,7730.72,67% of invoices paid 30+ days late; 49% of balance overdue
+INV-202610-008923,C0250,2026-10-01,2026-11-15,13588.68,13588.68,-15,Current,0,,0.564,7659.8,8 broken promise(s) to pay; 41% of invoices paid 30+ days late; 36% of balance overdue
+INV-202610-000349,C0016,2026-10-01,2026-11-15,14930.63,14930.63,-15,Current,0,,0.509,7597.28,paying 40 days later than a year ago; 50% of balance overdue
+INV-202609-006912,C0186,2026-09-01,2026-10-01,25669.67,25669.67,30,1-30,0,,0.293,7525.36,69% of invoices paid 30+ days late; at 127% of credit limit; 50% of balance overdue
+INV-202610-003427,C0153,2026-10-01,2026-10-31,24014.44,24014.44,0,Current,1,Amount does not match PO,0.311,7474.3,open dispute: Amount does not match PO
+INV-202610-005634,C0249,2026-10-01,2026-10-31,9200.35,9200.35,0,Current,0,,0.8,7360.54,79% of invoices paid 30+ days late; 48% of balance overdue; at 89% of credit limit
+INV-202610-008239,C0121,2026-10-01,2026-11-15,8769.8,8769.8,-15,Current,1,Over-charged (tax rate),0.838,7345.5,83% of invoices paid 30+ days late; open dispute: Over-charged (tax rate); 48% of balance overdue
+INV-202609-000136,C0006,2026-09-01,2026-10-31,7289.04,7289.04,0,Current,0,,0.992,7227.65,paying 118 days later than a year ago; at 167% of credit limit; 66% of balance overdue
+INV-202610-000137,C0006,2026-10-01,2026-11-30,7289.04,7289.04,-30,Current,0,,0.987,7194.47,paying 118 days later than a year ago; at 167% of credit limit; 66% of balance overdue
+INV-202606-000133,C0006,2026-06-01,2026-07-31,7141.69,7141.69,92,90+,0,,1.0,7141.39,paying 118 days later than a year ago; 92 days past due; at 167% of credit limit
+INV-202609-010169,C0121,2026-09-01,2026-10-16,14884.96,14884.96,15,1-30,1,Over-charged (tax rate),0.477,7094.23,83% of invoices paid 30+ days late; open dispute: Over-charged (tax rate); 48% of balance overdue
+INV-202610-009555,C0062,2026-10-01,2026-10-31,22232.64,22232.64,0,Current,0,,0.319,7085.69,paying 25 days later than a year ago; 37% of balance overdue
+INV-202610-002563,C0112,2026-10-01,2026-10-31,24681.67,24681.67,0,Current,0,,0.285,7043.08,64% of invoices paid 30+ days late
+INV-202605-000132,C0006,2026-05-01,2026-06-30,7042.71,7042.71,123,90+,0,,1.0,7042.42,paying 118 days later than a year ago; 123 days past due; at 167% of credit limit
+INV-202610-010170,C0121,2026-10-01,2026-11-15,14769.8,14769.8,-15,Current,0,,0.473,6982.64,83% of invoices paid 30+ days late; 48% of balance overdue; 2 broken promise(s) to pay
+INV-202610-008623,C0136,2026-10-01,2026-11-15,12858.98,12858.98,-15,Current,0,,0.539,6937.33,39% of invoices paid 30+ days late; paying 20 days later than a year ago; 39% of balance overdue
+INV-202608-006108,C0269,2026-08-01,2026-09-30,10816.23,10816.23,31,31-60,0,,0.64,6927.58,paying 51 days later than a year ago; 56% of invoices paid 30+ days late; at 139% of credit limit
+INV-202610-006424,C0283,2026-10-01,2026-10-31,8020.37,8020.37,0,Current,0,,0.858,6885.46,paying 31 days later than a year ago; 52% of invoices paid 30+ days late; 58% of balance overdue
+INV-202607-000134,C0006,2026-07-01,2026-08-30,7309.52,7309.52,62,61-90,0,,0.941,6878.01,paying 118 days later than a year ago; at 167% of credit limit; 66% of balance overdue
+INV-202605-003277,C0146,2026-05-01,2026-05-31,6817.7,6817.7,153,90+,0,,1.0,6817.68,paying 120 days later than a year ago; 153 days past due; at 375% of credit limit
+INV-202610-006356,C0280,2026-10-01,2026-11-15,11928.82,11928.82,-15,Current,0,,0.571,6808.55,83% of invoices paid 30+ days late; 49% of balance overdue
+INV-202609-007654,C0186,2026-09-01,2026-10-01,22959.21,22959.21,30,1-30,0,,0.294,6760.43,69% of invoices paid 30+ days late; at 127% of credit limit; 50% of balance overdue
+INV-202610-007227,C0012,2026-10-01,2026-11-30,7676.84,7676.84,-30,Current,0,,0.877,6735.27,paying 31 days later than a year ago; 48% of invoices paid 30+ days late; 5 broken promise(s) to pay
+INV-202606-002221,C0098,2026-06-01,2026-07-16,6627.16,6627.16,107,90+,0,,1.0,6627.06,paying 120 days later than a year ago; 107 days past due; at 199% of credit limit
+INV-202605-002220,C0098,2026-05-01,2026-06-15,6627.16,6627.16,138,90+,0,,1.0,6627.06,paying 120 days later than a year ago; 138 days past due; at 199% of credit limit
+INV-202610-002225,C0098,2026-10-01,2026-11-15,6627.16,6627.16,-15,Current,0,,0.996,6601.74,paying 120 days later than a year ago; at 199% of credit limit; 83% of balance overdue
+INV-202609-007226,C0012,2026-09-01,2026-10-31,7175.05,7175.05,0,Current,0,,0.917,6582.71,paying 31 days later than a year ago; 48% of invoices paid 30+ days late; 5 broken promise(s) to pay
+INV-202609-007624,C0283,2026-09-01,2026-10-01,14234.45,14234.45,30,1-30,0,,0.462,6577.04,paying 31 days later than a year ago; 52% of invoices paid 30+ days late; 58% of balance overdue
+INV-202610-004811,C0215,2026-10-01,2026-10-31,16462.66,16462.66,0,Current,0,,0.398,6554.57,85% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202604-003628,C0162,2026-04-01,2026-04-16,6509.48,6509.48,198,90+,0,,1.0,6509.47,paying 120 days later than a year ago; 198 days past due; at 440% of credit limit
+INV-202610-003634,C0162,2026-10-01,2026-10-16,6515.13,6515.13,15,1-30,0,,0.999,6508.13,paying 120 days later than a year ago; at 440% of credit limit; 100% of balance overdue
+INV-202608-003632,C0162,2026-08-01,2026-08-16,6515.13,6515.13,76,61-90,0,,0.999,6507.58,paying 120 days later than a year ago; at 440% of credit limit; 100% of balance overdue
+INV-202609-003633,C0162,2026-09-01,2026-09-16,6515.13,6515.13,45,31-60,0,,0.997,6494.81,paying 120 days later than a year ago; at 440% of credit limit; 100% of balance overdue
+INV-202609-002224,C0098,2026-09-01,2026-10-16,6627.16,6627.16,15,1-30,0,,0.979,6489.74,paying 120 days later than a year ago; at 199% of credit limit; 83% of balance overdue
+INV-202607-002222,C0098,2026-07-01,2026-08-15,6627.16,6627.16,77,61-90,0,,0.978,6479.04,paying 120 days later than a year ago; at 199% of credit limit; 83% of balance overdue
+INV-202607-009584,C0228,2026-07-01,2026-07-31,6434.73,6434.73,92,90+,0,,1.0,6434.69,paying 120 days later than a year ago; 92 days past due; at 298% of credit limit
+INV-202606-009583,C0228,2026-06-01,2026-07-01,6434.73,6434.73,122,90+,0,,1.0,6434.69,paying 120 days later than a year ago; 122 days past due; at 298% of credit limit
+INV-202605-009582,C0228,2026-05-01,2026-05-31,6434.73,6434.73,153,90+,0,,1.0,6434.69,paying 120 days later than a year ago; 153 days past due; at 298% of credit limit
+INV-202610-009587,C0228,2026-10-01,2026-10-31,6434.73,6434.73,0,Current,0,,0.999,6425.84,paying 120 days later than a year ago; at 298% of credit limit; 83% of balance overdue
+INV-202609-009586,C0228,2026-09-01,2026-10-01,6434.73,6434.73,30,1-30,0,,0.991,6374.37,paying 120 days later than a year ago; at 298% of credit limit; 83% of balance overdue
+INV-202608-009585,C0228,2026-08-01,2026-08-31,6434.73,6434.73,61,61-90,0,,0.99,6369.62,paying 120 days later than a year ago; at 298% of credit limit; 83% of balance overdue
+INV-202607-003631,C0162,2026-07-01,2026-07-16,6334.07,6334.07,107,90+,0,,1.0,6334.07,paying 120 days later than a year ago; 107 days past due; at 440% of credit limit
+INV-202610-004055,C0182,2026-10-01,2026-10-31,8095.44,8095.44,0,Current,0,,0.781,6322.7,85% of invoices paid 30+ days late; at 116% of credit limit; 50% of balance overdue
+INV-202609-010967,C0179,2026-09-01,2026-10-31,11185.57,11185.57,0,Current,0,,0.565,6314.7,54% of invoices paid 30+ days late; at 90% of credit limit
+INV-202606-003630,C0162,2026-06-01,2026-06-16,6250.4,6250.4,137,90+,0,,1.0,6250.4,paying 120 days later than a year ago; 137 days past due; at 440% of credit limit
+INV-202608-002223,C0098,2026-08-01,2026-09-15,6627.16,6627.16,46,31-60,0,,0.942,6242.5,paying 120 days later than a year ago; at 199% of credit limit; 83% of balance overdue
+INV-202608-000135,C0006,2026-08-01,2026-09-30,7289.04,7289.04,31,31-60,0,,0.855,6234.87,paying 118 days later than a year ago; at 167% of credit limit; 66% of balance overdue
+INV-202605-003629,C0162,2026-05-01,2026-05-16,6204.58,6204.58,168,90+,0,,1.0,6204.58,paying 120 days later than a year ago; 168 days past due; at 440% of credit limit
+INV-202604-003276,C0146,2026-04-01,2026-05-01,6183.14,6183.14,183,90+,0,,1.0,6183.12,paying 120 days later than a year ago; 183 days past due; at 375% of credit limit
+INV-202607-003279,C0146,2026-07-01,2026-07-31,6183.14,6183.14,92,90+,0,,1.0,6183.12,paying 120 days later than a year ago; 92 days past due; at 375% of credit limit
+INV-202606-003278,C0146,2026-06-01,2026-07-01,6183.14,6183.14,122,90+,0,,1.0,6183.12,paying 120 days later than a year ago; 122 days past due; at 375% of credit limit
+INV-202602-003274,C0146,2026-02-01,2026-03-03,6183.14,6183.14,242,90+,0,,1.0,6183.12,paying 120 days later than a year ago; 242 days past due; at 375% of credit limit
+INV-202603-003275,C0146,2026-03-01,2026-03-31,6183.14,6183.14,214,90+,0,,1.0,6183.12,paying 120 days later than a year ago; 214 days past due; at 375% of credit limit
+INV-202610-003282,C0146,2026-10-01,2026-10-31,6183.14,6183.14,0,Current,0,,0.999,6179.82,paying 120 days later than a year ago; at 375% of credit limit; 89% of balance overdue
+INV-202609-003281,C0146,2026-09-01,2026-10-01,6183.14,6183.14,30,1-30,0,,0.996,6160.5,paying 120 days later than a year ago; at 375% of credit limit; 89% of balance overdue
+INV-202608-003280,C0146,2026-08-01,2026-08-31,6183.14,6183.14,61,61-90,0,,0.996,6158.71,paying 120 days later than a year ago; at 375% of credit limit; 89% of balance overdue
+INV-202610-004448,C0199,2026-10-01,2026-11-15,14288.84,14288.84,-15,Current,0,,0.429,6124.57,35% of invoices paid 30+ days late; 50% of balance overdue; 2 broken promise(s) to pay
+INV-202610-007408,C0206,2026-10-01,2026-11-15,8377.91,8377.91,-15,Current,0,,0.726,6080.88,87% of invoices paid 30+ days late; 60% of balance overdue; at 105% of credit limit
+INV-202610-007799,C0021,2026-10-01,2026-11-15,15186.43,15186.43,-15,Current,0,,0.395,5991.8,paying 28 days later than a year ago; 42% of balance overdue
+INV-202609-007407,C0206,2026-09-01,2026-10-16,8189.3,8189.3,15,1-30,1,Service issue,0.729,5971.75,87% of invoices paid 30+ days late; open dispute: Service issue; 60% of balance overdue
+INV-202610-010283,C0297,2026-10-01,2026-11-15,13733.31,13733.31,-15,Current,0,,0.435,5970.66,paying 33 days later than a year ago; 54% of balance overdue; at 81% of credit limit
+INV-202610-001982,C0088,2026-10-01,2026-11-30,8844.84,8844.84,-30,Current,1,Amount does not match PO,0.636,5625.86,open dispute: Amount does not match PO; paying 18 days later than a year ago; at 93% of credit limit
+INV-202609-004136,C0186,2026-09-01,2026-10-01,18767.09,18767.09,30,1-30,0,,0.297,5570.02,69% of invoices paid 30+ days late; at 127% of credit limit; 50% of balance overdue
+INV-202610-008813,C0068,2026-10-01,2026-11-15,9373.07,9373.07,-15,Current,0,,0.592,5553.45,71% of invoices paid 30+ days late; 51% of balance overdue; 2 broken promise(s) to pay
+INV-202609-009670,C0285,2026-09-01,2026-10-01,12786.47,12786.47,30,1-30,0,,0.428,5468.71,paying 53 days later than a year ago; 67% of balance overdue; at 122% of credit limit
+INV-202609-006078,C0268,2026-09-01,2026-10-31,22326.55,22326.55,0,Current,0,,0.244,5442.72,33% of invoices paid 30+ days late
+INV-202610-010968,C0179,2026-10-01,2026-11-30,11756.27,11756.27,-30,Current,0,,0.455,5350.64,54% of invoices paid 30+ days late; at 90% of credit limit
+INV-202609-006515,C0287,2026-09-01,2026-10-01,29520.87,29520.87,30,1-30,0,,0.18,5314.06,paying 24 days later than a year ago; 36% of invoices paid 30+ days late; 50% of balance overdue
+INV-202609-004907,C0219,2026-09-01,2026-10-01,18901.43,18901.43,30,1-30,1,Amount does not match PO,0.277,5236.71,open dispute: Amount does not match PO; 100% of balance overdue; paying 15 days later than a year ago
+INV-202609-009255,C0085,2026-09-01,2026-10-16,17567.83,17567.83,15,1-30,0,,0.298,5236.01,69% of invoices paid 30+ days late; 66% of balance overdue; 3 broken promise(s) to pay
+INV-202608-009669,C0285,2026-08-01,2026-08-31,12786.47,12786.47,61,61-90,0,,0.409,5230.37,paying 53 days later than a year ago; 67% of balance overdue; at 122% of credit limit
+INV-202609-004760,C0213,2026-09-01,2026-10-01,13927.99,13927.99,30,1-30,0,,0.374,5210.97,paying 28 days later than a year ago; 50% of invoices paid 30+ days late; 67% of balance overdue
+INV-202610-010452,C0205,2026-10-01,2026-10-16,13470.94,13470.94,15,1-30,0,,0.387,5207.62,100% of balance overdue; at 144% of credit limit; paying 22 days later than a year ago
+INV-202610-003575,C0159,2026-10-01,2026-10-31,5310.05,5310.05,0,Current,1,Amount does not match PO,0.976,5182.06,open dispute: Amount does not match PO; 56% of invoices paid 30+ days late; paying 29 days later than a year ago
+INV-202609-003159,C0140,2026-09-01,2026-10-01,12396.23,12396.23,30,1-30,0,,0.417,5165.04,75% of invoices paid 30+ days late; at 118% of credit limit; 50% of balance overdue
+INV-202609-005821,C0257,2026-09-01,2026-10-01,23216.01,23216.01,30,1-30,0,,0.217,5026.69,paying 26 days later than a year ago; 50% of balance overdue; 33% of invoices paid 30+ days late
+INV-202609-005963,C0263,2026-09-01,2026-10-01,11351.81,11351.81,30,1-30,0,,0.443,5026.15,paying 32 days later than a year ago; 44% of invoices paid 30+ days late; 68% of balance overdue
+INV-202610-007870,C0205,2026-10-01,2026-10-16,12962.74,12962.74,15,1-30,0,,0.387,5017.75,100% of balance overdue; at 144% of credit limit; paying 22 days later than a year ago
+INV-202608-004759,C0213,2026-08-01,2026-08-31,13994.18,13994.18,61,61-90,0,,0.356,4986.36,paying 28 days later than a year ago; 50% of invoices paid 30+ days late; 67% of balance overdue
+INV-202610-004603,C0206,2026-10-01,2026-11-15,6749.73,6749.73,-15,Current,0,,0.728,4915.27,87% of invoices paid 30+ days late; 60% of balance overdue; at 105% of credit limit
+INV-202610-007718,C0143,2026-10-01,2026-10-16,12176.36,12176.36,15,1-30,1,Amount does not match PO,0.403,4902.6,open dispute: Amount does not match PO; 100% of balance overdue; 38% of invoices paid 30+ days late
+INV-202609-000969,C0043,2026-09-01,2026-10-31,8889.18,8889.18,0,Current,0,,0.543,4822.88,67% of invoices paid 30+ days late; at 82% of credit limit
+INV-202610-001405,C0062,2026-10-01,2026-10-31,14717.49,14717.49,0,Current,0,,0.324,4764.44,paying 25 days later than a year ago; 37% of balance overdue
+INV-202610-011216,C0087,2026-10-01,2026-10-31,18449.64,18449.64,0,Current,0,,0.257,4732.93,paying 17 days later than a year ago
+INV-202609-009341,C0012,2026-09-01,2026-10-31,5126.3,5126.3,0,Current,0,,0.919,4710.33,paying 31 days later than a year ago; 48% of invoices paid 30+ days late; 5 broken promise(s) to pay
+INV-202609-002013,C0089,2026-09-01,2026-10-31,5923.91,5923.91,0,Current,0,,0.794,4704.09,95% of invoices paid 30+ days late; at 110% of credit limit
+INV-202610-009342,C0012,2026-10-01,2026-11-30,5228.85,5228.85,-30,Current,0,,0.88,4599.49,paying 31 days later than a year ago; 48% of invoices paid 30+ days late; 5 broken promise(s) to pay
+INV-202610-008469,C0157,2026-10-01,2026-10-31,9376.55,9376.55,0,Current,0,,0.481,4514.22,67% of invoices paid 30+ days late; 50% of balance overdue; 2 broken promise(s) to pay
+INV-202606-005160,C0229,2026-06-01,2026-07-01,4453.79,4453.79,122,90+,0,,1.0,4453.44,122 days past due; paying 113 days later than a year ago; 80% of balance overdue
+INV-202607-005161,C0229,2026-07-01,2026-07-31,4453.79,4453.79,92,90+,0,,1.0,4453.44,92 days past due; paying 113 days later than a year ago; 80% of balance overdue
+INV-202610-005164,C0229,2026-10-01,2026-10-31,4453.79,4453.79,0,Current,0,,0.984,4383.79,paying 113 days later than a year ago; 80% of balance overdue; 3 broken promise(s) to pay
+INV-202608-005962,C0263,2026-08-01,2026-08-31,10303.31,10303.31,61,61-90,0,,0.425,4381.72,paying 32 days later than a year ago; 44% of invoices paid 30+ days late; 68% of balance overdue
+INV-202609-011156,C0030,2026-09-01,2026-10-01,37874.36,37874.36,30,1-30,0,,0.114,4315.46,paying 21 days later than a year ago; 50% of balance overdue; at 91% of credit limit
+INV-202607-007224,C0012,2026-07-01,2026-08-30,7175.05,7175.05,62,61-90,0,,0.601,4310.4,paying 31 days later than a year ago; 48% of invoices paid 30+ days late; 5 broken promise(s) to pay
+INV-202610-002014,C0089,2026-10-01,2026-11-30,5923.91,5923.91,-30,Current,0,,0.714,4227.3,95% of invoices paid 30+ days late; at 110% of credit limit
+INV-202610-000916,C0041,2026-10-01,2026-10-31,15758.15,15758.15,0,Current,1,Service issue,0.266,4195.35,open dispute: Service issue
+INV-202606-006869,C0214,2026-06-01,2026-07-01,4137.82,4137.82,122,90+,0,,1.0,4137.79,122 days past due; paying 114 days later than a year ago; at 308% of credit limit
+INV-202608-006871,C0214,2026-08-01,2026-08-31,4141.69,4141.69,61,61-90,0,,0.988,4093.38,paying 114 days later than a year ago; at 308% of credit limit; 80% of balance overdue
+INV-202609-001101,C0048,2026-09-01,2026-10-31,17641.97,17641.97,0,Current,0,,0.231,4084.09,paying 17 days later than a year ago; at 87% of credit limit
+INV-202607-006870,C0214,2026-07-01,2026-07-31,4079.93,4079.93,92,90+,0,,1.0,4079.9,92 days past due; paying 114 days later than a year ago; at 308% of credit limit
+INV-202609-003085,C0136,2026-09-01,2026-10-16,23789.44,23789.44,15,1-30,0,,0.171,4061.22,39% of invoices paid 30+ days late; paying 20 days later than a year ago; 39% of balance overdue
+INV-202609-006872,C0214,2026-09-01,2026-10-01,4091.41,4091.41,30,1-30,0,,0.989,4047.2,paying 114 days later than a year ago; at 308% of credit limit; 80% of balance overdue
+INV-202610-002734,C0121,2026-10-01,2026-11-15,8367.23,8367.23,-15,Current,0,,0.481,4021.92,83% of invoices paid 30+ days late; 48% of balance overdue; 2 broken promise(s) to pay
+INV-202609-005163,C0229,2026-09-01,2026-10-01,4453.79,4453.79,30,1-30,0,,0.902,4015.2,paying 113 days later than a year ago; 80% of balance overdue; 3 broken promise(s) to pay
+INV-202608-005162,C0229,2026-08-01,2026-08-31,4453.79,4453.79,61,61-90,0,,0.895,3983.97,paying 113 days later than a year ago; 80% of balance overdue; 3 broken promise(s) to pay
+INV-202609-004167,C0187,2026-09-01,2026-10-31,21183.4,21183.4,0,Current,0,,0.186,3936.33,33% of invoices paid 30+ days late
+INV-202610-006873,C0214,2026-10-01,2026-10-31,3915.42,3915.42,0,Current,0,,0.998,3909.19,paying 114 days later than a year ago; at 308% of credit limit; 80% of balance overdue
+INV-202610-004939,C0220,2026-10-01,2026-10-31,7790.81,7790.81,0,Current,0,,0.501,3905.81,7 broken promise(s) to pay; 47% of invoices paid 30+ days late; 50% of balance overdue
+INV-202610-008833,C0096,2026-10-01,2026-10-31,20067.53,20067.53,0,Current,0,,0.194,3895.03,paying 19 days later than a year ago; 50% of balance overdue
+INV-202608-011096,C0231,2026-08-01,2026-09-15,22871.07,22871.07,46,31-60,1,Amount does not match PO,0.17,3886.18,open dispute: Amount does not match PO; paying 27 days later than a year ago; 50% of balance overdue
+INV-202610-003544,C0158,2026-10-01,2026-10-31,20774.97,20774.97,0,Current,0,,0.187,3881.49,at 107% of credit limit
+INV-202610-000723,C0033,2026-10-01,2026-10-31,13176.22,13176.22,0,Current,1,Amount does not match PO,0.294,3877.01,open dispute: Amount does not match PO
+INV-202610-000970,C0043,2026-10-01,2026-11-30,8913.84,8913.84,-30,Current,0,,0.434,3866.95,67% of invoices paid 30+ days late; at 82% of credit limit
+INV-202610-006079,C0268,2026-10-01,2026-11-30,22430.91,22430.91,-30,Current,0,,0.172,3865.76,33% of invoices paid 30+ days late
+INV-202610-010876,C0104,2026-10-01,2026-10-31,8508.6,8508.6,0,Current,0,,0.446,3793.59,69% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202609-003012,C0133,2026-09-01,2026-10-31,4009.42,4009.42,0,Current,0,,0.942,3778.23,100% of invoices paid 30+ days late; at 115% of credit limit; paying 18 days later than a year ago
+INV-202609-006423,C0283,2026-09-01,2026-10-01,8020.37,8020.37,30,1-30,0,,0.47,3769.72,paying 31 days later than a year ago; 52% of invoices paid 30+ days late; 58% of balance overdue
+INV-202610-003013,C0133,2026-10-01,2026-11-30,4009.42,4009.42,-30,Current,0,,0.913,3662.56,100% of invoices paid 30+ days late; at 115% of credit limit; paying 18 days later than a year ago
+INV-202608-006422,C0283,2026-08-01,2026-08-31,8020.37,8020.37,61,61-90,0,,0.451,3617.08,paying 31 days later than a year ago; 52% of invoices paid 30+ days late; 58% of balance overdue
+INV-202610-002799,C0124,2026-10-01,2026-10-31,9469.07,9469.07,0,Current,0,,0.375,3548.5,paying 22 days later than a year ago; 50% of balance overdue; at 86% of credit limit
+INV-202609-008507,C0088,2026-09-01,2026-10-31,10922.75,10922.75,0,Current,0,,0.324,3535.15,paying 18 days later than a year ago; at 93% of credit limit
+INV-202609-004938,C0220,2026-09-01,2026-10-01,7764.45,7764.45,30,1-30,1,Amount does not match PO,0.451,3500.99,open dispute: Amount does not match PO; 7 broken promise(s) to pay; 47% of invoices paid 30+ days late
+INV-202609-000298,C0014,2026-09-01,2026-10-31,16962.04,16962.04,0,Current,0,,0.205,3482.86,paying 18 days later than a year ago
+INV-202610-011283,C0288,2026-10-01,2026-10-31,9715.55,9715.55,0,Current,0,,0.356,3455.7,44% of invoices paid 30+ days late; 50% of balance overdue
+INV-202610-000460,C0021,2026-10-01,2026-11-15,8589.28,8589.28,-15,Current,0,,0.402,3454.37,paying 28 days later than a year ago; 42% of balance overdue
+INV-202609-006058,C0267,2026-09-01,2026-10-31,7954.74,7954.74,0,Current,0,,0.433,3440.55,paying 32 days later than a year ago; at 86% of credit limit
+INV-202610-004017,C0180,2026-10-01,2026-10-31,6301.21,6301.21,0,Current,0,,0.545,3434.27,50% of invoices paid 30+ days late; 50% of balance overdue; at 85% of credit limit
+INV-202609-005665,C0250,2026-09-01,2026-10-16,18195.22,18195.22,15,1-30,0,,0.188,3416.2,8 broken promise(s) to pay; 41% of invoices paid 30+ days late; 36% of balance overdue
+INV-202609-005633,C0249,2026-09-01,2026-10-01,9200.35,9200.35,30,1-30,0,,0.369,3395.03,79% of invoices paid 30+ days late; 48% of balance overdue; at 89% of credit limit
+INV-202608-005891,C0260,2026-08-01,2026-08-31,9930.93,9930.93,61,61-90,0,,0.342,3392.67,64% of invoices paid 30+ days late; paying 27 days later than a year ago; 50% of balance overdue
+INV-202609-005013,C0223,2026-09-01,2026-10-31,9128.85,9128.85,0,Current,1,Service issue,0.365,3335.22,open dispute: Service issue
+INV-202610-000085,C0004,2026-10-01,2026-10-31,17253.38,17253.38,0,Current,0,,0.193,3323.76,40% of invoices paid 30+ days late; 4 broken promise(s) to pay
+INV-202609-011337,C0018,2026-09-01,2026-10-01,11239.57,11239.57,30,1-30,0,,0.293,3296.16,69% of invoices paid 30+ days late; at 156% of credit limit; 50% of balance overdue
+INV-202610-000171,C0008,2026-10-01,2026-10-31,4942.44,4942.44,0,Current,1,Service issue,0.655,3236.54,open dispute: Service issue; 46% of invoices paid 30+ days late
+INV-202609-009510,C0194,2026-09-01,2026-10-01,12391.33,12391.33,30,1-30,0,,0.261,3230.12,71% of invoices paid 30+ days late; at 133% of credit limit; 47% of balance overdue
+INV-202609-009710,C0232,2026-09-01,2026-10-31,9248.02,9248.02,0,Current,0,,0.347,3206.23,43% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202609-006968,C0113,2026-09-01,2026-10-16,12420.96,12420.96,15,1-30,0,,0.256,3181.29,64% of balance overdue; 36% of invoices paid 30+ days late; paying 18 days later than a year ago
+INV-202609-001203,C0052,2026-09-01,2026-10-31,33426.43,33426.43,0,Current,0,,0.094,3131.92,
+INV-202609-002798,C0124,2026-09-01,2026-10-01,9469.07,9469.07,30,1-30,1,Amount does not match PO,0.329,3111.64,open dispute: Amount does not match PO; paying 22 days later than a year ago; 50% of balance overdue
+INV-202608-006368,C0281,2026-08-01,2026-09-30,27729.88,27729.88,31,31-60,0,,0.112,3105.76,82% of invoices paid 30+ days late; at 88% of credit limit
+INV-202608-003573,C0159,2026-08-01,2026-08-31,5969.69,5969.69,61,61-90,0,,0.494,2946.9,56% of invoices paid 30+ days late; paying 29 days later than a year ago; 68% of balance overdue
+INV-202609-001981,C0088,2026-09-01,2026-10-31,8844.84,8844.84,0,Current,0,,0.326,2885.49,paying 18 days later than a year ago; at 93% of credit limit
+INV-202606-005772,C0255,2026-06-01,2026-07-31,2880.07,2880.07,92,90+,0,,1.0,2879.18,92 days past due; paying 82 days later than a year ago; at 139% of credit limit
+INV-202610-001102,C0048,2026-10-01,2026-11-30,17641.97,17641.97,-30,Current,0,,0.163,2874.23,paying 17 days later than a year ago; at 87% of credit limit
+INV-202610-001841,C0081,2026-10-01,2026-10-31,19811.09,19811.09,0,Current,0,,0.144,2852.93,
+INV-202609-003574,C0159,2026-09-01,2026-10-01,5443.03,5443.03,30,1-30,0,,0.514,2798.16,56% of invoices paid 30+ days late; paying 29 days later than a year ago; 68% of balance overdue
+INV-202609-004054,C0182,2026-09-01,2026-10-01,8095.44,8095.44,30,1-30,0,,0.343,2774.27,85% of invoices paid 30+ days late; at 116% of credit limit; 50% of balance overdue
+INV-202607-003010,C0133,2026-07-01,2026-08-30,4009.42,4009.42,62,61-90,0,,0.689,2761.45,100% of invoices paid 30+ days late; at 115% of credit limit; paying 18 days later than a year ago
+INV-202609-001679,C0074,2026-09-01,2026-10-31,30775.85,30775.85,0,Current,0,,0.089,2749.94,at 82% of credit limit
+INV-202609-004098,C0184,2026-09-01,2026-10-01,19442.97,19442.97,30,1-30,0,,0.141,2737.1,42% of invoices paid 30+ days late; 50% of balance overdue; at 83% of credit limit
+INV-202606-008441,C0134,2026-06-01,2026-07-31,2735.86,2735.86,92,90+,0,,1.0,2735.86,paying 120 days later than a year ago; 92 days past due; at 289% of credit limit
+INV-202609-008444,C0134,2026-09-01,2026-10-31,2735.43,2735.43,0,Current,0,,1.0,2734.64,paying 120 days later than a year ago; at 289% of credit limit; 8 broken promise(s) to pay
+INV-202610-008445,C0134,2026-10-01,2026-11-30,2727.52,2727.52,-30,Current,0,,1.0,2726.31,paying 120 days later than a year ago; at 289% of credit limit; 8 broken promise(s) to pay
+INV-202610-004168,C0187,2026-10-01,2026-11-30,21183.4,21183.4,-30,Current,0,,0.129,2722.31,33% of invoices paid 30+ days late
+INV-202610-010376,C0201,2026-10-01,2026-10-31,17269.45,17269.45,0,Current,0,,0.155,2673.36,27% of invoices paid 30+ days late
+INV-202610-006059,C0267,2026-10-01,2026-11-30,8063.06,8063.06,-30,Current,0,,0.33,2659.11,paying 32 days later than a year ago; at 86% of credit limit
+INV-202609-005775,C0255,2026-09-01,2026-10-31,2812.98,2812.98,0,Current,0,,0.941,2646.12,paying 82 days later than a year ago; at 139% of credit limit; 60% of balance overdue
+INV-202609-009537,C0199,2026-09-01,2026-10-16,22180.49,22180.49,15,1-30,0,,0.117,2605.71,35% of invoices paid 30+ days late; 50% of balance overdue; 2 broken promise(s) to pay
+INV-202610-006281,C0277,2026-10-01,2026-10-31,5446.61,5446.61,0,Current,1,Amount does not match PO,0.477,2599.77,open dispute: Amount does not match PO; 38% of invoices paid 30+ days late
+INV-202610-008989,C0027,2026-10-01,2026-10-31,13022.01,13022.01,0,Current,1,Amount does not match PO,0.199,2592.11,open dispute: Amount does not match PO
+INV-202610-008767,C0029,2026-10-01,2026-11-15,21285.81,21285.81,-15,Current,0,,0.122,2588.68,50% of balance overdue
+INV-202610-008508,C0088,2026-10-01,2026-11-30,10922.75,10922.75,-30,Current,0,,0.236,2579.54,paying 18 days later than a year ago; at 93% of credit limit
+INV-202608-007225,C0012,2026-08-01,2026-09-30,7175.05,7175.05,31,31-60,0,,0.358,2570.48,paying 31 days later than a year ago; 48% of invoices paid 30+ days late; 5 broken promise(s) to pay
+INV-202610-001146,C0050,2026-10-01,2026-10-31,6507.87,6507.87,0,Current,0,,0.393,2557.98,43% of invoices paid 30+ days late; at 82% of credit limit
+INV-202510-X024864,C9203,2025-10-01,2025-10-31,2604.17,2604.17,365,90+,0,,0.982,2556.5,"365 days past due; 100% of balance overdue; new / one-off account, no payment history"
+INV-202607-008442,C0134,2026-07-01,2026-08-30,2511.95,2511.95,62,61-90,0,,0.998,2506.65,paying 120 days later than a year ago; at 289% of credit limit; 8 broken promise(s) to pay
+INV-202610-005776,C0255,2026-10-01,2026-11-30,2749.89,2749.89,-30,Current,0,,0.911,2505.65,paying 82 days later than a year ago; at 139% of credit limit; 60% of balance overdue
+INV-202608-008443,C0134,2026-08-01,2026-09-30,2511.95,2511.95,31,31-60,0,,0.994,2497.71,paying 120 days later than a year ago; at 289% of credit limit; 8 broken promise(s) to pay
+INV-202609-008605,C0253,2026-09-01,2026-10-31,38337.78,38337.78,0,Current,0,,0.065,2494.28,
+INV-202603-X025138,C9344,2026-03-01,2026-03-31,2542.33,2542.33,214,90+,0,,0.98,2491.18,"214 days past due; 100% of balance overdue; new / one-off account, no payment history"
+INV-202610-010598,C0053,2026-10-01,2026-10-31,10569.91,10569.91,0,Current,1,Amount does not match PO,0.234,2478.07,open dispute: Amount does not match PO
+INV-202610-010390,C0017,2026-10-01,2026-10-31,3856.79,3856.79,0,Current,0,,0.633,2442.44,71% of invoices paid 30+ days late; 3 broken promise(s) to pay; 40% of balance overdue
+INV-202609-000892,C0040,2026-09-01,2026-10-16,14946.51,14946.51,15,1-30,0,,0.163,2437.24,67% of invoices paid 30+ days late; 49% of balance overdue
+INV-202610-000299,C0014,2026-10-01,2026-11-30,16962.04,16962.04,-30,Current,0,,0.143,2426.63,paying 18 days later than a year ago
+INV-202602-008437,C0134,2026-02-01,2026-04-02,2424.11,2424.11,212,90+,0,,1.0,2424.11,paying 120 days later than a year ago; 212 days past due; at 289% of credit limit
+INV-202610-011197,C0042,2026-10-01,2026-10-31,22410.42,22410.42,0,Current,0,,0.108,2420.39,
+INV-202603-008438,C0134,2026-03-01,2026-04-30,2415.36,2415.36,184,90+,0,,1.0,2415.36,paying 120 days later than a year ago; 184 days past due; at 289% of credit limit
+INV-202604-008439,C0134,2026-04-01,2026-05-31,2415.36,2415.36,153,90+,0,,1.0,2415.36,paying 120 days later than a year ago; 153 days past due; at 289% of credit limit
+INV-202605-008440,C0134,2026-05-01,2026-06-30,2415.36,2415.36,123,90+,0,,1.0,2415.36,paying 120 days later than a year ago; 123 days past due; at 289% of credit limit
+INV-202601-008436,C0134,2026-01-01,2026-03-02,2415.36,2415.36,243,90+,0,,1.0,2415.36,paying 120 days later than a year ago; 243 days past due; at 289% of credit limit
+INV-202610-007948,C0104,2026-10-01,2026-10-31,5320.76,5320.76,0,Current,0,,0.452,2406.77,69% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202609-010451,C0205,2026-09-01,2026-09-16,13470.94,13470.94,45,31-60,0,,0.178,2398.02,100% of balance overdue; at 144% of credit limit; paying 22 days later than a year ago
+INV-202609-007869,C0205,2026-09-01,2026-09-16,12962.74,12962.74,45,31-60,0,,0.178,2311.63,100% of balance overdue; at 144% of credit limit; paying 22 days later than a year ago
+INV-202609-003989,C0179,2026-09-01,2026-10-31,3995.13,3995.13,0,Current,0,,0.579,2311.61,54% of invoices paid 30+ days late; at 90% of credit limit
+INV-202510-006445,C0284,2025-10-01,2025-10-31,2311.45,2311.45,365,90+,0,,0.995,2299.95,365 days past due; 100% of balance overdue; at 172% of credit limit
+INV-202609-006355,C0280,2026-09-01,2026-10-16,11591.12,11591.12,15,1-30,0,,0.195,2260.05,83% of invoices paid 30+ days late; 49% of balance overdue
+INV-202608-009254,C0085,2026-08-01,2026-09-15,17567.83,17567.83,46,31-60,0,,0.127,2236.91,69% of invoices paid 30+ days late; 66% of balance overdue; 3 broken promise(s) to pay
+INV-202609-004602,C0206,2026-09-01,2026-10-16,6749.73,6749.73,15,1-30,0,,0.328,2211.39,87% of invoices paid 30+ days late; 60% of balance overdue; at 105% of credit limit
+INV-202603-005686,C0251,2026-03-01,2026-03-16,2180.26,2180.26,229,90+,0,,1.0,2180.26,paying 120 days later than a year ago; 229 days past due; at 436% of credit limit
+INV-202606-005689,C0251,2026-06-01,2026-06-16,2180.26,2180.26,137,90+,0,,1.0,2180.26,paying 120 days later than a year ago; 137 days past due; at 436% of credit limit
+INV-202607-005690,C0251,2026-07-01,2026-07-16,2180.26,2180.26,107,90+,0,,1.0,2180.26,paying 120 days later than a year ago; 107 days past due; at 436% of credit limit
+INV-202601-005684,C0251,2026-01-01,2026-01-16,2180.26,2180.26,288,90+,0,,1.0,2180.26,paying 120 days later than a year ago; 288 days past due; at 436% of credit limit
+INV-202605-005688,C0251,2026-05-01,2026-05-16,2180.26,2180.26,168,90+,0,,1.0,2180.26,paying 120 days later than a year ago; 168 days past due; at 436% of credit limit
+INV-202604-005687,C0251,2026-04-01,2026-04-16,2180.26,2180.26,198,90+,0,,1.0,2180.26,paying 120 days later than a year ago; 198 days past due; at 436% of credit limit
+INV-202602-005685,C0251,2026-02-01,2026-02-16,2180.26,2180.26,257,90+,0,,1.0,2180.26,paying 120 days later than a year ago; 257 days past due; at 436% of credit limit
+INV-202610-005693,C0251,2026-10-01,2026-10-16,2180.26,2180.26,15,1-30,0,,1.0,2179.64,paying 120 days later than a year ago; at 436% of credit limit; 100% of balance overdue
+INV-202608-005691,C0251,2026-08-01,2026-08-16,2180.26,2180.26,76,61-90,0,,1.0,2179.6,paying 120 days later than a year ago; at 436% of credit limit; 100% of balance overdue
+INV-202609-005692,C0251,2026-09-01,2026-09-16,2180.26,2180.26,45,31-60,0,,0.999,2178.47,paying 120 days later than a year ago; at 436% of credit limit; 100% of balance overdue
+INV-202610-001714,C0075,2026-10-01,2026-10-31,5750.59,5750.59,0,Current,0,,0.376,2160.98,69% of invoices paid 30+ days late
+INV-202610-001204,C0052,2026-10-01,2026-11-30,33426.43,33426.43,-30,Current,0,,0.063,2092.95,
+INV-202512-006447,C0284,2025-12-01,2025-12-31,2088.19,2088.19,304,90+,0,,0.995,2077.86,304 days past due; 100% of balance overdue; at 172% of credit limit
+INV-202511-006446,C0284,2025-11-01,2025-12-01,2088.19,2088.19,334,90+,0,,0.995,2077.86,334 days past due; 100% of balance overdue; at 172% of credit limit
+INV-202601-006448,C0284,2026-01-01,2026-01-31,2088.19,2088.19,273,90+,0,,0.995,2077.86,273 days past due; 100% of balance overdue; at 172% of credit limit
+INV-202610-002341,C0103,2026-10-01,2026-10-31,30201.23,30201.23,0,Current,0,,0.068,2057.29,
+INV-202610-009280,C0156,2026-10-01,2026-10-31,34446.22,34446.22,0,Current,0,,0.059,2047.74,
+INV-202610-003743,C0167,2026-10-01,2026-10-31,5314.18,5314.18,0,Current,0,,0.382,2030.34,75% of invoices paid 30+ days late
+INV-202609-008812,C0068,2026-09-01,2026-10-16,9572.11,9572.11,15,1-30,0,,0.209,1999.81,71% of invoices paid 30+ days late; 51% of balance overdue; 2 broken promise(s) to pay
+INV-202610-001964,C0087,2026-10-01,2026-10-31,7419.4,7419.4,0,Current,0,,0.266,1976.14,paying 17 days later than a year ago
+INV-202609-004367,C0195,2026-09-01,2026-10-16,28969.9,28969.9,15,1-30,0,,0.068,1960.62,45% of invoices paid 30+ days late; 48% of balance overdue
+INV-202608-009729,C0089,2026-08-01,2026-09-30,12420.96,12420.96,31,31-60,0,,0.157,1946.87,95% of invoices paid 30+ days late; at 110% of credit limit
+INV-202610-009195,C0004,2026-10-01,2026-10-31,9854.43,9854.43,0,Current,0,,0.198,1946.77,40% of invoices paid 30+ days late; 4 broken promise(s) to pay
+INV-202610-006897,C0046,2026-10-01,2026-10-31,11357.5,11357.5,0,Current,0,,0.171,1938.77,paying 14 days later than a year ago
+INV-202610-010466,C0092,2026-10-01,2026-10-31,32388.81,32388.81,0,Current,0,,0.06,1933.07,
+INV-202608-009340,C0012,2026-08-01,2026-09-30,5229.78,5229.78,31,31-60,0,,0.362,1894.85,paying 31 days later than a year ago; 48% of invoices paid 30+ days late; 5 broken promise(s) to pay
+INV-202610-003990,C0179,2026-10-01,2026-11-30,3995.13,3995.13,-30,Current,0,,0.47,1878.12,54% of invoices paid 30+ days late; at 90% of credit limit
+INV-202610-002844,C0126,2026-10-01,2026-11-15,20042.75,20042.75,-15,Current,0,,0.093,1862.77,
+INV-202607-005773,C0255,2026-07-01,2026-08-30,2701.56,2701.56,62,61-90,0,,0.683,1844.47,paying 82 days later than a year ago; at 139% of credit limit; 60% of balance overdue
+INV-202610-007444,C0158,2026-10-01,2026-10-31,9492.49,9492.49,0,Current,0,,0.194,1837.43,at 107% of credit limit
+INV-202610-001680,C0074,2026-10-01,2026-11-30,30775.85,30775.85,-30,Current,0,,0.06,1834.77,at 82% of credit limit
+INV-202610-001001,C0044,2026-10-01,2026-10-31,15803.5,15803.5,0,Current,0,,0.115,1821.5,32% of invoices paid 30+ days late
+INV-202608-003011,C0133,2026-08-01,2026-09-30,4009.42,4009.42,31,31-60,0,,0.451,1807.58,100% of invoices paid 30+ days late; at 115% of credit limit; paying 18 days later than a year ago
+INV-202609-011262,C0070,2026-09-01,2026-10-31,17229.31,17229.31,0,Current,0,,0.102,1757.38,
+INV-202609-004447,C0199,2026-09-01,2026-10-16,14237.65,14237.65,15,1-30,0,,0.12,1709.47,35% of invoices paid 30+ days late; 50% of balance overdue; 2 broken promise(s) to pay
+INV-202610-009994,C0150,2026-10-01,2026-10-31,23528.08,23528.08,0,Current,0,,0.072,1689.63,
+INV-202609-010282,C0297,2026-09-01,2026-10-16,13733.31,13733.31,15,1-30,0,,0.123,1685.23,paying 33 days later than a year ago; 54% of balance overdue; at 81% of credit limit
+INV-202602-X025125,C9285,2026-02-01,2026-03-03,1702.22,1702.22,242,90+,0,,0.979,1666.05,"242 days past due; 100% of balance overdue; new / one-off account, no payment history"
+INV-202610-008606,C0253,2026-10-01,2026-11-30,38337.78,38337.78,-30,Current,0,,0.043,1649.55,
+INV-202610-004512,C0202,2026-10-01,2026-10-31,17594.84,17594.84,0,Current,0,,0.093,1630.45,
+INV-202610-011035,C0257,2026-10-01,2026-10-31,2343.39,2343.39,0,Current,0,,0.682,1599.13,paying 26 days later than a year ago; 50% of balance overdue; 33% of invoices paid 30+ days late
+INV-202610-005063,C0225,2026-10-01,2026-10-16,34114.02,34114.02,15,1-30,0,,0.046,1555.56,100% of balance overdue
+INV-202610-001296,C0057,2026-10-01,2026-10-31,30348.89,30348.89,0,Current,0,,0.051,1536.26,
+INV-202608-010949,C0192,2026-08-01,2026-09-30,17521.13,17521.13,31,31-60,0,,0.087,1531.99,75% of invoices paid 30+ days late; 5 broken promise(s) to pay
+INV-202609-008109,C0174,2026-09-01,2026-10-31,13990.38,13990.38,0,Current,0,,0.109,1531.8,
+INV-202609-007443,C0158,2026-09-01,2026-10-01,9225.05,9225.05,30,1-30,1,Amount does not match PO,0.164,1513.92,open dispute: Amount does not match PO; at 107% of credit limit
+INV-202610-007514,C0142,2026-10-01,2026-10-31,12249.98,12249.98,0,Current,0,,0.123,1507.36,29% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202610-009874,C0050,2026-10-01,2026-10-31,3697.53,3697.53,0,Current,0,,0.401,1481.27,43% of invoices paid 30+ days late; at 82% of credit limit
+INV-202610-002995,C0132,2026-10-01,2026-11-15,20993.72,20993.72,-15,Current,0,,0.069,1445.66,
+INV-202610-004123,C0185,2026-10-01,2026-10-31,1435.77,1435.77,0,Current,0,,1.0,1435.68,paying 120 days later than a year ago; at 342% of credit limit; 18 broken promise(s) to pay
+INV-202610-001265,C0055,2026-10-01,2026-10-31,8646.46,8646.46,0,Current,0,,0.166,1433.63,38% of invoices paid 30+ days late
+INV-202610-006600,C0290,2026-10-01,2026-10-31,24336.28,24336.28,0,Current,0,,0.059,1432.28,
+INV-202604-004117,C0185,2026-04-01,2026-05-01,1430.57,1430.57,183,90+,0,,1.0,1430.57,paying 120 days later than a year ago; 183 days past due; at 342% of credit limit
+INV-202609-009554,C0062,2026-09-01,2026-10-01,22232.64,22232.64,30,1-30,0,,0.064,1422.99,paying 25 days later than a year ago; 37% of balance overdue
+INV-202608-006057,C0267,2026-08-01,2026-09-30,7954.74,7954.74,31,31-60,1,PO number missing,0.176,1401.62,open dispute: PO number missing; paying 32 days later than a year ago; at 86% of credit limit
+INV-202610-009948,C0052,2026-10-01,2026-11-30,21856.31,21856.31,-30,Current,0,,0.064,1399.24,
+INV-202610-006745,C0297,2026-10-01,2026-11-15,3053.78,3053.78,-15,Current,0,,0.455,1390.92,paying 33 days later than a year ago; 54% of balance overdue; at 81% of credit limit
+INV-202610-003482,C0155,2026-10-01,2026-10-31,21715.46,21715.46,0,Current,0,,0.062,1344.89,
+INV-202610-000490,C0023,2026-10-01,2026-10-31,23721.12,23721.12,0,Current,0,,0.057,1342.46,
+INV-202610-006491,C0286,2026-10-01,2026-11-15,5018.79,5018.79,-15,Current,0,,0.266,1333.92,50% of balance overdue
+INV-202610-004343,C0194,2026-10-01,2026-10-31,1820.38,1820.38,0,Current,0,,0.729,1326.32,71% of invoices paid 30+ days late; at 133% of credit limit; 47% of balance overdue
+INV-202610-003619,C0161,2026-10-01,2026-10-31,5041.24,5041.24,0,Current,0,,0.262,1318.53,paying 24 days later than a year ago
+INV-202608-006967,C0113,2026-08-01,2026-09-15,12429.16,12429.16,46,31-60,0,,0.106,1314.97,64% of balance overdue; 36% of invoices paid 30+ days late; paying 18 days later than a year ago
+INV-202609-003784,C0169,2026-09-01,2026-10-31,11140.9,11140.9,0,Current,0,,0.116,1291.46,at 86% of credit limit
+INV-202609-002733,C0121,2026-09-01,2026-10-16,8625.15,5952.11,15,1-30,1,Over-charged (tax rate),0.216,1286.6,83% of invoices paid 30+ days late; open dispute: Over-charged (tax rate); 48% of balance overdue
+INV-202610-002358,C0104,2026-10-01,2026-10-31,2777.01,2777.01,0,Current,0,,0.461,1281.14,69% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202605-001065,C0047,2026-05-01,2026-05-31,1280.35,1280.35,153,90+,0,,1.0,1280.34,paying 120 days later than a year ago; 153 days past due; at 230% of credit limit
+INV-202607-001067,C0047,2026-07-01,2026-07-31,1280.35,1280.35,92,90+,0,,1.0,1280.34,paying 120 days later than a year ago; 92 days past due; at 230% of credit limit
+INV-202606-001066,C0047,2026-06-01,2026-07-01,1280.35,1280.35,122,90+,0,,1.0,1280.34,paying 120 days later than a year ago; 122 days past due; at 230% of credit limit
+INV-202510-001783,C0078,2025-10-01,2025-10-31,1281.63,1281.63,365,90+,0,,0.998,1278.82,365 days past due; at 289% of credit limit; 93% of balance overdue
+INV-202609-001528,C0067,2026-09-01,2026-10-31,16478.05,16478.05,0,Current,0,,0.077,1275.26,
+INV-202609-009764,C0253,2026-09-01,2026-10-31,18862.09,18862.09,0,Current,0,,0.068,1273.39,
+INV-202609-001069,C0047,2026-09-01,2026-10-01,1280.35,1280.35,30,1-30,0,,0.989,1266.75,paying 120 days later than a year ago; at 230% of credit limit; 9 broken promise(s) to pay
+INV-202608-001068,C0047,2026-08-01,2026-08-31,1280.35,1280.35,61,61-90,0,,0.989,1265.68,paying 120 days later than a year ago; at 230% of credit limit; 9 broken promise(s) to pay
+INV-202610-006711,C0295,2026-10-01,2026-10-31,16849.25,16849.25,0,Current,0,,0.075,1265.59,
+INV-202610-002061,C0091,2026-10-01,2026-10-31,16192.88,16192.88,0,Current,0,,0.078,1262.5,
+INV-202609-008238,C0121,2026-09-01,2026-10-16,8769.8,8769.8,15,1-30,0,,0.144,1260.65,83% of invoices paid 30+ days late; 48% of balance overdue; 2 broken promise(s) to pay
+INV-202603-001788,C0078,2026-03-01,2026-03-31,1261.34,1261.34,214,90+,0,,0.998,1258.58,214 days past due; at 289% of credit limit; 93% of balance overdue
+INV-202512-004113,C0185,2025-12-01,2025-12-31,1258.34,1258.34,304,90+,0,,1.0,1258.34,paying 120 days later than a year ago; 304 days past due; at 342% of credit limit
+INV-202609-006638,C0292,2026-09-01,2026-10-31,12620.38,12620.38,0,Current,0,,0.099,1247.15,
+INV-202610-000156,C0007,2026-10-01,2026-10-31,11014.51,11014.51,0,Current,0,,0.112,1236.26,
+INV-202610-002688,C0118,2026-10-01,2026-10-31,2138.86,2138.86,0,Current,0,,0.576,1231.95,72% of invoices paid 30+ days late; 41% of balance overdue
+INV-202608-005774,C0255,2026-08-01,2026-09-30,2775.59,2775.59,31,31-60,0,,0.444,1231.2,paying 82 days later than a year ago; at 139% of credit limit; 60% of balance overdue
+INV-202608-004121,C0185,2026-08-01,2026-08-31,1224.09,1224.09,61,61-90,0,,1.0,1223.53,paying 120 days later than a year ago; at 342% of credit limit; 18 broken promise(s) to pay
+INV-202512-001785,C0078,2025-12-01,2025-12-31,1225.58,1225.58,304,90+,0,,0.998,1222.9,304 days past due; at 289% of credit limit; 93% of balance overdue
+INV-202610-009308,C0208,2026-10-01,2026-11-15,24763.66,24763.66,-15,Current,0,,0.049,1219.83,
+INV-202610-000567,C0026,2026-10-01,2026-10-31,18678.02,18678.02,0,Current,0,,0.065,1207.25,
+INV-202610-000276,C0013,2026-10-01,2026-11-15,7538.29,7538.29,-15,Current,0,,0.16,1205.47,49% of balance overdue
+INV-202601-004114,C0185,2026-01-01,2026-01-31,1205.43,1205.43,273,90+,0,,1.0,1205.43,paying 120 days later than a year ago; 273 days past due; at 342% of credit limit
+INV-202610-003213,C0143,2026-10-01,2026-10-16,11115.95,11115.95,15,1-30,0,,0.108,1202.18,100% of balance overdue; 38% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202605-001790,C0078,2026-05-01,2026-05-31,1199.88,1199.88,153,90+,0,,0.998,1197.26,153 days past due; at 289% of credit limit; 93% of balance overdue
+INV-202609-004122,C0185,2026-09-01,2026-10-01,1197.13,1197.13,30,1-30,0,,1.0,1196.63,paying 120 days later than a year ago; at 342% of credit limit; 18 broken promise(s) to pay
+INV-202610-008966,C0249,2026-10-01,2026-10-31,1449.71,1449.71,0,Current,0,,0.816,1182.98,79% of invoices paid 30+ days late; 48% of balance overdue; at 89% of credit limit
+INV-202610-011263,C0070,2026-10-01,2026-11-30,17229.31,17229.31,-30,Current,0,,0.068,1177.97,
+INV-202603-004116,C0185,2026-03-01,2026-03-31,1173.52,1173.52,214,90+,0,,1.0,1173.52,paying 120 days later than a year ago; 214 days past due; at 342% of credit limit
+INV-202604-001789,C0078,2026-04-01,2026-05-01,1171.56,1171.56,183,90+,0,,0.998,1169.0,183 days past due; at 289% of credit limit; 93% of balance overdue
+INV-202609-003892,C0174,2026-09-01,2026-10-31,10524.72,10524.72,0,Current,0,,0.111,1168.75,
+INV-202609-000275,C0013,2026-09-01,2026-10-16,7144.95,7144.95,15,1-30,1,PO number missing,0.162,1160.75,open dispute: PO number missing; 49% of balance overdue
+INV-202609-003235,C0144,2026-09-01,2026-10-31,2383.39,2383.39,0,Current,0,,0.485,1156.95,45% of invoices paid 30+ days late; at 86% of credit limit
+INV-202610-002283,C0101,2026-10-01,2026-10-31,21695.85,21695.85,0,Current,0,,0.053,1147.46,
+INV-202607-004791,C0214,2026-07-01,2026-07-31,1137.43,1137.43,92,90+,0,,1.0,1137.42,92 days past due; paying 114 days later than a year ago; at 308% of credit limit
+INV-202606-004790,C0214,2026-06-01,2026-07-01,1137.43,1137.43,122,90+,0,,1.0,1137.42,122 days past due; paying 114 days later than a year ago; at 308% of credit limit
+INV-202610-004794,C0214,2026-10-01,2026-10-31,1137.43,1137.43,0,Current,0,,0.999,1135.74,paying 114 days later than a year ago; at 308% of credit limit; 80% of balance overdue
+INV-202609-004793,C0214,2026-09-01,2026-10-01,1137.43,1137.43,30,1-30,0,,0.99,1125.98,paying 114 days later than a year ago; at 308% of credit limit; 80% of balance overdue
+INV-202608-004792,C0214,2026-08-01,2026-08-31,1137.43,1137.43,61,61-90,0,,0.989,1125.08,paying 114 days later than a year ago; at 308% of credit limit; 80% of balance overdue
+INV-202609-008468,C0157,2026-09-01,2026-10-01,9376.55,9376.55,30,1-30,0,,0.119,1120.46,67% of invoices paid 30+ days late; 50% of balance overdue; 2 broken promise(s) to pay
+INV-202608-007250,C0011,2026-08-01,2026-08-31,1166.65,1166.65,61,61-90,0,,0.956,1114.74,paying 109 days later than a year ago; 100% of balance overdue; 4 broken promise(s) to pay
+INV-202608-007406,C0206,2026-08-01,2026-09-15,7799.18,7799.18,46,31-60,0,,0.142,1110.92,87% of invoices paid 30+ days late; 60% of balance overdue; at 105% of credit limit
+INV-202609-006402,C0282,2026-09-01,2026-10-31,11481.46,11481.46,0,Current,0,,0.096,1099.86,
+INV-202610-006213,C0274,2026-10-01,2026-10-31,8721.38,8721.38,0,Current,0,,0.125,1086.26,
+INV-202609-001595,C0070,2026-09-01,2026-10-31,10366.26,10366.26,0,Current,0,,0.105,1084.58,
+INV-202610-007546,C0040,2026-10-01,2026-11-15,1964.92,1964.92,-15,Current,0,,0.545,1071.69,67% of invoices paid 30+ days late; 49% of balance overdue
+INV-202610-006855,C0081,2026-10-01,2026-10-31,7046.68,7046.68,0,Current,0,,0.151,1065.91,
+INV-202608-003296,C0147,2026-08-01,2026-09-30,31569.08,31569.08,31,31-60,0,,0.033,1053.56,50% of invoices paid 30+ days late; at 81% of credit limit
+INV-202610-005414,C0239,2026-10-01,2026-10-31,15381.57,15381.57,0,Current,0,,0.068,1051.6,
+INV-202602-001787,C0078,2026-02-01,2026-03-03,1040.76,1040.76,242,90+,0,,0.998,1038.5,242 days past due; at 289% of credit limit; 93% of balance overdue
+INV-202511-001784,C0078,2025-11-01,2025-12-01,1040.76,1040.76,334,90+,0,,0.998,1038.5,334 days past due; at 289% of credit limit; 93% of balance overdue
+INV-202601-001786,C0078,2026-01-01,2026-01-31,1040.76,1040.76,273,90+,0,,0.998,1038.5,273 days past due; at 289% of credit limit; 93% of balance overdue
+INV-202606-001791,C0078,2026-06-01,2026-07-01,1040.76,1040.76,122,90+,0,,0.998,1038.5,122 days past due; at 289% of credit limit; 93% of balance overdue
+INV-202607-001792,C0078,2026-07-01,2026-07-31,1040.76,1040.76,92,90+,0,,0.998,1038.5,92 days past due; at 289% of credit limit; 93% of balance overdue
+INV-202610-008110,C0174,2026-10-01,2026-11-30,13990.38,13990.38,-30,Current,0,,0.074,1029.6,
+INV-202610-005115,C0227,2026-10-01,2026-10-31,18797.69,18797.69,0,Current,0,,0.054,1016.15,
+INV-202609-007471,C0074,2026-09-01,2026-10-31,10746.3,10746.3,0,Current,0,,0.094,1012.82,at 82% of credit limit
+INV-202610-006306,C0278,2026-10-01,2026-11-15,3886.09,3886.09,-15,Current,1,Amount does not match PO,0.252,980.89,open dispute: Amount does not match PO
+INV-202609-003927,C0176,2026-09-01,2026-10-31,9519.23,9519.23,0,Current,0,,0.103,979.9,
+INV-202610-010096,C0190,2026-10-01,2026-11-15,22418.55,22418.55,-15,Current,0,,0.044,978.18,
+INV-202609-004284,C0192,2026-09-01,2026-10-31,1416.18,1416.18,0,Current,0,,0.687,972.91,75% of invoices paid 30+ days late; 5 broken promise(s) to pay
+INV-202609-000362,C0017,2026-09-01,2026-10-01,4875.19,4875.19,30,1-30,0,,0.199,972.4,71% of invoices paid 30+ days late; 3 broken promise(s) to pay; 40% of balance overdue
+INV-202610-008050,C0034,2026-10-01,2026-11-15,14880.44,14880.44,-15,Current,0,,0.065,966.53,
+INV-202610-004285,C0192,2026-10-01,2026-11-30,1645.46,1645.46,-30,Current,0,,0.584,961.64,75% of invoices paid 30+ days late; 5 broken promise(s) to pay
+INV-202608-002012,C0089,2026-08-01,2026-09-30,5923.91,5923.91,31,31-60,0,,0.162,961.33,95% of invoices paid 30+ days late; at 110% of credit limit
+INV-202609-004016,C0180,2026-09-01,2026-10-01,6407.87,6407.87,30,1-30,0,,0.149,954.09,50% of invoices paid 30+ days late; 50% of balance overdue; at 85% of credit limit
+INV-202610-011247,C0046,2026-10-01,2026-10-31,5389.86,5389.86,0,Current,0,,0.177,952.25,paying 14 days later than a year ago
+INV-202608-003136,C0139,2026-08-01,2026-09-15,20291.03,20291.03,46,31-60,0,,0.047,950.01,paying 35 days later than a year ago; 50% of balance overdue
+INV-202610-007529,C0084,2026-10-01,2026-10-31,11086.13,11086.13,0,Current,0,,0.086,948.67,
+INV-202610-003411,C0152,2026-10-01,2026-11-15,20362.0,20362.0,-15,Current,0,,0.046,937.46,
+INV-202606-007248,C0011,2026-06-01,2026-07-01,937.23,937.23,122,90+,0,,1.0,937.2,122 days past due; paying 109 days later than a year ago; 100% of balance overdue
+INV-202607-007249,C0011,2026-07-01,2026-07-31,937.23,937.23,92,90+,0,,1.0,937.2,92 days past due; paying 109 days later than a year ago; 100% of balance overdue
+INV-202609-000459,C0021,2026-09-01,2026-10-16,8589.28,8589.28,15,1-30,0,,0.109,936.26,paying 28 days later than a year ago; 42% of balance overdue
+INV-202609-007251,C0011,2026-09-01,2026-10-01,937.23,937.23,30,1-30,1,Amount does not match PO,0.992,930.14,paying 109 days later than a year ago; open dispute: Amount does not match PO; 100% of balance overdue
+INV-202610-006467,C0285,2026-10-01,2026-10-31,1066.77,1066.77,0,Current,0,,0.854,911.54,paying 53 days later than a year ago; 67% of balance overdue; at 122% of credit limit
+INV-202610-001925,C0085,2026-10-01,2026-11-15,1239.62,1239.62,-15,Current,0,,0.73,905.22,69% of invoices paid 30+ days late; 66% of balance overdue; 3 broken promise(s) to pay
+INV-202608-000347,C0016,2026-08-01,2026-09-15,14783.87,14783.87,46,31-60,0,,0.061,899.41,paying 40 days later than a year ago; 50% of balance overdue
+INV-202610-000407,C0019,2026-10-01,2026-11-30,3204.53,3204.53,-30,Current,1,Amount does not match PO,0.28,897.84,open dispute: Amount does not match PO
+INV-202610-001577,C0069,2026-10-01,2026-10-31,13011.85,13011.85,0,Current,0,,0.069,897.33,
+INV-202607-004120,C0185,2026-07-01,2026-07-31,890.94,890.94,92,90+,0,,1.0,890.94,paying 120 days later than a year ago; 92 days past due; at 342% of credit limit
+INV-202511-004112,C0185,2025-11-01,2025-12-01,890.94,890.94,334,90+,0,,1.0,890.94,paying 120 days later than a year ago; 334 days past due; at 342% of credit limit
+INV-202602-004115,C0185,2026-02-01,2026-03-03,890.94,890.94,242,90+,0,,1.0,890.94,paying 120 days later than a year ago; 242 days past due; at 342% of credit limit
+INV-202605-004118,C0185,2026-05-01,2026-05-31,890.94,890.94,153,90+,0,,1.0,890.94,paying 120 days later than a year ago; 153 days past due; at 342% of credit limit
+INV-202606-004119,C0185,2026-06-01,2026-07-01,890.94,890.94,122,90+,0,,1.0,890.94,paying 120 days later than a year ago; 122 days past due; at 342% of credit limit
+INV-202610-000475,C0022,2026-10-01,2026-10-31,14855.44,14855.44,0,Current,0,,0.058,865.04,
+INV-202610-003175,C0141,2026-10-01,2026-10-31,10002.68,10002.68,0,Current,0,,0.086,858.43,
+INV-202610-005573,C0245,2026-10-01,2026-10-31,12731.32,12731.32,0,Current,0,,0.067,857.61,
+INV-202610-002585,C0113,2026-10-01,2026-11-15,1250.26,1250.26,-15,Current,0,,0.683,853.61,64% of balance overdue; 36% of invoices paid 30+ days late; paying 18 days later than a year ago
+INV-202609-X025073,C0047,2026-09-01,2026-10-01,861.24,861.24,30,1-30,0,,0.99,852.29,paying 120 days later than a year ago; at 230% of credit limit; 9 broken promise(s) to pay
+INV-202610-001529,C0067,2026-10-01,2026-11-30,16478.05,16478.05,-30,Current,0,,0.051,847.16,
+INV-202610-003785,C0169,2026-10-01,2026-11-30,10829.29,10829.29,-30,Current,0,,0.078,847.01,at 86% of credit limit
+INV-202610-009765,C0253,2026-10-01,2026-11-30,18862.09,18862.09,-30,Current,0,,0.045,842.88,
+INV-202610-002758,C0122,2026-10-01,2026-10-31,9011.11,9011.11,0,Current,0,,0.093,839.31,
+INV-202610-006639,C0292,2026-10-01,2026-11-30,12620.38,12620.38,-30,Current,0,,0.066,835.0,
+INV-202610-008299,C0209,2026-10-01,2026-11-15,18085.59,18085.59,-15,Current,0,,0.046,834.62,
+INV-202610-003102,C0137,2026-10-01,2026-11-30,24203.45,24203.45,-30,Current,0,,0.034,829.31,
+INV-202610-007159,C0029,2026-10-01,2026-11-15,6301.68,6301.68,-15,Current,0,,0.129,813.3,50% of balance overdue
+INV-202610-007977,C0156,2026-10-01,2026-10-31,12975.86,12975.86,0,Current,0,,0.063,811.88,
+INV-202609-005248,C0232,2026-09-01,2026-10-31,2206.08,2206.08,0,Current,0,,0.365,805.27,43% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202610-003893,C0174,2026-10-01,2026-11-30,10524.72,10524.72,-30,Current,0,,0.075,786.02,
+INV-202610-007012,C0235,2026-10-01,2026-10-31,17408.49,17408.49,0,Current,0,,0.045,777.68,
+INV-202609-010389,C0017,2026-09-01,2026-10-01,3856.79,3856.79,30,1-30,0,,0.202,777.36,71% of invoices paid 30+ days late; 3 broken promise(s) to pay; 40% of balance overdue
+INV-202610-003348,C0149,2026-10-01,2026-10-31,12828.49,12828.49,0,Current,0,,0.06,773.73,
+INV-202610-006572,C0289,2026-10-01,2026-10-16,4166.04,4166.04,15,1-30,0,,0.185,770.23,100% of balance overdue; 33% of invoices paid 30+ days late
+INV-202610-000678,C0031,2026-10-01,2026-10-31,1249.58,1249.58,0,Current,0,,0.616,769.49,67% of invoices paid 30+ days late; 50% of balance overdue
+INV-202609-003875,C0173,2026-09-01,2026-10-31,1230.95,1230.95,0,Current,0,,0.62,762.76,73% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202609-006005,C0265,2026-09-01,2026-10-31,7283.58,7283.58,0,Current,0,,0.103,747.11,
+INV-202610-008259,C0287,2026-10-01,2026-10-31,1157.11,1157.11,0,Current,0,,0.643,743.75,paying 24 days later than a year ago; 36% of invoices paid 30+ days late; 50% of balance overdue
+INV-202610-002495,C0109,2026-10-01,2026-10-31,11737.67,11737.67,0,Current,0,,0.063,735.93,
+INV-202610-010225,C0039,2026-10-01,2026-11-15,11523.5,11523.5,-15,Current,0,,0.064,735.37,
+INV-202610-006403,C0282,2026-10-01,2026-11-30,11468.64,11468.64,-30,Current,0,,0.064,734.79,
+INV-202610-001596,C0070,2026-10-01,2026-11-30,10366.26,10366.26,-30,Current,0,,0.07,727.7,
+INV-202609-011282,C0288,2026-09-01,2026-10-01,9715.55,9715.55,30,1-30,0,,0.075,725.47,44% of invoices paid 30+ days late; 50% of balance overdue
+INV-202610-003975,C0178,2026-10-01,2026-11-15,16816.46,16816.46,-15,Current,0,,0.043,725.35,
+INV-202610-001795,C0078,2026-10-01,2026-10-31,1040.76,1040.76,0,Current,0,,0.694,722.03,"at 289% of credit limit; 93% of balance overdue; new / one-off account, no payment history"
+INV-202610-009123,C0024,2026-10-01,2026-11-15,12906.49,12906.49,-15,Current,0,,0.055,715.88,
+INV-202610-009383,C0290,2026-10-01,2026-10-31,11546.07,11546.07,0,Current,0,,0.061,706.64,
+INV-202610-003236,C0144,2026-10-01,2026-11-30,1821.92,1821.92,-30,Current,0,,0.382,696.38,45% of invoices paid 30+ days late; at 86% of credit limit
+INV-202610-006227,C0275,2026-10-01,2026-11-15,9359.57,9359.57,-15,Current,0,,0.074,691.3,
+INV-202608-010966,C0179,2026-08-01,2026-09-30,11185.57,11185.57,31,31-60,0,,0.061,683.9,54% of invoices paid 30+ days late; at 90% of credit limit
+INV-202608-006743,C0297,2026-08-01,2026-09-15,3023.89,3023.89,46,31-60,1,Amount does not match PO,0.226,683.77,open dispute: Amount does not match PO; paying 33 days later than a year ago; 54% of balance overdue
+INV-202610-010310,C0243,2026-10-01,2026-10-31,8106.63,8106.63,0,Current,0,,0.084,682.99,
+INV-202609-008832,C0096,2026-09-01,2026-10-01,20067.53,20067.53,30,1-30,0,,0.034,682.47,paying 19 days later than a year ago; 50% of balance overdue
+INV-202610-007472,C0074,2026-10-01,2026-11-30,10746.3,10746.3,-30,Current,0,,0.063,676.97,at 82% of credit limit
+INV-202610-002719,C0120,2026-10-01,2026-11-15,20623.84,20623.84,-15,Current,0,,0.033,675.75,
+INV-202610-001772,C0077,2026-10-01,2026-11-15,2769.94,2769.94,-15,Current,0,,0.24,666.0,50% of balance overdue
+INV-202609-009627,C0253,2026-09-01,2026-10-31,9516.31,9516.31,0,Current,0,,0.07,665.7,
+INV-202609-010007,C0240,2026-09-01,2026-10-31,2310.11,2310.11,0,Current,0,,0.287,661.86,29% of invoices paid 30+ days late; paying 14 days later than a year ago
+INV-202607-X024911,C9171,2026-07-01,2026-07-31,660.6,660.6,92,90+,0,,0.988,652.6,"92 days past due; 100% of balance overdue; new / one-off account, no payment history"
+INV-202610-007067,C0127,2026-10-01,2026-11-30,11142.19,11142.19,-30,Current,0,,0.058,650.33,
+INV-202610-010149,C0266,2026-10-01,2026-11-15,12951.23,12951.23,-15,Current,0,,0.05,649.94,
+INV-202610-008395,C0131,2026-10-01,2026-10-31,15515.57,15515.57,0,Current,0,,0.041,636.39,
+INV-202610-003876,C0173,2026-10-01,2026-11-30,1230.95,1230.95,-30,Current,0,,0.513,631.25,73% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202610-001826,C0080,2026-10-01,2026-11-15,10423.32,10423.32,-15,Current,0,,0.061,631.25,
+INV-202610-006992,C0104,2026-10-01,2026-10-31,1323.37,1323.37,0,Current,0,,0.472,624.14,69% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202610-003928,C0176,2026-10-01,2026-11-30,8997.42,8997.42,-30,Current,0,,0.069,622.86,
+INV-202610-010687,C0034,2026-10-01,2026-11-15,9334.8,9334.8,-15,Current,0,,0.067,621.24,
+INV-202610-004859,C0217,2026-10-01,2026-11-15,2120.36,2120.36,-15,Current,0,,0.292,619.99,55% of balance overdue; paying 17 days later than a year ago
+INV-202610-008157,C0140,2026-10-01,2026-10-31,718.71,718.71,0,Current,0,,0.851,611.88,75% of invoices paid 30+ days late; at 118% of credit limit; 50% of balance overdue
+INV-202610-000514,C0024,2026-10-01,2026-11-15,10909.54,10909.54,-15,Current,0,,0.056,610.5,
+INV-202610-006249,C0276,2026-10-01,2026-10-31,8803.38,8803.38,0,Current,0,,0.069,605.4,
+INV-202610-005249,C0232,2026-10-01,2026-11-30,2206.08,2206.08,-30,Current,0,,0.271,597.47,43% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202610-006680,C0294,2026-10-01,2026-10-31,7590.28,7590.28,0,Current,0,,0.078,590.63,
+INV-202610-010662,C0166,2026-10-01,2026-10-16,4798.06,4798.06,15,1-30,0,,0.123,589.35,100% of balance overdue; 46% of invoices paid 30+ days late
+INV-202610-002942,C0130,2026-10-01,2026-11-15,10589.29,10589.29,-15,Current,0,,0.056,588.74,
+INV-202610-007202,C0063,2026-10-01,2026-10-16,6816.7,6816.7,15,1-30,0,,0.086,586.06,100% of balance overdue; 30% of invoices paid 30+ days late
+INV-202610-002602,C0114,2026-10-01,2026-10-31,1548.91,1548.91,0,Current,0,,0.376,582.13,36% of invoices paid 30+ days late; 50% of balance overdue
+INV-202610-011174,C0244,2026-10-01,2026-10-31,11549.41,11549.41,0,Current,0,,0.05,581.22,
+INV-202610-005721,C0252,2026-10-01,2026-10-31,2670.04,2670.04,0,Current,0,,0.216,576.25,46% of invoices paid 30+ days late
+INV-202610-007044,C0118,2026-10-01,2026-10-31,977.94,977.94,0,Current,0,,0.587,573.67,72% of invoices paid 30+ days late; 41% of balance overdue
+INV-202609-007947,C0104,2026-09-01,2026-10-01,5302.95,5302.95,30,1-30,0,,0.108,571.37,69% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202610-005014,C0223,2026-10-01,2026-11-30,9128.85,9128.85,-30,Current,0,,0.062,569.84,
+INV-202610-000317,C0015,2026-10-01,2026-11-15,11241.76,11241.76,-15,Current,0,,0.051,569.45,
+INV-202609-011034,C0257,2026-09-01,2026-10-01,2343.39,2343.39,30,1-30,0,,0.239,560.1,paying 26 days later than a year ago; 50% of balance overdue; 33% of invoices paid 30+ days late
+INV-202610-009403,C0076,2026-10-01,2026-10-31,11289.93,11289.93,0,Current,0,,0.049,547.85,
+INV-202610-002888,C0128,2026-10-01,2026-10-31,6503.61,6503.61,0,Current,0,,0.084,544.84,
+INV-202610-006171,C0272,2026-10-01,2026-10-31,7448.27,7448.27,0,Current,0,,0.072,538.29,
+INV-202610-008583,C0171,2026-10-01,2026-10-31,10768.7,10768.7,0,Current,0,,0.05,538.26,
+INV-202610-007496,C0022,2026-10-01,2026-10-31,8871.02,8871.02,0,Current,0,,0.06,530.74,
+INV-202610-010008,C0240,2026-10-01,2026-11-30,2562.89,2562.89,-30,Current,0,,0.205,525.53,29% of invoices paid 30+ days late; paying 14 days later than a year ago
+INV-202610-006728,C0296,2026-10-01,2026-10-31,1277.98,1277.98,0,Current,0,,0.411,524.79,paying 27 days later than a year ago; 50% of balance overdue
+INV-202609-008766,C0029,2026-09-01,2026-10-16,21285.81,21285.81,15,1-30,0,,0.025,522.78,50% of balance overdue
+INV-202610-010703,C0053,2026-10-01,2026-10-31,9975.29,9975.29,0,Current,0,,0.052,519.99,
+INV-202608-000968,C0043,2026-08-01,2026-09-30,9218.11,9218.11,31,31-60,0,,0.056,517.34,67% of invoices paid 30+ days late; at 82% of credit limit
+INV-202610-007740,C0244,2026-10-01,2026-10-31,10208.62,10208.62,0,Current,0,,0.051,517.11,
+INV-202610-004650,C0208,2026-10-01,2026-11-15,9871.2,9871.2,-15,Current,0,,0.052,510.53,
+INV-202608-006465,C0285,2026-08-01,2026-08-31,1140.41,1140.41,61,61-90,0,,0.442,504.07,paying 53 days later than a year ago; 67% of balance overdue; at 122% of credit limit
+INV-202610-008003,C0201,2026-10-01,2026-10-31,2997.18,2997.18,0,Current,0,,0.168,503.6,27% of invoices paid 30+ days late
+INV-202610-006821,C0300,2026-10-01,2026-10-31,10801.93,10801.93,0,Current,0,,0.046,501.93,
+INV-202610-006006,C0265,2026-10-01,2026-11-30,7283.58,7283.58,-30,Current,0,,0.069,500.9,
+INV-202610-008026,C0177,2026-10-01,2026-10-31,6952.18,6952.18,0,Current,0,,0.072,500.71,
+INV-202609-010909,C0247,2026-09-01,2026-10-31,1140.84,1140.84,0,Current,1,Amount does not match PO,0.439,500.5,open dispute: Amount does not match PO
+INV-202609-000188,C0009,2026-09-01,2026-10-31,856.53,856.53,0,Current,0,,0.583,499.72,77% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202609-006466,C0285,2026-09-01,2026-10-01,1066.77,1066.77,30,1-30,0,,0.462,492.74,paying 53 days later than a year ago; 67% of balance overdue; at 122% of credit limit
+INV-202610-001812,C0079,2026-10-01,2026-11-15,12337.38,12337.38,-15,Current,0,,0.039,481.48,
+INV-202610-009925,C0066,2026-10-01,2026-11-15,11591.07,11591.07,-15,Current,0,,0.041,479.64,
+INV-202610-006149,C0271,2026-10-01,2026-10-31,7688.77,7688.77,0,Current,0,,0.061,471.41,
+INV-202610-009686,C0109,2026-10-01,2026-10-31,7302.11,7302.11,0,Current,0,,0.064,469.33,
+INV-202610-007767,C0264,2026-10-01,2026-10-31,6407.04,6407.04,0,Current,0,,0.073,468.6,
+INV-202609-001942,C0086,2026-09-01,2026-10-31,980.25,980.25,0,Current,0,,0.477,467.43,paying 25 days later than a year ago
+INV-202610-009475,C0062,2026-10-01,2026-10-31,1317.5,1317.5,0,Current,0,,0.354,466.23,paying 25 days later than a year ago; 37% of balance overdue
+INV-202610-011307,C0066,2026-10-01,2026-11-15,11213.49,11213.49,-15,Current,0,,0.041,464.84,
+INV-202609-006727,C0296,2026-09-01,2026-10-01,1277.98,1277.98,30,1-30,1,Amount does not match PO,0.363,463.46,open dispute: Amount does not match PO; paying 27 days later than a year ago; 50% of balance overdue
+INV-202610-009493,C0151,2026-10-01,2026-10-16,12872.39,12872.39,15,1-30,0,,0.036,462.23,100% of balance overdue
+INV-202610-002641,C0116,2026-10-01,2026-10-31,10039.05,10039.05,0,Current,0,,0.045,449.25,
+INV-202610-X025127,C9331,2026-10-01,2026-10-31,2901.47,2901.47,0,Current,0,,0.153,443.61,"new / one-off account, no payment history"
+INV-202610-002207,C0097,2026-10-01,2026-10-31,6527.3,6527.3,0,Current,0,,0.065,421.41,
+INV-202610-004235,C0190,2026-10-01,2026-11-15,9150.02,9150.02,-15,Current,0,,0.046,418.78,
+INV-202610-009628,C0253,2026-10-01,2026-11-30,8963.29,8963.29,-30,Current,0,,0.046,416.73,
+INV-202610-003504,C0156,2026-10-01,2026-10-31,6380.35,6380.35,0,Current,0,,0.065,414.29,
+INV-202609-001924,C0085,2026-09-01,2026-10-16,1239.62,1239.62,15,1-30,0,,0.33,408.94,69% of invoices paid 30+ days late; 66% of balance overdue; 3 broken promise(s) to pay
+INV-202610-000189,C0009,2026-10-01,2026-11-30,856.53,856.53,-30,Current,0,,0.475,406.88,77% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202610-009429,C0203,2026-10-01,2026-11-15,3053.35,3053.35,-15,Current,0,,0.13,398.14,51% of balance overdue
+INV-202609-006744,C0297,2026-09-01,2026-10-16,3008.94,3008.94,15,1-30,0,,0.132,397.56,paying 33 days later than a year ago; 54% of balance overdue; at 81% of credit limit
+INV-202608-003234,C0144,2026-08-01,2026-09-30,1821.92,1821.92,31,31-60,1,Amount does not match PO,0.212,385.9,open dispute: Amount does not match PO; 45% of invoices paid 30+ days late; at 86% of credit limit
+INV-202609-001963,C0087,2026-09-01,2026-10-01,7419.4,7419.4,30,1-30,0,,0.05,373.9,paying 17 days later than a year ago
+INV-202610-002973,C0131,2026-10-01,2026-10-31,8668.35,8668.35,0,Current,0,,0.042,366.79,
+INV-202610-001943,C0086,2026-10-01,2026-11-30,975.85,975.85,-30,Current,0,,0.371,361.74,paying 25 days later than a year ago
+INV-202610-008428,C0209,2026-10-01,2026-11-15,7359.25,7359.25,-15,Current,0,,0.048,356.25,
+INV-202609-002687,C0118,2026-09-01,2026-10-01,2138.86,2138.86,30,1-30,0,,0.166,354.35,72% of invoices paid 30+ days late; 41% of balance overdue
+INV-202610-000587,C0027,2026-10-01,2026-10-31,8093.29,8093.29,0,Current,0,,0.044,353.57,
+INV-202610-005601,C0247,2026-10-01,2026-11-30,4566.39,4566.39,-30,Current,0,,0.077,352.56,
+INV-202608-000458,C0021,2026-08-01,2026-09-15,8589.28,8589.28,46,31-60,0,,0.04,346.53,paying 28 days later than a year ago; 42% of balance overdue
+INV-202609-008197,C0240,2026-09-01,2026-10-31,1153.61,1153.61,0,Current,0,,0.294,339.73,29% of invoices paid 30+ days late; paying 14 days later than a year ago
+INV-202610-000385,C0018,2026-10-01,2026-10-31,434.43,434.43,0,Current,0,,0.773,335.77,69% of invoices paid 30+ days late; at 156% of credit limit; 50% of balance overdue
+INV-202610-006331,C0279,2026-10-01,2026-10-31,1390.21,1390.21,0,Current,0,,0.24,333.85,46% of invoices paid 30+ days late
+INV-202609-009873,C0050,2026-09-01,2026-10-01,3735.95,3735.95,30,1-30,0,,0.089,332.34,43% of invoices paid 30+ days late; at 82% of credit limit
+INV-202609-005737,C0253,2026-09-01,2026-10-31,4564.24,4564.24,0,Current,0,,0.073,331.68,
+INV-202610-006798,C0299,2026-10-01,2026-10-31,5987.97,5987.97,0,Current,0,,0.054,326.3,
+INV-202610-001664,C0073,2026-10-01,2026-10-31,5298.07,5298.07,0,Current,0,,0.061,322.04,
+INV-202610-002814,C0125,2026-10-01,2026-10-31,908.51,908.51,0,Current,0,,0.344,312.8,67% of invoices paid 30+ days late
+INV-202609-000406,C0019,2026-09-01,2026-10-31,3204.53,3204.53,0,Current,0,,0.097,311.93,
+INV-202609-006490,C0286,2026-09-01,2026-10-16,5018.79,5018.79,15,1-30,0,,0.062,309.99,50% of balance overdue
+INV-202610-003813,C0170,2026-10-01,2026-11-15,5147.48,5147.48,-15,Current,0,,0.06,309.63,
+INV-202610-010827,C0128,2026-10-01,2026-10-31,3564.3,3564.3,0,Current,0,,0.086,307.91,
+INV-202610-X025156,C9210,2026-10-01,2026-10-31,1966.64,1966.64,0,Current,0,,0.153,301.15,"new / one-off account, no payment history"
+INV-202610-009816,C0027,2026-10-01,2026-10-31,6810.5,6810.5,0,Current,0,,0.044,300.28,
+INV-202610-X024853,C9010,2026-10-01,2026-10-31,1843.67,1843.67,0,Current,0,,0.151,277.7,"new / one-off account, no payment history"
+INV-202610-007425,C0045,2026-10-01,2026-11-15,5380.4,5380.4,-15,Current,0,,0.051,275.0,
+INV-202608-001100,C0048,2026-08-01,2026-09-30,17641.97,17641.97,31,31-60,0,,0.015,262.98,paying 17 days later than a year ago; at 87% of credit limit
+INV-202609-001794,C0078,2026-09-01,2026-10-01,1040.76,1040.76,30,1-30,0,,0.249,258.91,"at 289% of credit limit; 93% of balance overdue; new / one-off account, no payment history"
+INV-202608-003988,C0179,2026-08-01,2026-09-30,3995.13,3995.13,31,31-60,0,,0.065,257.78,54% of invoices paid 30+ days late; at 90% of credit limit
+INV-202610-000753,C0034,2026-10-01,2026-11-15,3684.67,3684.67,-15,Current,0,,0.07,257.36,
+INV-202608-008506,C0088,2026-08-01,2026-09-30,10922.75,10922.75,31,31-60,0,,0.023,256.39,paying 18 days later than a year ago; at 93% of credit limit
+INV-202610-002040,C0090,2026-10-01,2026-11-15,5331.95,5331.95,-15,Current,0,,0.048,255.41,
+INV-202608-001793,C0078,2026-08-01,2026-08-31,1040.76,1040.76,61,61-90,0,,0.235,244.29,"at 289% of credit limit; 93% of balance overdue; new / one-off account, no payment history"
+INV-202609-008258,C0287,2026-09-01,2026-10-01,1157.11,1157.11,30,1-30,0,,0.208,240.96,paying 24 days later than a year ago; 36% of invoices paid 30+ days late; 50% of balance overdue
+INV-202609-000677,C0031,2026-09-01,2026-10-01,1249.58,1249.58,30,1-30,0,,0.19,237.19,67% of invoices paid 30+ days late; 50% of balance overdue
+INV-202610-003458,C0154,2026-10-01,2026-10-16,1218.21,1218.21,15,1-30,1,Amount does not match PO,0.191,232.75,open dispute: Amount does not match PO; 100% of balance overdue
+INV-202610-008198,C0240,2026-10-01,2026-11-30,1076.89,1076.89,-30,Current,0,,0.213,229.43,29% of invoices paid 30+ days late; paying 14 days later than a year ago
+INV-202610-005738,C0253,2026-10-01,2026-11-30,4564.24,4564.24,-30,Current,0,,0.048,219.96,
+INV-202610-000541,C0025,2026-10-01,2026-10-31,2715.68,2715.68,0,Current,0,,0.081,218.93,
+INV-202609-008156,C0140,2026-09-01,2026-10-01,472.27,472.27,30,1-30,0,,0.462,217.96,75% of invoices paid 30+ days late; at 118% of credit limit; 50% of balance overdue
+INV-202609-006656,C0293,2026-09-01,2026-10-16,1889.35,1889.35,15,1-30,1,Amount does not match PO,0.115,216.82,open dispute: Amount does not match PO; 51% of balance overdue
+INV-202610-001481,C0065,2026-10-01,2026-10-31,902.84,902.84,0,Current,1,Amount does not match PO,0.236,213.11,open dispute: Amount does not match PO
+INV-202608-001980,C0088,2026-08-01,2026-09-30,8844.84,8844.84,31,31-60,0,,0.024,210.02,paying 18 days later than a year ago; at 93% of credit limit
+INV-202610-006657,C0293,2026-10-01,2026-11-15,1815.88,1815.88,-15,Current,0,,0.113,205.89,51% of balance overdue
+INV-202610-X024956,C9209,2026-10-01,2026-10-31,1423.98,1423.98,0,Current,0,,0.143,203.02,"new / one-off account, no payment history"
+INV-202610-004533,C0203,2026-10-01,2026-11-15,1422.71,1422.71,-15,Current,0,,0.135,192.5,51% of balance overdue
+INV-202610-010026,C0123,2026-10-01,2026-10-16,4107.52,4107.52,15,1-30,0,,0.046,190.72,100% of balance overdue
+INV-202610-008125,C0153,2026-10-01,2026-10-31,530.42,530.42,0,Current,1,Amount does not match PO,0.359,190.19,open dispute: Amount does not match PO
+INV-202609-007545,C0040,2026-09-01,2026-10-16,1019.99,1019.99,15,1-30,0,,0.185,188.24,67% of invoices paid 30+ days late; 49% of balance overdue
+INV-202610-005029,C0224,2026-10-01,2026-10-31,3778.49,3778.49,0,Current,0,,0.049,184.17,
+INV-202610-007394,C0227,2026-10-01,2026-10-31,3089.84,3089.84,0,Current,0,,0.059,183.68,
+INV-202609-004858,C0217,2026-09-01,2026-10-16,2599.53,2599.53,15,1-30,0,,0.069,179.78,55% of balance overdue; paying 17 days later than a year ago
+INV-202609-003618,C0161,2026-09-01,2026-10-01,5041.24,2219.32,30,1-30,1,PO number missing,0.08,177.86,open dispute: PO number missing; paying 24 days later than a year ago
+INV-202610-010354,C0116,2026-10-01,2026-10-31,3738.99,3738.99,0,Current,0,,0.047,176.35,
+INV-202609-007158,C0029,2026-09-01,2026-10-16,6713.45,6713.45,15,1-30,0,,0.026,175.56,50% of balance overdue
+INV-202610-010910,C0247,2026-10-01,2026-11-30,2104.82,2104.82,-30,Current,0,,0.08,169.11,
+INV-202610-003597,C0160,2026-10-01,2026-10-31,3261.37,3261.37,0,Current,0,,0.051,166.9,
+INV-202610-002440,C0107,2026-10-01,2026-11-15,1960.1,1960.1,-15,Current,0,,0.085,166.68,
+INV-202610-007299,C0025,2026-10-01,2026-10-31,2008.64,2008.64,0,Current,0,,0.082,164.45,
+INV-202609-011246,C0046,2026-09-01,2026-10-01,5389.86,5389.86,30,1-30,0,,0.03,163.92,paying 14 days later than a year ago
+INV-202609-001771,C0077,2026-09-01,2026-10-16,2769.94,2769.94,15,1-30,0,,0.054,150.78,50% of balance overdue
+INV-202610-004581,C0205,2026-10-01,2026-10-16,344.51,344.51,15,1-30,0,,0.436,150.22,100% of balance overdue; at 144% of credit limit; paying 22 days later than a year ago
+INV-202608-004283,C0192,2026-08-01,2026-09-30,1494.46,1494.46,31,31-60,0,,0.099,148.0,75% of invoices paid 30+ days late; 5 broken promise(s) to pay
+INV-202609-010775,C0169,2026-09-01,2026-10-31,1138.74,1138.74,0,Current,0,,0.13,147.59,at 86% of credit limit
+INV-202609-000384,C0018,2026-09-01,2026-10-01,434.43,434.43,30,1-30,0,,0.332,144.33,69% of invoices paid 30+ days late; at 156% of credit limit; 50% of balance overdue
+INV-202610-009751,C0099,2026-10-01,2026-10-31,1778.94,1778.94,0,Current,0,,0.077,136.53,
+INV-202609-001450,C0064,2026-09-01,2026-10-31,1313.07,1313.07,0,Current,0,,0.103,135.03,
+INV-202610-005515,C0243,2026-10-01,2026-10-31,1449.51,1449.51,0,Current,0,,0.092,133.3,
+INV-202610-010933,C0037,2026-10-01,2026-10-16,18276.3,11398.51,15,1-30,0,,0.011,127.5,100% of balance overdue
+INV-202610-001282,C0056,2026-10-01,2026-11-15,1869.57,1869.57,-15,Current,0,,0.068,126.81,
+INV-202610-000604,C0028,2026-10-01,2026-11-15,1336.28,1336.28,-15,Current,0,,0.095,126.62,51% of balance overdue
+INV-202609-001346,C0059,2026-09-01,2026-10-31,1309.88,1309.88,0,Current,0,,0.096,125.88,
+INV-202610-007085,C0232,2026-10-01,2026-11-30,434.97,434.97,-30,Current,0,,0.289,125.74,43% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202609-002601,C0114,2026-09-01,2026-10-01,1548.91,1548.91,30,1-30,0,,0.081,125.3,36% of invoices paid 30+ days late; 50% of balance overdue
+INV-202610-005757,C0254,2026-10-01,2026-11-15,451.34,451.34,-15,Current,0,,0.272,122.62,43% of invoices paid 30+ days late; 49% of balance overdue; 2 broken promise(s) to pay
+INV-202609-010486,C0253,2026-09-01,2026-10-31,1575.31,1575.31,0,Current,0,,0.077,120.94,
+INV-202610-001021,C0045,2026-10-01,2026-11-15,2257.51,2257.51,-15,Current,0,,0.054,120.81,
+INV-202610-001903,C0084,2026-10-01,2026-10-31,1197.7,1197.7,0,Current,0,,0.096,114.74,
+INV-202610-006618,C0291,2026-10-01,2026-10-31,408.31,408.31,0,Current,0,,0.274,111.87,69% of invoices paid 30+ days late
+INV-202610-005587,C0246,2026-10-01,2026-11-30,2455.25,2455.25,-30,Current,0,,0.045,110.25,
+INV-202610-000634,C0029,2026-10-01,2026-11-15,754.27,754.27,-15,Current,0,,0.143,107.83,50% of balance overdue
+INV-202610-002859,C0127,2026-10-01,2026-11-30,1666.46,1666.46,-30,Current,0,,0.064,107.44,
+INV-202609-008965,C0249,2026-09-01,2026-10-01,1449.71,612.83,30,1-30,0,,0.164,100.31,79% of invoices paid 30+ days late; 48% of balance overdue; at 89% of credit limit
+INV-202610-009972,C0066,2026-10-01,2026-11-15,2186.2,2186.2,-15,Current,0,,0.045,98.89,
+INV-202610-003372,C0150,2026-10-01,2026-10-31,1171.55,1171.55,0,Current,0,,0.084,98.18,
+INV-202610-010994,C0076,2026-10-01,2026-10-31,1785.71,1785.71,0,Current,0,,0.054,95.54,
+INV-202608-003874,C0173,2026-08-01,2026-09-30,1230.95,1230.95,31,31-60,0,,0.076,93.12,73% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202609-003320,C0148,2026-09-01,2026-10-31,1333.35,1333.35,0,Current,0,,0.069,92.03,
+INV-202610-010776,C0169,2026-10-01,2026-11-30,1039.03,1039.03,-30,Current,0,,0.088,91.62,at 86% of credit limit
+INV-202610-001451,C0064,2026-10-01,2026-11-30,1313.07,1313.07,-30,Current,0,,0.069,90.54,
+INV-202610-011134,C0137,2026-10-01,2026-11-30,2278.34,2278.34,-30,Current,0,,0.039,88.64,
+INV-202610-X025107,C9030,2026-10-01,2026-10-31,674.09,674.09,0,Current,0,,0.131,88.23,"new / one-off account, no payment history"
+INV-202610-001347,C0059,2026-10-01,2026-11-30,1309.88,1309.88,-30,Current,0,,0.064,84.19,
+INV-202609-009428,C0203,2026-09-01,2026-10-16,3166.88,3166.88,15,1-30,0,,0.026,83.9,51% of balance overdue
+INV-202610-008277,C0022,2026-10-01,2026-10-31,1220.25,1220.25,0,Current,0,,0.066,80.98,
+INV-202610-006778,C0298,2026-10-01,2026-11-30,1000.49,1000.49,-30,Current,0,,0.08,79.61,
+INV-202610-010130,C0300,2026-10-01,2026-10-31,1539.15,1539.15,0,Current,0,,0.052,79.31,
+INV-202610-009140,C0022,2026-10-01,2026-10-31,1139.21,1139.21,0,Current,0,,0.067,75.88,
+INV-202610-003907,C0175,2026-10-01,2026-11-15,1295.88,1295.88,-15,Current,0,,0.057,73.59,
+INV-202610-010534,C0196,2026-10-01,2026-10-31,1238.62,1238.62,0,Current,0,,0.058,72.34,
+INV-202610-005983,C0264,2026-10-01,2026-10-31,869.22,869.22,0,Current,0,,0.081,70.46,
+INV-202610-003657,C0163,2026-10-01,2026-10-16,1067.51,1067.51,15,1-30,0,,0.063,66.86,100% of balance overdue
+INV-202610-002417,C0106,2026-10-01,2026-10-31,1091.12,1091.12,0,Current,0,,0.057,61.97,
+INV-202610-003321,C0148,2026-10-01,2026-11-30,1333.35,1333.35,-30,Current,0,,0.046,60.95,
+INV-202610-006035,C0266,2026-10-01,2026-11-15,1019.38,1019.38,-15,Current,0,,0.057,58.5,
+INV-202610-004413,C0197,2026-10-01,2026-10-31,996.28,996.28,0,Current,0,,0.058,57.63,
+INV-202610-002657,C0117,2026-10-01,2026-11-15,482.34,482.34,-15,Current,0,,0.116,55.93,49% of balance overdue
+INV-202610-010487,C0253,2026-10-01,2026-11-30,1050.86,1050.86,-30,Current,0,,0.052,54.74,
+INV-202610-X024862,C9161,2026-10-01,2026-10-31,420.58,420.58,0,Current,0,,0.128,54.04,"new / one-off account, no payment history"
+INV-202609-009791,C0292,2026-09-01,2026-10-31,448.55,448.55,0,Current,0,,0.117,52.34,
+INV-202608-X024883,C9368,2026-08-01,2026-08-31,858.75,858.75,61,61-90,0,,0.058,50.01,"100% of balance overdue; new / one-off account, no payment history"
+INV-202610-010722,C0300,2026-10-01,2026-10-31,892.73,892.73,0,Current,0,,0.053,47.34,
+INV-202610-X024815,C9385,2026-10-01,2026-10-31,346.67,346.67,0,Current,0,,0.128,44.42,"new / one-off account, no payment history"
+INV-202608-010006,C0240,2026-08-01,2026-09-30,2179.34,2179.34,31,31-60,0,,0.02,43.23,29% of invoices paid 30+ days late; paying 14 days later than a year ago
+INV-202608-001941,C0086,2026-08-01,2026-09-30,975.85,975.85,31,31-60,0,,0.044,42.73,paying 25 days later than a year ago
+INV-202610-005798,C0256,2026-10-01,2026-11-15,984.87,984.87,-15,Current,0,,0.043,42.2,
+INV-202610-011116,C0245,2026-10-01,2026-10-31,498.44,498.44,0,Current,0,,0.08,39.7,
+INV-202609-004532,C0203,2026-09-01,2026-10-16,1422.71,1422.71,15,1-30,0,,0.028,39.36,51% of balance overdue
+INV-202610-009792,C0292,2026-10-01,2026-11-30,448.55,448.55,-30,Current,0,,0.079,35.27,
+INV-202609-005616,C0248,2026-09-01,2026-10-31,517.56,517.56,0,Current,0,,0.065,33.87,
+INV-202610-005188,C0230,2026-10-01,2026-11-15,685.04,685.04,-15,Current,0,,0.049,33.45,
+INV-202610-010112,C0097,2026-10-01,2026-10-31,441.44,441.44,0,Current,0,,0.074,32.78,
+INV-202610-005617,C0248,2026-10-01,2026-11-30,747.82,747.82,-30,Current,0,,0.042,31.74,
+INV-202609-005756,C0254,2026-09-01,2026-10-16,432.71,432.71,15,1-30,0,,0.064,27.55,43% of invoices paid 30+ days late; 49% of balance overdue; 2 broken promise(s) to pay
+INV-202609-000603,C0028,2026-09-01,2026-10-16,1390.16,1390.16,15,1-30,0,,0.019,25.91,51% of balance overdue
+INV-202610-001244,C0054,2026-10-01,2026-10-31,429.02,429.02,0,Current,0,,0.059,25.42,
+INV-202609-X024793,C9088,2026-09-01,2026-10-01,2426.07,1045.16,30,1-30,0,,0.024,24.99,"100% of balance overdue; new / one-off account, no payment history"
+INV-202610-007923,C0168,2026-10-01,2026-10-31,593.15,593.15,0,Current,0,,0.04,23.9,
+INV-202609-000633,C0029,2026-09-01,2026-10-16,754.27,754.27,15,1-30,0,,0.029,22.21,50% of balance overdue
+INV-202610-002391,C0105,2026-10-01,2026-10-31,430.12,430.12,0,Current,0,,0.051,22.13,
+INV-202608-008196,C0240,2026-08-01,2026-09-30,1015.94,1015.94,31,31-60,0,,0.021,21.01,29% of invoices paid 30+ days late; paying 14 days later than a year ago
+INV-202610-001362,C0060,2026-10-01,2026-10-31,448.61,448.61,0,Current,0,,0.046,20.65,
+INV-202610-000024,C0001,2026-10-01,2026-11-30,457.28,457.28,-30,Current,0,,0.043,19.85,
+INV-202610-001864,C0082,2026-10-01,2026-11-15,389.83,389.83,-15,Current,0,,0.051,19.82,
+INV-202610-006193,C0273,2026-10-01,2026-11-15,386.32,386.32,-15,Current,0,,0.048,18.37,
+INV-202608-007083,C0232,2026-08-01,2026-09-30,434.97,434.97,31,31-60,0,,0.031,13.33,43% of invoices paid 30+ days late; 2 broken promise(s) to pay
+INV-202609-002656,C0117,2026-09-01,2026-10-16,460.23,460.23,15,1-30,0,,0.023,10.75,49% of balance overdue
