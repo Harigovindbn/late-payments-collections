@@ -186,3 +186,12 @@ output/            summary, backtest report, worklists, monthly KPIs, cash impac
 - The replay is conservative in two ways. Invoices still open on 31 Oct have no actual pay date to improve on, and treatments act at month-end, not weekly.
 - "Invoices not issued" is bad debt avoided, not new cash. The cash saving is the cost of serving those accounts.
 - 391 one-off accounts each have a single invoice and no payment history. The model handles them with a "no history" flag.
+
+## How this was built
+
+Built with AI assistance (Claude) for code generation and drafting. I defined the business problem, requirements, rules and analysis approach, and reviewed and validated all outputs.
+
+## Author
+
+**Hari** · MSc in Artificial Intelligence · aspiring Business Analyst
+[GitHub](https://github.com/Harigovindbn) · [LinkedIn](https://www.linkedin.com/in/harigovind-b-nair-7b99b0373/)
